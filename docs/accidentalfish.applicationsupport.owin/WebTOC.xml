@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="cc7686b3-3f7b-4b1a-90ea-a68f0858b606" Title="Namespaces" Url="html/R_Project_Documentation.htm">
+    <HelpTOCNode Id="46c078ef-4179-476e-9bc4-4ed2dd096489" Title="AccidentalFish.ApplicationSupport.Owin" Url="html/N_AccidentalFish_ApplicationSupport_Owin.htm">
+      <HelpTOCNode Id="d4f2640f-f2cc-4d50-984d-e0d33c37a486" Title="AbstractHttpCorrelator Class" Url="html/T_AccidentalFish_ApplicationSupport_Owin_AbstractHttpCorrelator.htm">
+        <HelpTOCNode Title="AbstractHttpCorrelator Constructor " Url="html/M_AccidentalFish_ApplicationSupport_Owin_AbstractHttpCorrelator__ctor.htm" />
+        <HelpTOCNode Id="4449ce9a-31e5-499e-bbbf-6a76a8feee3a" Title="AbstractHttpCorrelator Properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Owin_AbstractHttpCorrelator.htm">
+          <HelpTOCNode Title="HttpCorrelationHeaderKey Property " Url="html/P_AccidentalFish_ApplicationSupport_Owin_AbstractHttpCorrelator_HttpCorrelationHeaderKey.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="7ed393bc-6b71-42bd-9393-eeeda54febb4" Title="AbstractHttpCorrelator Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Owin_AbstractHttpCorrelator.htm">
+          <HelpTOCNode Title="UseHttpTrackingIdInRequestAndResponse Method " Url="html/M_AccidentalFish_ApplicationSupport_Owin_AbstractHttpCorrelator_UseHttpTrackingIdInRequestAndResponse.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="a3878de3-08bc-4bb5-a955-0df79f4153f0" Title="HttpCorrelator Class" Url="html/T_AccidentalFish_ApplicationSupport_Owin_HttpCorrelator.htm">
+        <HelpTOCNode Title="HttpCorrelator Constructor " Url="html/M_AccidentalFish_ApplicationSupport_Owin_HttpCorrelator__ctor.htm" />
+        <HelpTOCNode Title="HttpCorrelator Properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Owin_HttpCorrelator.htm" />
+        <HelpTOCNode Id="10677a71-6718-491f-827c-de2d21a77994" Title="HttpCorrelator Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Owin_HttpCorrelator.htm">
+          <HelpTOCNode Title="Invoke Method " Url="html/M_AccidentalFish_ApplicationSupport_Owin_HttpCorrelator_Invoke.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="87d252a7-67ca-499b-a96b-7bc58a2c147f" Title="HttpLogger Class" Url="html/T_AccidentalFish_ApplicationSupport_Owin_HttpLogger.htm">
+        <HelpTOCNode Title="HttpLogger Constructor " Url="html/M_AccidentalFish_ApplicationSupport_Owin_HttpLogger__ctor.htm" />
+        <HelpTOCNode Id="ba4e4893-fdfe-4a63-8ae2-7520a13b6742" Title="HttpLogger Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Owin_HttpLogger.htm">
+          <HelpTOCNode Title="Invoke Method " Url="html/M_AccidentalFish_ApplicationSupport_Owin_HttpLogger_Invoke.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="eeab439d-be2f-49a9-8b32-bc3846726c80" Title="IAppBuilderExtensions Class" Url="html/T_AccidentalFish_ApplicationSupport_Owin_IAppBuilderExtensions.htm">
+        <HelpTOCNode Id="15821f51-c0dd-4d59-9522-25b7be4fdf41" Title="IAppBuilderExtensions Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Owin_IAppBuilderExtensions.htm">
+          <HelpTOCNode Title="UseHttpCorrelator Method " Url="html/M_AccidentalFish_ApplicationSupport_Owin_IAppBuilderExtensions_UseHttpCorrelator.htm" />
+          <HelpTOCNode Title="UseHttpLogger Method " Url="html/M_AccidentalFish_ApplicationSupport_Owin_IAppBuilderExtensions_UseHttpLogger.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="1c634c18-a266-434d-8949-aad8bba37dd2" Title="IHttpLoggerRepository Interface" Url="html/T_AccidentalFish_ApplicationSupport_Owin_IHttpLoggerRepository.htm">
+        <HelpTOCNode Id="b26777b2-458b-4ef7-bfe3-5cd07d31a72d" Title="IHttpLoggerRepository Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Owin_IHttpLoggerRepository.htm">
+          <HelpTOCNode Title="Log Method " Url="html/M_AccidentalFish_ApplicationSupport_Owin_IHttpLoggerRepository_Log.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="6a5a0571-66f6-4567-8ade-afa9efb9230c" Title="AccidentalFish.ApplicationSupport.Owin.Azure" Url="html/N_AccidentalFish_ApplicationSupport_Owin_Azure.htm">
+      <HelpTOCNode Id="ec67b908-e551-48ac-b0ec-9a94835cc624" Title="AzureHttpLoggerRepository Class" Url="html/T_AccidentalFish_ApplicationSupport_Owin_Azure_AzureHttpLoggerRepository.htm">
+        <HelpTOCNode Title="AzureHttpLoggerRepository Constructor " Url="html/M_AccidentalFish_ApplicationSupport_Owin_Azure_AzureHttpLoggerRepository__ctor.htm" />
+        <HelpTOCNode Id="982ddc0b-a573-4ef4-8756-44b1b256c189" Title="AzureHttpLoggerRepository Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Owin_Azure_AzureHttpLoggerRepository.htm">
+          <HelpTOCNode Title="Log Method " Url="html/M_AccidentalFish_ApplicationSupport_Owin_Azure_AzureHttpLoggerRepository_Log.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="60b30125-7885-429f-8436-2eea86892c7f" Title="IAppBuilderExtensions Class" Url="html/T_AccidentalFish_ApplicationSupport_Owin_Azure_IAppBuilderExtensions.htm">
+        <HelpTOCNode Id="4b292daa-0687-4e1f-b24b-c0733caf8255" Title="IAppBuilderExtensions Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Owin_Azure_IAppBuilderExtensions.htm">
+          <HelpTOCNode Title="UseAzureHttpLogger Method " Url="html/M_AccidentalFish_ApplicationSupport_Owin_Azure_IAppBuilderExtensions_UseAzureHttpLogger.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="LogByDateGranularityEnum Enumeration" Url="html/T_AccidentalFish_ApplicationSupport_Owin_Azure_LogByDateGranularityEnum.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="d3517429-98ae-41a8-90c1-5b6e875bf3a7" Title="AccidentalFish.ApplicationSupport.Owin.Mvc" Url="html/N_AccidentalFish_ApplicationSupport_Owin_Mvc.htm">
+      <HelpTOCNode Id="79de49ab-bc6a-4204-a56f-dc8f65e998e8" Title="HttpCorrelatorAttribute Class" Url="html/T_AccidentalFish_ApplicationSupport_Owin_Mvc_HttpCorrelatorAttribute.htm">
+        <HelpTOCNode Id="f84f60d3-3a34-43e1-a982-85a488b5c108" Title="HttpCorrelatorAttribute Constructor " Url="html/Overload_AccidentalFish_ApplicationSupport_Owin_Mvc_HttpCorrelatorAttribute__ctor.htm">
+          <HelpTOCNode Title="HttpCorrelatorAttribute Constructor " Url="html/M_AccidentalFish_ApplicationSupport_Owin_Mvc_HttpCorrelatorAttribute__ctor.htm" />
+          <HelpTOCNode Title="HttpCorrelatorAttribute Constructor (String)" Url="html/M_AccidentalFish_ApplicationSupport_Owin_Mvc_HttpCorrelatorAttribute__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="HttpCorrelatorAttribute Properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Owin_Mvc_HttpCorrelatorAttribute.htm" />
+        <HelpTOCNode Id="0a7c4043-6222-491b-b4ee-19693dffeee6" Title="HttpCorrelatorAttribute Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Owin_Mvc_HttpCorrelatorAttribute.htm">
+          <HelpTOCNode Title="OnActionExecuting Method " Url="html/M_AccidentalFish_ApplicationSupport_Owin_Mvc_HttpCorrelatorAttribute_OnActionExecuting.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="58bb10bd-1e5f-466e-a5bf-5cad7c1cfbbc" Title="AccidentalFish.ApplicationSupport.Owin.WebApi" Url="html/N_AccidentalFish_ApplicationSupport_Owin_WebApi.htm">
+      <HelpTOCNode Id="34edc7a1-67b8-412a-9f72-22ce207df054" Title="HttpCorrelatorAttribute Class" Url="html/T_AccidentalFish_ApplicationSupport_Owin_WebApi_HttpCorrelatorAttribute.htm">
+        <HelpTOCNode Id="07453bd8-601d-471f-8c8b-a27749b518ee" Title="HttpCorrelatorAttribute Constructor " Url="html/Overload_AccidentalFish_ApplicationSupport_Owin_WebApi_HttpCorrelatorAttribute__ctor.htm">
+          <HelpTOCNode Title="HttpCorrelatorAttribute Constructor " Url="html/M_AccidentalFish_ApplicationSupport_Owin_WebApi_HttpCorrelatorAttribute__ctor.htm" />
+          <HelpTOCNode Title="HttpCorrelatorAttribute Constructor (String)" Url="html/M_AccidentalFish_ApplicationSupport_Owin_WebApi_HttpCorrelatorAttribute__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="HttpCorrelatorAttribute Properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Owin_WebApi_HttpCorrelatorAttribute.htm" />
+        <HelpTOCNode Id="d5c47f9e-5f0e-4bab-8b5c-198c900bb17a" Title="HttpCorrelatorAttribute Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Owin_WebApi_HttpCorrelatorAttribute.htm">
+          <HelpTOCNode Title="OnActionExecuting Method " Url="html/M_AccidentalFish_ApplicationSupport_Owin_WebApi_HttpCorrelatorAttribute_OnActionExecuting.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>
