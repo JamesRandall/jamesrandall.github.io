@@ -1,17 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <HelpKI>
-  <HelpKINode Title="AbstractHttpCorrelator class">
-    <HelpKINode Title="AbstractHttpCorrelator Class" Url="html/T_AccidentalFish_ApplicationSupport_Owin_AbstractHttpCorrelator.htm" />
-    <HelpKINode Title="about AbstractHttpCorrelator class" Url="html/T_AccidentalFish_ApplicationSupport_Owin_AbstractHttpCorrelator.htm" />
-    <HelpKINode Title="constructor" Url="html/M_AccidentalFish_ApplicationSupport_Owin_AbstractHttpCorrelator__ctor.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Owin_AbstractHttpCorrelator.htm" />
-    <HelpKINode Title="properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Owin_AbstractHttpCorrelator.htm" />
-  </HelpKINode>
-  <HelpKINode Title="AbstractHttpCorrelator.AbstractHttpCorrelator constructor" Url="html/M_AccidentalFish_ApplicationSupport_Owin_AbstractHttpCorrelator__ctor.htm" />
-  <HelpKINode Title="AbstractHttpCorrelator.HttpCorrelationHeaderKey property" Url="html/P_AccidentalFish_ApplicationSupport_Owin_AbstractHttpCorrelator_HttpCorrelationHeaderKey.htm" />
-  <HelpKINode Title="AbstractHttpCorrelator.UseHttpTrackingIdInRequestAndResponse method" Url="html/M_AccidentalFish_ApplicationSupport_Owin_AbstractHttpCorrelator_UseHttpTrackingIdInRequestAndResponse.htm" />
   <HelpKINode Title="AccidentalFish.ApplicationSupport.Owin namespace" Url="html/N_AccidentalFish_ApplicationSupport_Owin.htm" />
-  <HelpKINode Title="AccidentalFish.ApplicationSupport.Owin.AbstractHttpCorrelator class" Url="html/T_AccidentalFish_ApplicationSupport_Owin_AbstractHttpCorrelator.htm" />
   <HelpKINode Title="AccidentalFish.ApplicationSupport.Owin.Azure namespace" Url="html/N_AccidentalFish_ApplicationSupport_Owin_Azure.htm" />
   <HelpKINode Title="AccidentalFish.ApplicationSupport.Owin.Azure.AzureHttpLoggerRepository class" Url="html/T_AccidentalFish_ApplicationSupport_Owin_Azure_AzureHttpLoggerRepository.htm" />
   <HelpKINode Title="AccidentalFish.ApplicationSupport.Owin.Azure.IAppBuilderExtensions class" Url="html/T_AccidentalFish_ApplicationSupport_Owin_Azure_IAppBuilderExtensions.htm" />
@@ -34,7 +23,6 @@
   <HelpKINode Title="AzureHttpLoggerRepository.Log method" Url="html/M_AccidentalFish_ApplicationSupport_Owin_Azure_AzureHttpLoggerRepository_Log.htm" />
   <HelpKINode Title="Day enumeration member" Url="html/T_AccidentalFish_ApplicationSupport_Owin_Azure_LogByDateGranularityEnum.htm" />
   <HelpKINode Title="Hour enumeration member" Url="html/T_AccidentalFish_ApplicationSupport_Owin_Azure_LogByDateGranularityEnum.htm" />
-  <HelpKINode Title="HttpCorrelationHeaderKey property" Url="html/P_AccidentalFish_ApplicationSupport_Owin_AbstractHttpCorrelator_HttpCorrelationHeaderKey.htm" />
   <HelpKINode Title="HttpCorrelator class">
     <HelpKINode Title="HttpCorrelator Class" Url="html/T_AccidentalFish_ApplicationSupport_Owin_HttpCorrelator.htm" />
     <HelpKINode Title="about HttpCorrelator class" Url="html/T_AccidentalFish_ApplicationSupport_Owin_HttpCorrelator.htm" />
@@ -45,20 +33,20 @@
   <HelpKINode Title="HttpCorrelator.HttpCorrelator constructor" Url="html/M_AccidentalFish_ApplicationSupport_Owin_HttpCorrelator__ctor.htm" />
   <HelpKINode Title="HttpCorrelator.Invoke method" Url="html/M_AccidentalFish_ApplicationSupport_Owin_HttpCorrelator_Invoke.htm" />
   <HelpKINode Title="HttpCorrelatorAttribute class">
-    <HelpKINode Title="HttpCorrelatorAttribute Class" Url="html/T_AccidentalFish_ApplicationSupport_Owin_WebApi_HttpCorrelatorAttribute.htm" />
     <HelpKINode Title="HttpCorrelatorAttribute Class" Url="html/T_AccidentalFish_ApplicationSupport_Owin_Mvc_HttpCorrelatorAttribute.htm" />
-    <HelpKINode Title="about HttpCorrelatorAttribute class" Url="html/T_AccidentalFish_ApplicationSupport_Owin_WebApi_HttpCorrelatorAttribute.htm" />
+    <HelpKINode Title="HttpCorrelatorAttribute Class" Url="html/T_AccidentalFish_ApplicationSupport_Owin_WebApi_HttpCorrelatorAttribute.htm" />
     <HelpKINode Title="about HttpCorrelatorAttribute class" Url="html/T_AccidentalFish_ApplicationSupport_Owin_Mvc_HttpCorrelatorAttribute.htm" />
-    <HelpKINode Title="constructor" Url="html/Overload_AccidentalFish_ApplicationSupport_Owin_Mvc_HttpCorrelatorAttribute__ctor.htm" />
+    <HelpKINode Title="about HttpCorrelatorAttribute class" Url="html/T_AccidentalFish_ApplicationSupport_Owin_WebApi_HttpCorrelatorAttribute.htm" />
     <HelpKINode Title="constructor" Url="html/Overload_AccidentalFish_ApplicationSupport_Owin_WebApi_HttpCorrelatorAttribute__ctor.htm" />
-    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Owin_Mvc_HttpCorrelatorAttribute.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_AccidentalFish_ApplicationSupport_Owin_Mvc_HttpCorrelatorAttribute__ctor.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Owin_WebApi_HttpCorrelatorAttribute.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Owin_Mvc_HttpCorrelatorAttribute.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Owin_WebApi_HttpCorrelatorAttribute.htm" />
     <HelpKINode Title="properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Owin_Mvc_HttpCorrelatorAttribute.htm" />
   </HelpKINode>
   <HelpKINode Title="HttpCorrelatorAttribute.HttpCorrelatorAttribute constructor">
-    <HelpKINode Title="HttpCorrelatorAttribute Constructor " Url="html/Overload_AccidentalFish_ApplicationSupport_Owin_WebApi_HttpCorrelatorAttribute__ctor.htm" />
     <HelpKINode Title="HttpCorrelatorAttribute Constructor " Url="html/Overload_AccidentalFish_ApplicationSupport_Owin_Mvc_HttpCorrelatorAttribute__ctor.htm" />
+    <HelpKINode Title="HttpCorrelatorAttribute Constructor " Url="html/Overload_AccidentalFish_ApplicationSupport_Owin_WebApi_HttpCorrelatorAttribute__ctor.htm" />
   </HelpKINode>
   <HelpKINode Title="HttpCorrelatorAttribute.OnActionExecuting method">
     <HelpKINode Title="HttpCorrelatorAttribute.OnActionExecuting Method " Url="html/M_AccidentalFish_ApplicationSupport_Owin_Mvc_HttpCorrelatorAttribute_OnActionExecuting.htm" />
@@ -75,8 +63,8 @@
   <HelpKINode Title="IAppBuilderExtensions class">
     <HelpKINode Title="IAppBuilderExtensions Class" Url="html/T_AccidentalFish_ApplicationSupport_Owin_Azure_IAppBuilderExtensions.htm" />
     <HelpKINode Title="IAppBuilderExtensions Class" Url="html/T_AccidentalFish_ApplicationSupport_Owin_IAppBuilderExtensions.htm" />
-    <HelpKINode Title="about IAppBuilderExtensions class" Url="html/T_AccidentalFish_ApplicationSupport_Owin_IAppBuilderExtensions.htm" />
     <HelpKINode Title="about IAppBuilderExtensions class" Url="html/T_AccidentalFish_ApplicationSupport_Owin_Azure_IAppBuilderExtensions.htm" />
+    <HelpKINode Title="about IAppBuilderExtensions class" Url="html/T_AccidentalFish_ApplicationSupport_Owin_IAppBuilderExtensions.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Owin_IAppBuilderExtensions.htm" />
     <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Owin_Azure_IAppBuilderExtensions.htm" />
   </HelpKINode>
@@ -107,5 +95,4 @@
   <HelpKINode Title="UseAzureHttpLogger method" Url="html/M_AccidentalFish_ApplicationSupport_Owin_Azure_IAppBuilderExtensions_UseAzureHttpLogger.htm" />
   <HelpKINode Title="UseHttpCorrelator method" Url="html/M_AccidentalFish_ApplicationSupport_Owin_IAppBuilderExtensions_UseHttpCorrelator.htm" />
   <HelpKINode Title="UseHttpLogger method" Url="html/M_AccidentalFish_ApplicationSupport_Owin_IAppBuilderExtensions_UseHttpLogger.htm" />
-  <HelpKINode Title="UseHttpTrackingIdInRequestAndResponse method" Url="html/M_AccidentalFish_ApplicationSupport_Owin_AbstractHttpCorrelator_UseHttpTrackingIdInRequestAndResponse.htm" />
 </HelpKI>
