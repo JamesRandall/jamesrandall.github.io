@@ -1,0 +1,764 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="9800c140-ac72-4596-bb1d-d61508fc9513" Title="Namespaces" Url="html/R_Project_Documentation.htm">
+    <HelpTOCNode Id="5a92e59d-40f3-4272-b57f-74929ecac6c4" Title="AccidentalFish.ApplicationSupport.Core" Url="html/N_AccidentalFish_ApplicationSupport_Core.htm">
+      <HelpTOCNode Id="355e5989-3e2c-49d7-8326-a1adb33ffd22" Title="Bootstrapper Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Bootstrapper.htm">
+        <HelpTOCNode Id="11e16a28-9948-4b49-b4f7-96c5e8702e3c" Title="Bootstrapper Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Bootstrapper.htm">
+          <HelpTOCNode Id="00721496-f03f-44e3-bc8f-358fb1169d1c" Title="RegisterDependencies Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Bootstrapper_RegisterDependencies.htm">
+            <HelpTOCNode Title="RegisterDependencies Method (IDependencyResolver)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Bootstrapper_RegisterDependencies.htm" />
+            <HelpTOCNode Title="RegisterDependencies Method (IDependencyResolver, Type, Bootstrapper.LoggerTypeEnum, String)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Bootstrapper_RegisterDependencies_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="UseCore Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Bootstrapper_UseCore.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="Bootstrapper.LoggerTypeEnum Enumeration" Url="html/T_AccidentalFish_ApplicationSupport_Core_Bootstrapper_LoggerTypeEnum.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="af65e425-b6f5-43d1-95b1-8306f775d72a" Title="AccidentalFish.ApplicationSupport.Core.Alerts" Url="html/N_AccidentalFish_ApplicationSupport_Core_Alerts.htm">
+      <HelpTOCNode Id="dc6c5650-1a49-472a-8b23-1a798469e9ae" Title="IAlertSender Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Alerts_IAlertSender.htm">
+        <HelpTOCNode Id="5c93296b-9390-4bed-81e7-0c925065e7d1" Title="IAlertSender Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Alerts_IAlertSender.htm">
+          <HelpTOCNode Title="SendAsync Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Alerts_IAlertSender_SendAsync.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="2feec601-7ec2-4c01-98e9-df90cf88f5b3" Title="AccidentalFish.ApplicationSupport.Core.BackoffProcesses" Url="html/N_AccidentalFish_ApplicationSupport_Core_BackoffProcesses.htm">
+      <HelpTOCNode Id="db7e0fcf-fbf5-4be7-a212-6d9e4efab0ce" Title="BackoffQueueProcessor(T) Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffQueueProcessor_1.htm">
+        <HelpTOCNode Id="ccb106c9-cb91-4af4-923c-f95ae647da32" Title="BackoffQueueProcessor(T) Constructor " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffQueueProcessor_1__ctor.htm">
+          <HelpTOCNode Title="BackoffQueueProcessor(T) Constructor (IAsynchronousBackoffPolicy, IAsynchronousQueue(T))" Url="html/M_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffQueueProcessor_1__ctor.htm" />
+          <HelpTOCNode Title="BackoffQueueProcessor(T) Constructor (IAsynchronousBackoffPolicy, IAsynchronousQueue(T), ILogger)" Url="html/M_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffQueueProcessor_1__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="ed2ec7a8-fb15-4795-879f-7bf16dc50857" Title="BackoffQueueProcessor(T) Properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffQueueProcessor_1.htm">
+          <HelpTOCNode Title="ComponentIdentity Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffQueueProcessor_1_ComponentIdentity.htm" />
+          <HelpTOCNode Title="Logger Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffQueueProcessor_1_Logger.htm" />
+          <HelpTOCNode Title="Queue Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffQueueProcessor_1_Queue.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="735670c0-6d42-4688-b04c-262be621aaeb" Title="BackoffQueueProcessor(T) Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffQueueProcessor_1.htm">
+          <HelpTOCNode Title="HandleRecievedItemAsync Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffQueueProcessor_1_HandleRecievedItemAsync.htm" />
+          <HelpTOCNode Title="StartAsync Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffQueueProcessor_1_StartAsync.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="552e942c-6e23-4fae-a448-945b3fce4017" Title="BackoffSubscriptionProcessor(T) Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffSubscriptionProcessor_1.htm">
+        <HelpTOCNode Id="5a0f6c32-2e78-4388-a5a4-751faa8af76e" Title="BackoffSubscriptionProcessor(T) Constructor " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffSubscriptionProcessor_1__ctor.htm">
+          <HelpTOCNode Title="BackoffSubscriptionProcessor(T) Constructor (IAsynchronousBackoffPolicy, IAsynchronousSubscription(T))" Url="html/M_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffSubscriptionProcessor_1__ctor.htm" />
+          <HelpTOCNode Title="BackoffSubscriptionProcessor(T) Constructor (IAsynchronousBackoffPolicy, IAsynchronousSubscription(T), ILogger)" Url="html/M_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffSubscriptionProcessor_1__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="d6d74edf-b789-4ed3-ba41-bf4f3798c327" Title="BackoffSubscriptionProcessor(T) Properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffSubscriptionProcessor_1.htm">
+          <HelpTOCNode Title="ComponentIdentity Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffSubscriptionProcessor_1_ComponentIdentity.htm" />
+          <HelpTOCNode Title="Logger Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffSubscriptionProcessor_1_Logger.htm" />
+          <HelpTOCNode Title="Subscription Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffSubscriptionProcessor_1_Subscription.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="b1d521c6-d35b-41f4-ad69-41b83ec07764" Title="BackoffSubscriptionProcessor(T) Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffSubscriptionProcessor_1.htm">
+          <HelpTOCNode Title="HandleRecievedItemAsync Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffSubscriptionProcessor_1_HandleRecievedItemAsync.htm" />
+          <HelpTOCNode Title="StartAsync Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffSubscriptionProcessor_1_StartAsync.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="84f9933a-025b-4d83-88ec-e4a575d08b4c" Title="AccidentalFish.ApplicationSupport.Core.Blobs" Url="html/N_AccidentalFish_ApplicationSupport_Core_Blobs.htm">
+      <HelpTOCNode Id="161dfc4f-4cf0-492a-bbd3-56f75b9cd7e8" Title="IAsynchronousBlockBlobRepository Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Blobs_IAsynchronousBlockBlobRepository.htm">
+        <HelpTOCNode Id="fb5a3602-b460-4502-9240-495e2f8bc9a0" Title="IAsynchronousBlockBlobRepository Properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Blobs_IAsynchronousBlockBlobRepository.htm">
+          <HelpTOCNode Title="Endpoint Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Blobs_IAsynchronousBlockBlobRepository_Endpoint.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="03aea56b-de9d-411f-b406-e5970fe95461" Title="IAsynchronousBlockBlobRepository Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Blobs_IAsynchronousBlockBlobRepository.htm">
+          <HelpTOCNode Title="Get Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Blobs_IAsynchronousBlockBlobRepository_Get.htm" />
+          <HelpTOCNode Id="0fb167a7-7682-4c9d-9b27-10e6fc825a99" Title="Upload Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Blobs_IAsynchronousBlockBlobRepository_Upload.htm">
+            <HelpTOCNode Title="Upload Method (String, Stream)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Blobs_IAsynchronousBlockBlobRepository_Upload.htm" />
+            <HelpTOCNode Title="Upload Method (String, Stream, Action(String), Action(String, Exception))" Url="html/M_AccidentalFish_ApplicationSupport_Core_Blobs_IAsynchronousBlockBlobRepository_Upload_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="UploadAsync Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Blobs_IAsynchronousBlockBlobRepository_UploadAsync.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="32c537da-fc42-4152-881a-b54058d4b88d" Title="IBlob Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Blobs_IBlob.htm">
+        <HelpTOCNode Id="7376b8e6-4bb4-4b41-873b-9b41540c5a91" Title="IBlob Properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Blobs_IBlob.htm">
+          <HelpTOCNode Title="Url Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Blobs_IBlob_Url.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="ca00cf66-6602-4d88-81aa-ca69b0433558" Title="IBlob Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Blobs_IBlob.htm">
+          <HelpTOCNode Title="DeleteAsync Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Blobs_IBlob_DeleteAsync.htm" />
+          <HelpTOCNode Title="DownloadAsync Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Blobs_IBlob_DownloadAsync.htm" />
+          <HelpTOCNode Title="DownloadBytesAsync Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Blobs_IBlob_DownloadBytesAsync.htm" />
+          <HelpTOCNode Id="e07d1a24-6628-4302-8342-0ca49fc0a690" Title="DownloadString Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Blobs_IBlob_DownloadString.htm">
+            <HelpTOCNode Title="DownloadString Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Blobs_IBlob_DownloadString.htm" />
+            <HelpTOCNode Title="DownloadString Method (Encoding)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Blobs_IBlob_DownloadString_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="15d1dadb-cdf2-41bb-a0a5-3e18dac3b877" Title="DownloadStringAsync Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Blobs_IBlob_DownloadStringAsync.htm">
+            <HelpTOCNode Title="DownloadStringAsync Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Blobs_IBlob_DownloadStringAsync.htm" />
+            <HelpTOCNode Title="DownloadStringAsync Method (Encoding)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Blobs_IBlob_DownloadStringAsync_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="GetUploadStream Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Blobs_IBlob_GetUploadStream.htm" />
+          <HelpTOCNode Title="UploadBytesAsync Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Blobs_IBlob_UploadBytesAsync.htm" />
+          <HelpTOCNode Title="UploadImageAsync Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Blobs_IBlob_UploadImageAsync.htm" />
+          <HelpTOCNode Title="UploadStreamAsync Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Blobs_IBlob_UploadStreamAsync.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="320a2a35-e4c2-4b2a-bfd7-5b705fde058d" Title="IBlobRepositoryFactory Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Blobs_IBlobRepositoryFactory.htm">
+        <HelpTOCNode Id="b755a744-f851-44e4-83ca-7e00ea8e3fb6" Title="IBlobRepositoryFactory Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Blobs_IBlobRepositoryFactory.htm">
+          <HelpTOCNode Id="ea43e07f-6620-452d-bb20-d44eb04bde00" Title="CreateAsynchronousBlockBlobRepository Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Blobs_IBlobRepositoryFactory_CreateAsynchronousBlockBlobRepository.htm">
+            <HelpTOCNode Title="CreateAsynchronousBlockBlobRepository Method (String)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Blobs_IBlobRepositoryFactory_CreateAsynchronousBlockBlobRepository.htm" />
+            <HelpTOCNode Title="CreateAsynchronousBlockBlobRepository Method (String, String)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Blobs_IBlobRepositoryFactory_CreateAsynchronousBlockBlobRepository_1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="a4f7f6d2-d64a-4d0e-9e74-b71c5603de6e" Title="AccidentalFish.ApplicationSupport.Core.Components" Url="html/N_AccidentalFish_ApplicationSupport_Core_Components.htm">
+      <HelpTOCNode Id="bc01b931-2b32-4a93-9e7d-87fbb29c3c37" Title="AbstractApplicationComponent Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_AbstractApplicationComponent.htm">
+        <HelpTOCNode Title="AbstractApplicationComponent Constructor " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_AbstractApplicationComponent__ctor.htm" />
+        <HelpTOCNode Id="7b3da7fd-bdf4-4de2-82bb-304d6393d7c4" Title="AbstractApplicationComponent Properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Components_AbstractApplicationComponent.htm">
+          <HelpTOCNode Title="ComponentIdentity Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Components_AbstractApplicationComponent_ComponentIdentity.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="AbstractApplicationComponent Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Components_AbstractApplicationComponent.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="9fde00c4-3817-47c0-97fc-c36c44359342" Title="ApplicationResourceSettingNameProvider Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_ApplicationResourceSettingNameProvider.htm">
+        <HelpTOCNode Title="ApplicationResourceSettingNameProvider Constructor " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ApplicationResourceSettingNameProvider__ctor.htm" />
+        <HelpTOCNode Id="43995b55-93ca-47d8-97ec-8e430c67129d" Title="ApplicationResourceSettingNameProvider Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Components_ApplicationResourceSettingNameProvider.htm">
+          <HelpTOCNode Title="DefaultBlobContainerName Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ApplicationResourceSettingNameProvider_DefaultBlobContainerName.htm" />
+          <HelpTOCNode Title="DefaultBrokeredMessageQueueName Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ApplicationResourceSettingNameProvider_DefaultBrokeredMessageQueueName.htm" />
+          <HelpTOCNode Title="DefaultLeaseBlockName Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ApplicationResourceSettingNameProvider_DefaultLeaseBlockName.htm" />
+          <HelpTOCNode Title="DefaultQueueName Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ApplicationResourceSettingNameProvider_DefaultQueueName.htm" />
+          <HelpTOCNode Title="DefaultSubscriptionName Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ApplicationResourceSettingNameProvider_DefaultSubscriptionName.htm" />
+          <HelpTOCNode Title="DefaultTableName Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ApplicationResourceSettingNameProvider_DefaultTableName.htm" />
+          <HelpTOCNode Title="DefaultTopicName Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ApplicationResourceSettingNameProvider_DefaultTopicName.htm" />
+          <HelpTOCNode Title="ServiceBusConnectionString Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ApplicationResourceSettingNameProvider_ServiceBusConnectionString.htm" />
+          <HelpTOCNode Title="SettingName Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ApplicationResourceSettingNameProvider_SettingName.htm" />
+          <HelpTOCNode Title="SqlConnectionString Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ApplicationResourceSettingNameProvider_SqlConnectionString.htm" />
+          <HelpTOCNode Title="SqlContextType Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ApplicationResourceSettingNameProvider_SqlContextType.htm" />
+          <HelpTOCNode Title="StorageAccountConnectionString Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ApplicationResourceSettingNameProvider_StorageAccountConnectionString.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="aa868b32-8141-4d18-9aed-e10a3f38d5b1" Title="ComponentConfiguration Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_ComponentConfiguration.htm">
+        <HelpTOCNode Title="ComponentConfiguration Constructor " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ComponentConfiguration__ctor.htm" />
+        <HelpTOCNode Id="9ff26393-afe6-4f6c-ba29-e79607c65dc4" Title="ComponentConfiguration Properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Components_ComponentConfiguration.htm">
+          <HelpTOCNode Title="ComponentIdentity Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Components_ComponentConfiguration_ComponentIdentity.htm" />
+          <HelpTOCNode Title="Instances Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Components_ComponentConfiguration_Instances.htm" />
+          <HelpTOCNode Title="RestartEvaluator Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Components_ComponentConfiguration_RestartEvaluator.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ComponentConfiguration Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Components_ComponentConfiguration.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="0f92485b-7a63-4055-8b0b-92a856745954" Title="ComponentIdentity Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_ComponentIdentity.htm">
+        <HelpTOCNode Id="82dfb7c0-df84-495b-b310-8deaced0e5e3" Title="ComponentIdentity Constructor " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Components_ComponentIdentity__ctor.htm">
+          <HelpTOCNode Title="ComponentIdentity Constructor (String)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ComponentIdentity__ctor.htm" />
+          <HelpTOCNode Title="ComponentIdentity Constructor (Type)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ComponentIdentity__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ComponentIdentity Properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Components_ComponentIdentity.htm" />
+        <HelpTOCNode Title="ComponentIdentity Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Components_ComponentIdentity.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="5a46d972-1bc8-4b4b-a201-7124939d5ea2" Title="ComponentIdentityAttribute Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_ComponentIdentityAttribute.htm">
+        <HelpTOCNode Title="ComponentIdentityAttribute Constructor " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ComponentIdentityAttribute__ctor.htm" />
+        <HelpTOCNode Id="5b02097e-f0a6-4766-9ed0-d42045991ce5" Title="ComponentIdentityAttribute Properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Components_ComponentIdentityAttribute.htm">
+          <HelpTOCNode Title="FullyQualifiedName Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Components_ComponentIdentityAttribute_FullyQualifiedName.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ComponentIdentityAttribute Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Components_ComponentIdentityAttribute.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="ef25b52b-78d0-4c42-b41d-013b89940c7d" Title="IApplicationComponent Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_IApplicationComponent.htm">
+        <HelpTOCNode Id="a89b315e-9e56-473d-9e1c-a18df9cb793f" Title="IApplicationComponent Properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Components_IApplicationComponent.htm">
+          <HelpTOCNode Title="ComponentIdentity Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Components_IApplicationComponent_ComponentIdentity.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="b61f99ba-5b73-4948-b934-15e3cac5dd94" Title="IApplicationResourceFactory Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory.htm">
+        <HelpTOCNode Id="b9cdfb52-b5a4-4d48-bceb-c5cbb7830590" Title="IApplicationResourceFactory Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory.htm">
+          <HelpTOCNode Id="1d19bacc-62eb-4a8d-b31e-7163232b3912" Title="GetAsyncBlockBlobRepository Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory_GetAsyncBlockBlobRepository.htm">
+            <HelpTOCNode Title="GetAsyncBlockBlobRepository Method (IComponentIdentity)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory_GetAsyncBlockBlobRepository.htm" />
+            <HelpTOCNode Title="GetAsyncBlockBlobRepository Method (String, IComponentIdentity)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory_GetAsyncBlockBlobRepository_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="f887934e-397b-4a25-9c1d-679fd04eb782" Title="GetAsyncQueue Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory_GetAsyncQueue.htm">
+            <HelpTOCNode Title="GetAsyncQueue(T) Method (IComponentIdentity)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory_GetAsyncQueue__1.htm" />
+            <HelpTOCNode Title="GetAsyncQueue(T) Method (String, IComponentIdentity)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory_GetAsyncQueue__1_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="cf7d054f-f962-43bd-9267-d38b8af2e1b7" Title="GetAsyncSubscription Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory_GetAsyncSubscription.htm">
+            <HelpTOCNode Title="GetAsyncSubscription(T) Method (IComponentIdentity)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory_GetAsyncSubscription__1.htm" />
+            <HelpTOCNode Title="GetAsyncSubscription(T) Method (String, IComponentIdentity)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory_GetAsyncSubscription__1_1.htm" />
+            <HelpTOCNode Title="GetAsyncSubscription(T) Method (String, String, IComponentIdentity)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory_GetAsyncSubscription__1_2.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="c9fc8d6c-4a49-49ea-8bd0-50bbcbe8f9b9" Title="GetAsyncTopic Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory_GetAsyncTopic.htm">
+            <HelpTOCNode Title="GetAsyncTopic(T) Method (IComponentIdentity)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory_GetAsyncTopic__1.htm" />
+            <HelpTOCNode Title="GetAsyncTopic(T) Method (String, IComponentIdentity)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory_GetAsyncTopic__1_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="84011d5e-4b58-46f4-835a-0bf09b99b7fd" Title="GetLeaseManager Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory_GetLeaseManager.htm">
+            <HelpTOCNode Title="GetLeaseManager(T) Method (IComponentIdentity)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory_GetLeaseManager__1.htm" />
+            <HelpTOCNode Title="GetLeaseManager(T) Method (String, IComponentIdentity)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory_GetLeaseManager__1_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="533a0037-2837-4d08-a0c0-b698afd62c54" Title="GetQueue Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory_GetQueue.htm">
+            <HelpTOCNode Title="GetQueue(T) Method (IComponentIdentity)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory_GetQueue__1.htm" />
+            <HelpTOCNode Title="GetQueue(T) Method (String, IComponentIdentity)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory_GetQueue__1_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="GetUnitOfWorkFactory Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory_GetUnitOfWorkFactory.htm" />
+          <HelpTOCNode Title="Setting Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory_Setting.htm" />
+          <HelpTOCNode Title="SqlConnectionString Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory_SqlConnectionString.htm" />
+          <HelpTOCNode Title="StorageAccountConnectionString Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory_StorageAccountConnectionString.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="9781f27f-62e6-4823-ae36-0d416065152f" Title="IApplicationResourceSettingNameProvider Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingNameProvider.htm">
+        <HelpTOCNode Id="35f82b59-c26d-40aa-9477-5ac36f3c7f79" Title="IApplicationResourceSettingNameProvider Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingNameProvider.htm">
+          <HelpTOCNode Title="DefaultBlobContainerName Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingNameProvider_DefaultBlobContainerName.htm" />
+          <HelpTOCNode Title="DefaultBrokeredMessageQueueName Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingNameProvider_DefaultBrokeredMessageQueueName.htm" />
+          <HelpTOCNode Title="DefaultLeaseBlockName Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingNameProvider_DefaultLeaseBlockName.htm" />
+          <HelpTOCNode Title="DefaultQueueName Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingNameProvider_DefaultQueueName.htm" />
+          <HelpTOCNode Title="DefaultSubscriptionName Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingNameProvider_DefaultSubscriptionName.htm" />
+          <HelpTOCNode Title="DefaultTableName Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingNameProvider_DefaultTableName.htm" />
+          <HelpTOCNode Title="DefaultTopicName Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingNameProvider_DefaultTopicName.htm" />
+          <HelpTOCNode Title="ServiceBusConnectionString Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingNameProvider_ServiceBusConnectionString.htm" />
+          <HelpTOCNode Title="SettingName Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingNameProvider_SettingName.htm" />
+          <HelpTOCNode Title="SqlConnectionString Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingNameProvider_SqlConnectionString.htm" />
+          <HelpTOCNode Title="SqlContextType Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingNameProvider_SqlContextType.htm" />
+          <HelpTOCNode Title="StorageAccountConnectionString Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingNameProvider_StorageAccountConnectionString.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="310f6262-1f95-4916-b2c9-3b2839f3a8ad" Title="IApplicationResourceSettingProvider Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingProvider.htm">
+        <HelpTOCNode Id="f582886a-0d8d-42ae-bba3-d302bc56d89d" Title="IApplicationResourceSettingProvider Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingProvider.htm">
+          <HelpTOCNode Title="DefaultBlobContainerName Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingProvider_DefaultBlobContainerName.htm" />
+          <HelpTOCNode Title="DefaultBrokeredMessageQueueName Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingProvider_DefaultBrokeredMessageQueueName.htm" />
+          <HelpTOCNode Title="DefaultLeaseBlockName Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingProvider_DefaultLeaseBlockName.htm" />
+          <HelpTOCNode Title="DefaultQueueName Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingProvider_DefaultQueueName.htm" />
+          <HelpTOCNode Title="DefaultSubscriptionName Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingProvider_DefaultSubscriptionName.htm" />
+          <HelpTOCNode Title="DefaultTableName Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingProvider_DefaultTableName.htm" />
+          <HelpTOCNode Title="DefaultTopicName Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingProvider_DefaultTopicName.htm" />
+          <HelpTOCNode Title="ServiceBusConnectionString Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingProvider_ServiceBusConnectionString.htm" />
+          <HelpTOCNode Title="SqlConnectionString Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingProvider_SqlConnectionString.htm" />
+          <HelpTOCNode Title="SqlContextType Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingProvider_SqlContextType.htm" />
+          <HelpTOCNode Title="StorageAccountConnectionString Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingProvider_StorageAccountConnectionString.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="b61e132e-9ec9-4d4b-94a9-eee13de22bd0" Title="IComponentIdentity Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_IComponentIdentity.htm">
+        <HelpTOCNode Title="IComponentIdentity Properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Components_IComponentIdentity.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="36d162bd-c831-440b-9245-1e5b35c581b9" Title="IHostableComponent Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_IHostableComponent.htm">
+        <HelpTOCNode Title="IHostableComponent Properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Components_IHostableComponent.htm" />
+        <HelpTOCNode Id="e549d7d1-b34f-459a-a36d-2549ce2da7b4" Title="IHostableComponent Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Components_IHostableComponent.htm">
+          <HelpTOCNode Title="StartAsync Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IHostableComponent_StartAsync.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="f717650e-3e2e-4aa2-ab86-6480910cc3d7" Title="MissingComponentIdentityException Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_MissingComponentIdentityException.htm">
+        <HelpTOCNode Title="MissingComponentIdentityException Constructor " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_MissingComponentIdentityException__ctor.htm" />
+        <HelpTOCNode Title="MissingComponentIdentityException Properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Components_MissingComponentIdentityException.htm" />
+        <HelpTOCNode Title="MissingComponentIdentityException Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Components_MissingComponentIdentityException.htm" />
+        <HelpTOCNode Title="MissingComponentIdentityException Events" Url="html/Events_T_AccidentalFish_ApplicationSupport_Core_Components_MissingComponentIdentityException.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="f06e8ff3-14a4-413e-bdee-28bc59759bfc" Title="AccidentalFish.ApplicationSupport.Core.Configuration" Url="html/N_AccidentalFish_ApplicationSupport_Core_Configuration.htm">
+      <HelpTOCNode Id="d217b0a6-906b-4eec-b846-8294dd9f7e30" Title="ApplicationComponent Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent.htm">
+        <HelpTOCNode Title="ApplicationComponent Constructor " Url="html/M_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent__ctor.htm" />
+        <HelpTOCNode Id="b24bbcd5-3619-431d-824d-df319fe532d4" Title="ApplicationComponent Properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent.htm">
+          <HelpTOCNode Title="DbContextType Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_DbContextType.htm" />
+          <HelpTOCNode Title="DefaultBlobContainerAccessType Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_DefaultBlobContainerAccessType.htm" />
+          <HelpTOCNode Title="DefaultBlobContainerName Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_DefaultBlobContainerName.htm" />
+          <HelpTOCNode Title="DefaultBrokeredMessageQueueName Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_DefaultBrokeredMessageQueueName.htm" />
+          <HelpTOCNode Title="DefaultLeaseBlockName Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_DefaultLeaseBlockName.htm" />
+          <HelpTOCNode Title="DefaultQueueName Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_DefaultQueueName.htm" />
+          <HelpTOCNode Title="DefaultSubscriptionName Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_DefaultSubscriptionName.htm" />
+          <HelpTOCNode Title="DefaultTableName Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_DefaultTableName.htm" />
+          <HelpTOCNode Title="DefaultTopicName Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_DefaultTopicName.htm" />
+          <HelpTOCNode Title="Fqn Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_Fqn.htm" />
+          <HelpTOCNode Title="ServiceBusConnectionString Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_ServiceBusConnectionString.htm" />
+          <HelpTOCNode Title="Settings Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_Settings.htm" />
+          <HelpTOCNode Title="SqlServerConnectionString Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_SqlServerConnectionString.htm" />
+          <HelpTOCNode Title="StorageAccountConnectionString Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_StorageAccountConnectionString.htm" />
+          <HelpTOCNode Title="TableData Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_TableData.htm" />
+          <HelpTOCNode Title="Uploads Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_Uploads.htm" />
+          <HelpTOCNode Title="UsesAzureStorage Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_UsesAzureStorage.htm" />
+          <HelpTOCNode Title="UsesServiceBus Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_UsesServiceBus.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ApplicationComponent Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a55dd87d-c151-44ee-ac18-e8b2e79f3a21" Title="ApplicationComponentSetting Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponentSetting.htm">
+        <HelpTOCNode Title="ApplicationComponentSetting Constructor " Url="html/M_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponentSetting__ctor.htm" />
+        <HelpTOCNode Id="94df4327-c244-4617-a6cd-b8f8c9689e99" Title="ApplicationComponentSetting Properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponentSetting.htm">
+          <HelpTOCNode Title="Attributes Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponentSetting_Attributes.htm" />
+          <HelpTOCNode Title="Key Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponentSetting_Key.htm" />
+          <HelpTOCNode Title="ResourceType Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponentSetting_ResourceType.htm" />
+          <HelpTOCNode Title="Value Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponentSetting_Value.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ApplicationComponentSetting Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponentSetting.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d9812604-bb46-4eb9-b2c9-219f00a74ff9" Title="ApplicationConfiguration Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfiguration.htm">
+        <HelpTOCNode Title="ApplicationConfiguration Constructor " Url="html/M_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfiguration__ctor.htm" />
+        <HelpTOCNode Id="8aad1750-f216-4cd4-add7-38a7b92ce182" Title="ApplicationConfiguration Properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfiguration.htm">
+          <HelpTOCNode Title="ApplicationComponents Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfiguration_ApplicationComponents.htm" />
+          <HelpTOCNode Title="ServiceBusConnectionStrings Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfiguration_ServiceBusConnectionStrings.htm" />
+          <HelpTOCNode Title="SqlServerConnectionStrings Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfiguration_SqlServerConnectionStrings.htm" />
+          <HelpTOCNode Title="StorageAccounts Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfiguration_StorageAccounts.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="45f704c1-5f5f-4280-b617-c801178f0f2c" Title="ApplicationConfiguration Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfiguration.htm">
+          <HelpTOCNode Title="FromFile Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfiguration_FromFile.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="7ef39201-4d01-4dd5-8fb1-5cc14b1ab398" Title="ApplicationConfigurationSettings Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfigurationSettings.htm">
+        <HelpTOCNode Title="ApplicationConfigurationSettings Constructor " Url="html/M_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfigurationSettings__ctor.htm" />
+        <HelpTOCNode Id="899786cd-474b-446e-ba2b-673ccfc11e5a" Title="ApplicationConfigurationSettings Properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfigurationSettings.htm">
+          <HelpTOCNode Title="Settings Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfigurationSettings_Settings.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="44b8afd4-1d0e-455d-a47f-c52c763cb011" Title="ApplicationConfigurationSettings Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfigurationSettings.htm">
+          <HelpTOCNode Title="FromFile Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfigurationSettings_FromFile.htm" />
+          <HelpTOCNode Title="FromFiles Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfigurationSettings_FromFiles.htm" />
+          <HelpTOCNode Title="Merge Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfigurationSettings_Merge.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="978a57f4-ff17-4035-b244-766b067e0e7c" Title="ApplicationCorsRule Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationCorsRule.htm">
+        <HelpTOCNode Id="b7d98db9-41de-4cf9-a605-5f7f5bc9b75c" Title="ApplicationCorsRule Constructor " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationCorsRule__ctor.htm">
+          <HelpTOCNode Title="ApplicationCorsRule Constructor " Url="html/M_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationCorsRule__ctor.htm" />
+          <HelpTOCNode Title="ApplicationCorsRule Constructor (XElement)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationCorsRule__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="17145f57-5c69-4781-8d84-90f224cce3d2" Title="ApplicationCorsRule Properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationCorsRule.htm">
+          <HelpTOCNode Title="AllowedHeaders Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationCorsRule_AllowedHeaders.htm" />
+          <HelpTOCNode Title="AllowedOrigins Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationCorsRule_AllowedOrigins.htm" />
+          <HelpTOCNode Title="AllowedVerbs Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationCorsRule_AllowedVerbs.htm" />
+          <HelpTOCNode Title="ApplyToBlobs Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationCorsRule_ApplyToBlobs.htm" />
+          <HelpTOCNode Title="ApplyToQueues Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationCorsRule_ApplyToQueues.htm" />
+          <HelpTOCNode Title="ApplyToTables Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationCorsRule_ApplyToTables.htm" />
+          <HelpTOCNode Title="ExposedHeaders Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationCorsRule_ExposedHeaders.htm" />
+          <HelpTOCNode Title="MaxAgeSeconds Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationCorsRule_MaxAgeSeconds.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ApplicationCorsRule Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationCorsRule.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6c15631d-ab66-4ab1-8c49-a62ea4d26c89" Title="ApplicationStorageAccount Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationStorageAccount.htm">
+        <HelpTOCNode Id="3983d239-b74d-486a-b939-c4048d85d70e" Title="ApplicationStorageAccount Constructor " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationStorageAccount__ctor.htm">
+          <HelpTOCNode Title="ApplicationStorageAccount Constructor " Url="html/M_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationStorageAccount__ctor.htm" />
+          <HelpTOCNode Title="ApplicationStorageAccount Constructor (XElement)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationStorageAccount__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="318ece5c-9fa5-4593-a7aa-938be2ad6e58" Title="ApplicationStorageAccount Properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationStorageAccount.htm">
+          <HelpTOCNode Title="ConnectionString Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationStorageAccount_ConnectionString.htm" />
+          <HelpTOCNode Title="CorsRules Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationStorageAccount_CorsRules.htm" />
+          <HelpTOCNode Title="Fqn Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationStorageAccount_Fqn.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ApplicationStorageAccount Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationStorageAccount.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="BlobContainerPublicAccessTypeEnum Enumeration" Url="html/T_AccidentalFish_ApplicationSupport_Core_Configuration_BlobContainerPublicAccessTypeEnum.htm" />
+      <HelpTOCNode Id="70aa3030-51a8-4a04-b721-e15bc940c428" Title="IConfiguration Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Configuration_IConfiguration.htm">
+        <HelpTOCNode Id="a87be8cf-8592-43af-a901-4e7a093f035f" Title="IConfiguration Properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Configuration_IConfiguration.htm">
+          <HelpTOCNode Title="Item Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_IConfiguration_Item.htm" />
+          <HelpTOCNode Title="ServiceBusConnectionString Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_IConfiguration_ServiceBusConnectionString.htm" />
+          <HelpTOCNode Title="SqlConnectionString Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_IConfiguration_SqlConnectionString.htm" />
+          <HelpTOCNode Title="StorageAccountConnectionString Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_IConfiguration_StorageAccountConnectionString.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="2c15cdf2-aab9-4894-bd71-48576602a197" Title="MissingSettingException Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Configuration_MissingSettingException.htm">
+        <HelpTOCNode Title="MissingSettingException Constructor " Url="html/M_AccidentalFish_ApplicationSupport_Core_Configuration_MissingSettingException__ctor.htm" />
+        <HelpTOCNode Title="MissingSettingException Properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Configuration_MissingSettingException.htm" />
+        <HelpTOCNode Title="MissingSettingException Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Configuration_MissingSettingException.htm" />
+        <HelpTOCNode Title="MissingSettingException Events" Url="html/Events_T_AccidentalFish_ApplicationSupport_Core_Configuration_MissingSettingException.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="8693fb54-1a9c-4f75-a301-931701f3ba56" Title="AccidentalFish.ApplicationSupport.Core.Email" Url="html/N_AccidentalFish_ApplicationSupport_Core_Email.htm">
+      <HelpTOCNode Id="77e9cab2-889a-4818-ae15-61696b99a44d" Title="EmailQueueItem Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Email_EmailQueueItem.htm">
+        <HelpTOCNode Title="EmailQueueItem Constructor " Url="html/M_AccidentalFish_ApplicationSupport_Core_Email_EmailQueueItem__ctor.htm" />
+        <HelpTOCNode Id="c70db638-dd68-43fe-ae20-bc9a3b351129" Title="EmailQueueItem Properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Email_EmailQueueItem.htm">
+          <HelpTOCNode Title="Cc Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Email_EmailQueueItem_Cc.htm" />
+          <HelpTOCNode Title="EmailTemplateId Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Email_EmailQueueItem_EmailTemplateId.htm" />
+          <HelpTOCNode Title="From Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Email_EmailQueueItem_From.htm" />
+          <HelpTOCNode Title="HtmlBody Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Email_EmailQueueItem_HtmlBody.htm" />
+          <HelpTOCNode Title="MergeData Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Email_EmailQueueItem_MergeData.htm" />
+          <HelpTOCNode Title="Subject Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Email_EmailQueueItem_Subject.htm" />
+          <HelpTOCNode Title="TextBody Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Email_EmailQueueItem_TextBody.htm" />
+          <HelpTOCNode Title="To Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Email_EmailQueueItem_To.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="EmailQueueItem Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Email_EmailQueueItem.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="7eba131b-2941-42ff-8e29-f90a2e64906b" Title="IEmailManager Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Email_IEmailManager.htm">
+        <HelpTOCNode Title="IEmailManager Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Email_IEmailManager.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="c1e6b86e-f68e-41d1-823f-0600e68c5117" Title="IEmailProvider Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Email_IEmailProvider.htm">
+        <HelpTOCNode Id="2b8c11c2-5c4f-47a9-b2ec-a40f920e1f13" Title="IEmailProvider Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Email_IEmailProvider.htm">
+          <HelpTOCNode Title="SendAsync Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Email_IEmailProvider_SendAsync.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="f275cb02-fcbe-4014-a859-5c3f21ff7bf7" Title="IEmailQueueDispatcher Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Email_IEmailQueueDispatcher.htm">
+        <HelpTOCNode Id="0bcfc5e7-2a8d-42bb-937a-922a8c6f46db" Title="IEmailQueueDispatcher Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Email_IEmailQueueDispatcher.htm">
+          <HelpTOCNode Id="93f58dab-4e76-4959-9ef2-fc7bf7d7fc63" Title="SendAsync Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Email_IEmailQueueDispatcher_SendAsync.htm">
+            <HelpTOCNode Title="SendAsync Method (IEnumerable(String), IEnumerable(String), String, String, Dictionary(String, String))" Url="html/M_AccidentalFish_ApplicationSupport_Core_Email_IEmailQueueDispatcher_SendAsync.htm" />
+            <HelpTOCNode Title="SendAsync Method (String, String, String, String, Dictionary(String, String))" Url="html/M_AccidentalFish_ApplicationSupport_Core_Email_IEmailQueueDispatcher_SendAsync_2.htm" />
+            <HelpTOCNode Title="SendAsync Method (IEnumerable(String), IEnumerable(String), String, String, String, String)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Email_IEmailQueueDispatcher_SendAsync_1.htm" />
+            <HelpTOCNode Title="SendAsync Method (String, String, String, String, String, String)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Email_IEmailQueueDispatcher_SendAsync_3.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="cbea2142-3524-42a5-89a3-788424f183c6" Title="AccidentalFish.ApplicationSupport.Core.Extensions" Url="html/N_AccidentalFish_ApplicationSupport_Core_Extensions.htm">
+      <HelpTOCNode Id="29937680-41b8-457a-87b7-d1a5df6cb593" Title="StringExtensions Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Extensions_StringExtensions.htm">
+        <HelpTOCNode Id="db8a65db-9826-4c6e-9cf8-6ad6ab435cce" Title="StringExtensions Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Extensions_StringExtensions.htm">
+          <HelpTOCNode Title="Base64Decode Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Extensions_StringExtensions_Base64Decode.htm" />
+          <HelpTOCNode Title="Base64Encode Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Extensions_StringExtensions_Base64Encode.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c10748e0-54c3-4496-a8f0-b63f3edefb00" Title="AccidentalFish.ApplicationSupport.Core.Logging" Url="html/N_AccidentalFish_ApplicationSupport_Core_Logging.htm">
+      <HelpTOCNode Id="ad302575-b5fd-4c13-a25b-20ff498743dc" Title="ICorrelationIdProvider Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Logging_ICorrelationIdProvider.htm">
+        <HelpTOCNode Id="37aeedb9-5c35-46f3-a01e-517cfe2cad33" Title="ICorrelationIdProvider Properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Logging_ICorrelationIdProvider.htm">
+          <HelpTOCNode Title="CorrelationId Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Logging_ICorrelationIdProvider_CorrelationId.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="7fc74556-009f-4e67-97a4-a65452320196" Title="ILogger Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Logging_ILogger.htm">
+        <HelpTOCNode Id="b1023ef7-c4b0-4231-bee6-4b69fde5468f" Title="ILogger Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Logging_ILogger.htm">
+          <HelpTOCNode Id="9abfb594-32a1-4aee-b139-5bc11c1a60aa" Title="DebugAsync Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Logging_ILogger_DebugAsync.htm">
+            <HelpTOCNode Title="DebugAsync Method (String)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Logging_ILogger_DebugAsync.htm" />
+            <HelpTOCNode Title="DebugAsync Method (String, Exception)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Logging_ILogger_DebugAsync_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="b8f3c9d7-24a9-4cd5-bb0c-4c0554889358" Title="Error Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Logging_ILogger_Error.htm">
+            <HelpTOCNode Title="Error Method (String)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Logging_ILogger_Error.htm" />
+            <HelpTOCNode Title="Error Method (String, Exception)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Logging_ILogger_Error_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="334e8ac5-5ad7-4b8d-b926-243c004fbe82" Title="Information Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Logging_ILogger_Information.htm">
+            <HelpTOCNode Title="Information Method (String)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Logging_ILogger_Information.htm" />
+            <HelpTOCNode Title="Information Method (String, Exception)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Logging_ILogger_Information_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="7aa83abb-8ed2-4f68-90b6-0a4aee32139e" Title="Log Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Logging_ILogger_Log.htm">
+            <HelpTOCNode Title="Log Method (LogLevelEnum, String)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Logging_ILogger_Log.htm" />
+            <HelpTOCNode Title="Log Method (LogLevelEnum, String, Exception)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Logging_ILogger_Log_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="301714ba-6060-4e1f-b57d-f0d19a771c50" Title="Warning Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Logging_ILogger_Warning.htm">
+            <HelpTOCNode Title="Warning Method (String)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Logging_ILogger_Warning.htm" />
+            <HelpTOCNode Title="Warning Method (String, Exception)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Logging_ILogger_Warning_1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="4e8428f9-d9b4-436b-bf39-f103d278bcd8" Title="ILoggerExtension Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Logging_ILoggerExtension.htm">
+        <HelpTOCNode Id="e3503e66-19aa-4cb8-8afe-1308ce7864e4" Title="ILoggerExtension Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Logging_ILoggerExtension.htm">
+          <HelpTOCNode Title="BeforeLog Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Logging_ILoggerExtension_BeforeLog.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="5a4ff693-b5ff-4db1-afbc-d02e9559580f" Title="ILoggerFactory Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Logging_ILoggerFactory.htm">
+        <HelpTOCNode Id="042fd365-67d6-49bb-bfd1-905beb417b44" Title="ILoggerFactory Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Logging_ILoggerFactory.htm">
+          <HelpTOCNode Id="953d251c-314b-42d8-8d4d-f5fba7f22085" Title="CreateLongLivedLogger Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Logging_ILoggerFactory_CreateLongLivedLogger.htm">
+            <HelpTOCNode Title="CreateLongLivedLogger Method (IFullyQualifiedName)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Logging_ILoggerFactory_CreateLongLivedLogger.htm" />
+            <HelpTOCNode Title="CreateLongLivedLogger Method (IAsynchronousQueue(LogQueueItem), IFullyQualifiedName, LogLevelEnum)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Logging_ILoggerFactory_CreateLongLivedLogger_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="fe36c3ab-a245-4e51-a2f0-99d5b8973abc" Title="CreateShortLivedLogger Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Logging_ILoggerFactory_CreateShortLivedLogger.htm">
+            <HelpTOCNode Title="CreateShortLivedLogger Method (IFullyQualifiedName)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Logging_ILoggerFactory_CreateShortLivedLogger.htm" />
+            <HelpTOCNode Title="CreateShortLivedLogger Method (IAsynchronousQueue(LogQueueItem), IFullyQualifiedName, LogLevelEnum)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Logging_ILoggerFactory_CreateShortLivedLogger_1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="c26003b5-5097-49cf-809d-30151751b3c5" Title="ILoggerSource Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Logging_ILoggerSource.htm">
+        <HelpTOCNode Title="ILoggerSource Properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Logging_ILoggerSource.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="38a0f83c-4d4a-42d8-a3c2-6c6680b9b50d" Title="LoggerSource Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Logging_LoggerSource.htm">
+        <HelpTOCNode Title="LoggerSource Constructor " Url="html/M_AccidentalFish_ApplicationSupport_Core_Logging_LoggerSource__ctor.htm" />
+        <HelpTOCNode Id="0a825034-e39c-46bd-bda1-b3c797c9fa44" Title="LoggerSource Properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Logging_LoggerSource.htm">
+          <HelpTOCNode Title="FullyQualifiedName Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Logging_LoggerSource_FullyQualifiedName.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="LoggerSource Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Logging_LoggerSource.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="LogLevelEnum Enumeration" Url="html/T_AccidentalFish_ApplicationSupport_Core_Logging_LogLevelEnum.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="f4e5d66b-ebbc-432c-96cb-501f49e70b83" Title="AccidentalFish.ApplicationSupport.Core.Logging.Model" Url="html/N_AccidentalFish_ApplicationSupport_Core_Logging_Model.htm">
+      <HelpTOCNode Id="f9a79dd3-bb9e-4d17-88dd-22dbbf32d41b" Title="LogQueueItem Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Logging_Model_LogQueueItem.htm">
+        <HelpTOCNode Title="LogQueueItem Constructor " Url="html/M_AccidentalFish_ApplicationSupport_Core_Logging_Model_LogQueueItem__ctor.htm" />
+        <HelpTOCNode Id="bb6e860b-309f-4a9f-92e9-891fe55254ed" Title="LogQueueItem Properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Logging_Model_LogQueueItem.htm">
+          <HelpTOCNode Title="CorrelationId Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Logging_Model_LogQueueItem_CorrelationId.htm" />
+          <HelpTOCNode Title="ExceptionName Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Logging_Model_LogQueueItem_ExceptionName.htm" />
+          <HelpTOCNode Title="InnerExceptionName Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Logging_Model_LogQueueItem_InnerExceptionName.htm" />
+          <HelpTOCNode Title="Level Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Logging_Model_LogQueueItem_Level.htm" />
+          <HelpTOCNode Title="LoggedAt Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Logging_Model_LogQueueItem_LoggedAt.htm" />
+          <HelpTOCNode Title="Message Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Logging_Model_LogQueueItem_Message.htm" />
+          <HelpTOCNode Title="RoleIdentifier Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Logging_Model_LogQueueItem_RoleIdentifier.htm" />
+          <HelpTOCNode Title="RoleName Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Logging_Model_LogQueueItem_RoleName.htm" />
+          <HelpTOCNode Title="Source Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Logging_Model_LogQueueItem_Source.htm" />
+          <HelpTOCNode Title="StackTrace Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Logging_Model_LogQueueItem_StackTrace.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="LogQueueItem Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Logging_Model_LogQueueItem.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="aeae1201-4fab-4356-9132-344a4312c0a1" Title="AccidentalFish.ApplicationSupport.Core.Mappers" Url="html/N_AccidentalFish_ApplicationSupport_Core_Mappers.htm">
+      <HelpTOCNode Id="f90f4025-a60b-4ac9-85c6-a67cf538d992" Title="AbstractBidirectionalMapper(T1, T2) Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractBidirectionalMapper_2.htm">
+        <HelpTOCNode Title="AbstractBidirectionalMapper(T1, T2) Constructor " Url="html/M_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractBidirectionalMapper_2__ctor.htm" />
+        <HelpTOCNode Id="0c25705b-444e-4a53-9f23-027e066d2712" Title="AbstractBidirectionalMapper(T1, T2) Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractBidirectionalMapper_2.htm">
+          <HelpTOCNode Id="f56729c6-bb2b-412c-b976-ce40e1cd0993" Title="Map Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractBidirectionalMapper_2_Map.htm">
+            <HelpTOCNode Title="Map Method (IEnumerable(T2))" Url="html/M_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractBidirectionalMapper_2_Map.htm" />
+            <HelpTOCNode Title="Map Method (T2)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractBidirectionalMapper_2_Map_1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="acc81422-079f-4dec-951d-3c58cbdf8528" Title="AbstractMapper(T1, T2) Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractMapper_2.htm">
+        <HelpTOCNode Title="AbstractMapper(T1, T2) Constructor " Url="html/M_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractMapper_2__ctor.htm" />
+        <HelpTOCNode Id="73853f62-7c88-4007-a3ce-49ccdc8dffdb" Title="AbstractMapper(T1, T2) Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractMapper_2.htm">
+          <HelpTOCNode Id="1b17af66-97d0-4a00-ae7f-301a656d7def" Title="Map Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractMapper_2_Map.htm">
+            <HelpTOCNode Title="Map Method (IEnumerable(T1))" Url="html/M_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractMapper_2_Map.htm" />
+            <HelpTOCNode Title="Map Method (T1)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractMapper_2_Map_1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="2e4a4e68-2757-48b0-8a27-00505f42e361" Title="AbstractMapperWithContext(T1, T2, T3) Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractMapperWithContext_3.htm">
+        <HelpTOCNode Title="AbstractMapperWithContext(T1, T2, T3) Constructor " Url="html/M_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractMapperWithContext_3__ctor.htm" />
+        <HelpTOCNode Id="c2cb8bd7-2241-4505-90eb-163fefa52994" Title="AbstractMapperWithContext(T1, T2, T3) Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractMapperWithContext_3.htm">
+          <HelpTOCNode Id="d636786c-e8c6-4253-bf29-fd55ffe67154" Title="Map Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractMapperWithContext_3_Map.htm">
+            <HelpTOCNode Title="Map Method (IEnumerable(T1), T3)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractMapperWithContext_3_Map.htm" />
+            <HelpTOCNode Title="Map Method (IEnumerable(T2), T3)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractMapperWithContext_3_Map_1.htm" />
+            <HelpTOCNode Title="Map Method (T1, T3)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractMapperWithContext_3_Map_2.htm" />
+            <HelpTOCNode Title="Map Method (T2, T3)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractMapperWithContext_3_Map_3.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="0cf1176d-f74f-4ed5-a439-a714e0a8dd11" Title="IBidirectionalMapper(T1, T2) Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Mappers_IBidirectionalMapper_2.htm">
+        <HelpTOCNode Id="42876e9f-91c8-44f8-ad1d-dbeabd3211b5" Title="IBidirectionalMapper(T1, T2) Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Mappers_IBidirectionalMapper_2.htm">
+          <HelpTOCNode Id="3bc8f17a-e8d0-4037-b012-2d57fb831e1a" Title="Map Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Mappers_IBidirectionalMapper_2_Map.htm">
+            <HelpTOCNode Title="Map Method (IEnumerable(T2))" Url="html/M_AccidentalFish_ApplicationSupport_Core_Mappers_IBidirectionalMapper_2_Map.htm" />
+            <HelpTOCNode Title="Map Method (T2)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Mappers_IBidirectionalMapper_2_Map_1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="0118d3d0-b0e5-4aaa-a1ad-6ca904be154e" Title="IMapper(T1, T2) Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Mappers_IMapper_2.htm">
+        <HelpTOCNode Id="68c76742-3149-4e53-beb3-379a187f86ee" Title="IMapper(T1, T2) Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Mappers_IMapper_2.htm">
+          <HelpTOCNode Id="0c5b6df4-fbb7-4f9e-8031-e960f23543a1" Title="Map Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Mappers_IMapper_2_Map.htm">
+            <HelpTOCNode Title="Map Method (IEnumerable(T1))" Url="html/M_AccidentalFish_ApplicationSupport_Core_Mappers_IMapper_2_Map.htm" />
+            <HelpTOCNode Title="Map Method (T1)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Mappers_IMapper_2_Map_1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="7b1c5c28-0eb5-42ed-b7f8-de04c471f114" Title="IMapperWithContext(T1, T2, T3) Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Mappers_IMapperWithContext_3.htm">
+        <HelpTOCNode Id="0e96d504-8e66-4fd7-9ea5-eb224902e355" Title="IMapperWithContext(T1, T2, T3) Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Mappers_IMapperWithContext_3.htm">
+          <HelpTOCNode Id="a86bb26e-1691-422a-bb31-5b0ded823e4c" Title="Map Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Mappers_IMapperWithContext_3_Map.htm">
+            <HelpTOCNode Title="Map Method (IEnumerable(T1), T3)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Mappers_IMapperWithContext_3_Map.htm" />
+            <HelpTOCNode Title="Map Method (IEnumerable(T2), T3)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Mappers_IMapperWithContext_3_Map_1.htm" />
+            <HelpTOCNode Title="Map Method (T1, T3)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Mappers_IMapperWithContext_3_Map_2.htm" />
+            <HelpTOCNode Title="Map Method (T2, T3)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Mappers_IMapperWithContext_3_Map_3.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="d7464264-d9d5-45d1-b834-6a8d6f824975" Title="AccidentalFish.ApplicationSupport.Core.Naming" Url="html/N_AccidentalFish_ApplicationSupport_Core_Naming.htm">
+      <HelpTOCNode Id="35a77d01-6f3d-4c28-8a8e-d8fb2ce9d1a6" Title="FullyQualifiedNameBase Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Naming_FullyQualifiedNameBase.htm">
+        <HelpTOCNode Id="595f5191-ba83-44cf-bc6d-9a4e2028d169" Title="FullyQualifiedNameBase Constructor " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Naming_FullyQualifiedNameBase__ctor.htm">
+          <HelpTOCNode Title="FullyQualifiedNameBase Constructor (String)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Naming_FullyQualifiedNameBase__ctor.htm" />
+          <HelpTOCNode Title="FullyQualifiedNameBase Constructor (Type)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Naming_FullyQualifiedNameBase__ctor_1.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="3f097c3f-666b-4a43-bc0f-b36f0e16aac6" Title="FullyQualifiedNameBase Properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Naming_FullyQualifiedNameBase.htm">
+          <HelpTOCNode Title="FullyQualifiedName Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Naming_FullyQualifiedNameBase_FullyQualifiedName.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="dd7651a2-8401-4f17-90ff-2ec256d821b0" Title="FullyQualifiedNameBase Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Naming_FullyQualifiedNameBase.htm">
+          <HelpTOCNode Id="6f8b8526-eaad-42e9-ab04-58464a2dbb19" Title="Equals Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Naming_FullyQualifiedNameBase_Equals.htm">
+            <HelpTOCNode Title="Equals Method (Object)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Naming_FullyQualifiedNameBase_Equals_1.htm" />
+            <HelpTOCNode Title="Equals Method (FullyQualifiedNameBase)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Naming_FullyQualifiedNameBase_Equals.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="GetHashCode Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Naming_FullyQualifiedNameBase_GetHashCode.htm" />
+          <HelpTOCNode Title="ToString Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Naming_FullyQualifiedNameBase_ToString.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="6b3c247e-940e-4220-9f0c-f14d8482bd8e" Title="IFullyQualifiedName Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Naming_IFullyQualifiedName.htm">
+        <HelpTOCNode Id="e66f32ec-fb25-4c34-bca6-9047577ae89a" Title="IFullyQualifiedName Properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Naming_IFullyQualifiedName.htm">
+          <HelpTOCNode Title="FullyQualifiedName Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Naming_IFullyQualifiedName_FullyQualifiedName.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="df56e387-fba4-4cb2-a66b-69a9ab17b2d8" Title="AccidentalFish.ApplicationSupport.Core.Policies" Url="html/N_AccidentalFish_ApplicationSupport_Core_Policies.htm">
+      <HelpTOCNode Id="a7791afa-3961-4eea-94c0-97f237300d0f" Title="IAsynchronousBackoffPolicy Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Policies_IAsynchronousBackoffPolicy.htm">
+        <HelpTOCNode Id="5fe871e1-1dfd-4c32-96ec-57f116cf9883" Title="IAsynchronousBackoffPolicy Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Policies_IAsynchronousBackoffPolicy.htm">
+          <HelpTOCNode Id="a8fabefc-34a9-4ff9-9278-78d1930991dc" Title="ExecuteAsync Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Policies_IAsynchronousBackoffPolicy_ExecuteAsync.htm">
+            <HelpTOCNode Title="ExecuteAsync Method (Func(Task(Boolean)), CancellationToken)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Policies_IAsynchronousBackoffPolicy_ExecuteAsync_1.htm" />
+            <HelpTOCNode Title="ExecuteAsync Method (Func(Task(Boolean)), Action, CancellationToken)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Policies_IAsynchronousBackoffPolicy_ExecuteAsync.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="dd74c63f-064e-4334-8d52-b9f7435d2fe0" Title="IBackoffPolicy Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Policies_IBackoffPolicy.htm">
+        <HelpTOCNode Id="fd14089b-fe01-4c4f-a146-3e9898ceddf5" Title="IBackoffPolicy Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Policies_IBackoffPolicy.htm">
+          <HelpTOCNode Id="49cec369-6172-4615-aef2-4997a02932cc" Title="Execute Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Policies_IBackoffPolicy_Execute.htm">
+            <HelpTOCNode Title="Execute Method (Func(Boolean), IWaitHandle)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Policies_IBackoffPolicy_Execute.htm" />
+            <HelpTOCNode Title="Execute Method (Func(Boolean), CancellationToken)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Policies_IBackoffPolicy_Execute_1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="673d4b4c-990a-4e42-957d-ec90560cdb33" Title="ILeasedRetry Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Policies_ILeasedRetry.htm">
+        <HelpTOCNode Id="196aa854-7c6d-4638-b38e-4d1d7aac106d" Title="ILeasedRetry Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Policies_ILeasedRetry.htm">
+          <HelpTOCNode Id="d844af02-9fd4-40dc-bf4d-0c8ec350ce91" Title="RetryAsync Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Policies_ILeasedRetry_RetryAsync.htm">
+            <HelpTOCNode Title="RetryAsync(T) Method (ILeaseManager(T), T, Func(Task))" Url="html/M_AccidentalFish_ApplicationSupport_Core_Policies_ILeasedRetry_RetryAsync__1_1.htm" />
+            <HelpTOCNode Title="RetryAsync(T) Method (ILeaseManager(T), T, Boolean, Func(Task))" Url="html/M_AccidentalFish_ApplicationSupport_Core_Policies_ILeasedRetry_RetryAsync__1.htm" />
+            <HelpTOCNode Title="RetryAsync(T) Method (ILeaseManager(T), T, TimeSpan, Func(Task))" Url="html/M_AccidentalFish_ApplicationSupport_Core_Policies_ILeasedRetry_RetryAsync__1_3.htm" />
+            <HelpTOCNode Title="RetryAsync(T) Method (ILeaseManager(T), T, TimeSpan, Boolean, Func(Task))" Url="html/M_AccidentalFish_ApplicationSupport_Core_Policies_ILeasedRetry_RetryAsync__1_2.htm" />
+            <HelpTOCNode Title="RetryAsync(T) Method (ILeaseManager(T), T, TimeSpan, Int32, Func(Task))" Url="html/M_AccidentalFish_ApplicationSupport_Core_Policies_ILeasedRetry_RetryAsync__1_5.htm" />
+            <HelpTOCNode Title="RetryAsync(T) Method (ILeaseManager(T), T, TimeSpan, Int32, Boolean, Func(Task))" Url="html/M_AccidentalFish_ApplicationSupport_Core_Policies_ILeasedRetry_RetryAsync__1_4.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="7deedcf6-8f1d-47ca-82c4-61049378ec6f" Title="ILeaseManager(T) Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Policies_ILeaseManager_1.htm">
+        <HelpTOCNode Id="dc6ed23d-3cfd-412f-ad62-eaf25e266ee2" Title="ILeaseManager(T) Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Policies_ILeaseManager_1.htm">
+          <HelpTOCNode Title="CreateLeaseObjectIfNotExistAsync Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Policies_ILeaseManager_1_CreateLeaseObjectIfNotExistAsync.htm" />
+          <HelpTOCNode Id="4bcbe907-6d09-49a9-aca0-8cb0496af062" Title="LeaseAsync Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Policies_ILeaseManager_1_LeaseAsync.htm">
+            <HelpTOCNode Title="LeaseAsync Method (T)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Policies_ILeaseManager_1_LeaseAsync.htm" />
+            <HelpTOCNode Title="LeaseAsync Method (T, TimeSpan)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Policies_ILeaseManager_1_LeaseAsync_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="ReleaseAsync Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Policies_ILeaseManager_1_ReleaseAsync.htm" />
+          <HelpTOCNode Title="RenewAsync Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Policies_ILeaseManager_1_RenewAsync.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="0771c5c6-c037-4729-bfdf-d309e38372a2" Title="ILeaseManagerFactory Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Policies_ILeaseManagerFactory.htm">
+        <HelpTOCNode Id="a9caf3f7-3be8-45c4-ba7e-9a3b1c0045d6" Title="ILeaseManagerFactory Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Policies_ILeaseManagerFactory.htm">
+          <HelpTOCNode Title="CreateLeaseManager(T) Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Policies_ILeaseManagerFactory_CreateLeaseManager__1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="f1d0cd24-e564-483d-ad42-4138272a1116" Title="IResourceCreator Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Policies_IResourceCreator.htm">
+        <HelpTOCNode Id="a80bef2b-be3c-4fd7-a482-7de9c4858966" Title="IResourceCreator Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Policies_IResourceCreator.htm">
+          <HelpTOCNode Title="CreateIfNotExistsAsync Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Policies_IResourceCreator_CreateIfNotExistsAsync.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="06b73730-68a4-44bb-8a3d-8ea486509908" Title="AccidentalFish.ApplicationSupport.Core.Queues" Url="html/N_AccidentalFish_ApplicationSupport_Core_Queues.htm">
+      <HelpTOCNode Id="b35be41c-bbc7-4256-b1e6-9ef9b1cf9fd9" Title="IAsynchronousQueue(T) Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousQueue_1.htm">
+        <HelpTOCNode Id="521e0ff5-884d-4755-a92e-2d4cc53b7caa" Title="IAsynchronousQueue(T) Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousQueue_1.htm">
+          <HelpTOCNode Title="DequeueAsync Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousQueue_1_DequeueAsync.htm" />
+          <HelpTOCNode Id="bdb12e0c-5f93-44ee-ab34-7676278f7d76" Title="EnqueueAsync Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousQueue_1_EnqueueAsync.htm">
+            <HelpTOCNode Title="EnqueueAsync Method (T)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousQueue_1_EnqueueAsync.htm" />
+            <HelpTOCNode Title="EnqueueAsync Method (T, TimeSpan)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousQueue_1_EnqueueAsync_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="15515946-ebe7-48d5-b6fb-7c0b9655f7bb" Title="ExtendLeaseAsync Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousQueue_1_ExtendLeaseAsync.htm">
+            <HelpTOCNode Title="ExtendLeaseAsync Method (IQueueItem(T))" Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousQueue_1_ExtendLeaseAsync.htm" />
+            <HelpTOCNode Title="ExtendLeaseAsync Method (IQueueItem(T), TimeSpan)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousQueue_1_ExtendLeaseAsync_1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="16540d59-beee-4079-a8ba-7dfd80421c37" Title="IAsynchronousSubscription(T) Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousSubscription_1.htm">
+        <HelpTOCNode Id="e1548231-5c43-455c-b624-b71ed3df102d" Title="IAsynchronousSubscription(T) Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousSubscription_1.htm">
+          <HelpTOCNode Title="RecieveAsync Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousSubscription_1_RecieveAsync.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="be939d74-48dd-45bc-862b-e8c554a69ec8" Title="IAsynchronousTopic(T) Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousTopic_1.htm">
+        <HelpTOCNode Id="46b04d15-f032-4bec-afc4-01711d4c5a44" Title="IAsynchronousTopic(T) Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousTopic_1.htm">
+          <HelpTOCNode Title="Send Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousTopic_1_Send.htm" />
+          <HelpTOCNode Title="SendAsync Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousTopic_1_SendAsync.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="b737b858-67dd-4b13-8848-17c8e39d7f22" Title="IQueue(T) Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Queues_IQueue_1.htm">
+        <HelpTOCNode Id="bb162f5b-bd25-45d6-a293-c1a7b01e29d9" Title="IQueue(T) Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Queues_IQueue_1.htm">
+          <HelpTOCNode Id="a4605383-85bb-458d-9456-8471085981cf" Title="Dequeue Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Queues_IQueue_1_Dequeue.htm">
+            <HelpTOCNode Title="Dequeue Method (Func(IQueueItem(T), Boolean), Action(Exception))" Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IQueue_1_Dequeue_1.htm" />
+            <HelpTOCNode Title="Dequeue Method (Func(IQueueItem(T), Boolean), Action, Action(Exception))" Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IQueue_1_Dequeue.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="Enqueue Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IQueue_1_Enqueue.htm" />
+          <HelpTOCNode Id="e12f1856-e5bc-4a0a-b8a5-7f76534f91cf" Title="ExtendLease Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Queues_IQueue_1_ExtendLease.htm">
+            <HelpTOCNode Title="ExtendLease Method (IQueueItem(T))" Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IQueue_1_ExtendLease.htm" />
+            <HelpTOCNode Title="ExtendLease Method (IQueueItem(T), TimeSpan)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IQueue_1_ExtendLease_1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="bd371fb1-7c8b-487d-b0a2-9b5fac90a342" Title="IQueueFactory Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Queues_IQueueFactory.htm">
+        <HelpTOCNode Id="7a8c6661-1d31-4708-a390-dd06ce7c0fca" Title="IQueueFactory Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Queues_IQueueFactory.htm">
+          <HelpTOCNode Id="20c6837e-2114-45a1-92d7-e10ccc8a8940" Title="CreateAsynchronousQueue Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Queues_IQueueFactory_CreateAsynchronousQueue.htm">
+            <HelpTOCNode Title="CreateAsynchronousQueue(T) Method (String)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IQueueFactory_CreateAsynchronousQueue__1.htm" />
+            <HelpTOCNode Title="CreateAsynchronousQueue(T) Method (String, String)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IQueueFactory_CreateAsynchronousQueue__1_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="340b7d1b-928c-4c15-9767-220f4e7e1a19" Title="CreateAsynchronousSubscription Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Queues_IQueueFactory_CreateAsynchronousSubscription.htm">
+            <HelpTOCNode Title="CreateAsynchronousSubscription(T) Method (String, String)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IQueueFactory_CreateAsynchronousSubscription__1.htm" />
+            <HelpTOCNode Title="CreateAsynchronousSubscription(T) Method (String, String, String)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IQueueFactory_CreateAsynchronousSubscription__1_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="40f2dafa-4ab7-4699-bf51-1f26a53d5071" Title="CreateAsynchronousSubscriptionWithConfiguration Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Queues_IQueueFactory_CreateAsynchronousSubscriptionWithConfiguration.htm">
+            <HelpTOCNode Title="CreateAsynchronousSubscriptionWithConfiguration(T) Method (String)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IQueueFactory_CreateAsynchronousSubscriptionWithConfiguration__1.htm" />
+            <HelpTOCNode Title="CreateAsynchronousSubscriptionWithConfiguration(T) Method (String, String)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IQueueFactory_CreateAsynchronousSubscriptionWithConfiguration__1_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="c5559218-02da-42dd-8ee0-96bf14df3a8c" Title="CreateAsynchronousTopic Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Queues_IQueueFactory_CreateAsynchronousTopic.htm">
+            <HelpTOCNode Title="CreateAsynchronousTopic(T) Method (String)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IQueueFactory_CreateAsynchronousTopic__1.htm" />
+            <HelpTOCNode Title="CreateAsynchronousTopic(T) Method (String, String)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IQueueFactory_CreateAsynchronousTopic__1_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Id="68fcf21f-eca2-49e4-8c1d-b15a4e6d0ec2" Title="CreateQueue Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Queues_IQueueFactory_CreateQueue.htm">
+            <HelpTOCNode Title="CreateQueue(T) Method (String)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IQueueFactory_CreateQueue__1.htm" />
+            <HelpTOCNode Title="CreateQueue(T) Method (String, String)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IQueueFactory_CreateQueue__1_1.htm" />
+          </HelpTOCNode>
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="0c5c9391-8d6e-45ab-bbc7-6c295de929a9" Title="IQueueItem(T) Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Queues_IQueueItem_1.htm">
+        <HelpTOCNode Id="37cfbc88-4f8d-4747-bd0d-1586066bb4f4" Title="IQueueItem(T) Properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Queues_IQueueItem_1.htm">
+          <HelpTOCNode Title="DequeueCount Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Queues_IQueueItem_1_DequeueCount.htm" />
+          <HelpTOCNode Title="Item Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Queues_IQueueItem_1_Item.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="d9bc74c8-5f82-48d2-9915-6be4ec95a157" Title="IQueueSerializer Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Queues_IQueueSerializer.htm">
+        <HelpTOCNode Id="13d0febc-3da3-4c33-92a2-548cc7adbf6d" Title="IQueueSerializer Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Queues_IQueueSerializer.htm">
+          <HelpTOCNode Title="Deserialize(T) Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IQueueSerializer_Deserialize__1.htm" />
+          <HelpTOCNode Title="Serialize(T) Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IQueueSerializer_Serialize__1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="b903fdc3-f803-4503-8032-fc6054234e43" Title="AccidentalFish.ApplicationSupport.Core.Repository" Url="html/N_AccidentalFish_ApplicationSupport_Core_Repository.htm">
+      <HelpTOCNode Id="42088bfa-9714-4d40-b281-29e47b4b0686" Title="IRepository(T) Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Repository_IRepository_1.htm">
+        <HelpTOCNode Id="989b012a-fd77-4faf-af7f-25705f1d77ec" Title="IRepository(T) Properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Repository_IRepository_1.htm">
+          <HelpTOCNode Title="All Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Repository_IRepository_1_All.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="af92fb77-f018-44cd-80e2-fbc6b5186d34" Title="IRepository(T) Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Repository_IRepository_1.htm">
+          <HelpTOCNode Title="AllIncluding Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepository_1_AllIncluding.htm" />
+          <HelpTOCNode Id="4662c83c-21f1-49ac-8886-2fdaab8c4fed" Title="Delete Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Repository_IRepository_1_Delete.htm">
+            <HelpTOCNode Title="Delete Method (Int32)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepository_1_Delete.htm" />
+            <HelpTOCNode Title="Delete Method (T)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepository_1_Delete_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="Find Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepository_1_Find.htm" />
+          <HelpTOCNode Title="Insert Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepository_1_Insert.htm" />
+          <HelpTOCNode Title="InsertOrUpdate Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepository_1_InsertOrUpdate.htm" />
+          <HelpTOCNode Title="Update Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepository_1_Update.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="b514bddc-5b49-44f6-a20d-47d62525a073" Title="IRepositoryAsync(T) Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Repository_IRepositoryAsync_1.htm">
+        <HelpTOCNode Id="f4eb2f7d-a131-4636-ae2a-0a08554cd3ff" Title="IRepositoryAsync(T) Properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Repository_IRepositoryAsync_1.htm">
+          <HelpTOCNode Title="All Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Repository_IRepositoryAsync_1_All.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="eaf41e00-d189-4131-9648-772661a4949a" Title="IRepositoryAsync(T) Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Repository_IRepositoryAsync_1.htm">
+          <HelpTOCNode Title="AllIncluding Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepositoryAsync_1_AllIncluding.htm" />
+          <HelpTOCNode Title="Delete Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepositoryAsync_1_Delete.htm" />
+          <HelpTOCNode Title="DeleteAsync Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepositoryAsync_1_DeleteAsync.htm" />
+          <HelpTOCNode Title="FindAsync Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepositoryAsync_1_FindAsync.htm" />
+          <HelpTOCNode Title="Insert Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepositoryAsync_1_Insert.htm" />
+          <HelpTOCNode Title="InsertOrUpdate Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepositoryAsync_1_InsertOrUpdate.htm" />
+          <HelpTOCNode Title="Update Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepositoryAsync_1_Update.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="c8fc9407-6d17-4a87-8d00-7fb7c2a6892c" Title="IUnitOfWork Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWork.htm">
+        <HelpTOCNode Id="a8906512-b512-46c1-a473-20539c60cb46" Title="IUnitOfWork Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWork.htm">
+          <HelpTOCNode Title="GetRepository(T) Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWork_GetRepository__1.htm" />
+          <HelpTOCNode Title="Save Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWork_Save.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="d29aef1c-3ce0-4c35-959e-e9329b2c4ee6" Title="IUnitOfWorkAsync Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWorkAsync.htm">
+        <HelpTOCNode Id="a762d5c4-1ea7-496e-9532-d8cf538dbcc2" Title="IUnitOfWorkAsync Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWorkAsync.htm">
+          <HelpTOCNode Title="GetRepository(T) Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWorkAsync_GetRepository__1.htm" />
+          <HelpTOCNode Title="GetRepositoryAsync(T) Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWorkAsync_GetRepositoryAsync__1.htm" />
+          <HelpTOCNode Id="85782150-450c-4b95-a173-1191c87872b7" Title="OptimisticRepositoryWinsUpdateAsync Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWorkAsync_OptimisticRepositoryWinsUpdateAsync.htm">
+            <HelpTOCNode Title="OptimisticRepositoryWinsUpdateAsync Method (Action)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWorkAsync_OptimisticRepositoryWinsUpdateAsync.htm" />
+            <HelpTOCNode Title="OptimisticRepositoryWinsUpdateAsync Method (Action, Int32)" Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWorkAsync_OptimisticRepositoryWinsUpdateAsync_1.htm" />
+          </HelpTOCNode>
+          <HelpTOCNode Title="SaveAsync Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWorkAsync_SaveAsync.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="fad0ff19-9dab-4cd5-9224-6660d64b1836" Title="IUnitOfWorkFactory Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWorkFactory.htm">
+        <HelpTOCNode Id="1ea8ae9f-0942-4ef1-8b79-3ca76aaeac3a" Title="IUnitOfWorkFactory Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWorkFactory.htm">
+          <HelpTOCNode Title="Create Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWorkFactory_Create.htm" />
+          <HelpTOCNode Title="CreateAsync Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWorkFactory_CreateAsync.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="6bcc97b9-b29c-463c-9089-58f8ce40180a" Title="IUnitOfWorkFactoryProvider Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWorkFactoryProvider.htm">
+        <HelpTOCNode Id="66b391a0-6a1f-4654-8315-a43ebe174979" Title="IUnitOfWorkFactoryProvider Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWorkFactoryProvider.htm">
+          <HelpTOCNode Title="Create Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWorkFactoryProvider_Create.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="7a0d6bab-3ff5-45ff-a706-33da6ebc7db9" Title="AccidentalFish.ApplicationSupport.Core.Runtime" Url="html/N_AccidentalFish_ApplicationSupport_Core_Runtime.htm">
+      <HelpTOCNode Id="d86a33a9-ab98-47d2-a944-c12005a3076e" Title="IComponentHost Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Runtime_IComponentHost.htm">
+        <HelpTOCNode Id="ea64dc9b-b6d3-4703-bd4e-908e1cf5f844" Title="IComponentHost Properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Runtime_IComponentHost.htm">
+          <HelpTOCNode Title="CustomErrorHandler Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Runtime_IComponentHost_CustomErrorHandler.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="e4d03e30-1782-4e66-9659-37b09df040ea" Title="IComponentHost Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Runtime_IComponentHost.htm">
+          <HelpTOCNode Title="StartAsync Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Runtime_IComponentHost_StartAsync.htm" />
+          <HelpTOCNode Title="Stop Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Runtime_IComponentHost_Stop.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="4f7c78b4-b335-4eeb-bcc6-06455ad96893" Title="IComponentHostConfigurationProvider Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Runtime_IComponentHostConfigurationProvider.htm">
+        <HelpTOCNode Id="21ca49f4-7282-4b0d-932f-f093398a6bbb" Title="IComponentHostConfigurationProvider Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Runtime_IComponentHostConfigurationProvider.htm">
+          <HelpTOCNode Title="GetConfigurationAsync Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Runtime_IComponentHostConfigurationProvider_GetConfigurationAsync.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="f0d5640c-4ca2-4dde-851f-4530071ca676" Title="IRuntimeEnvironment Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Runtime_IRuntimeEnvironment.htm">
+        <HelpTOCNode Id="17847295-cb03-4065-8504-734b9264361d" Title="IRuntimeEnvironment Properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Runtime_IRuntimeEnvironment.htm">
+          <HelpTOCNode Title="RoleIdentifier Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Runtime_IRuntimeEnvironment_RoleIdentifier.htm" />
+          <HelpTOCNode Title="RoleName Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Runtime_IRuntimeEnvironment_RoleName.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Id="69dffe26-c84a-4908-94a5-c5bf8883f69b" Title="StaticComponentHostConfigurationProvider Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Runtime_StaticComponentHostConfigurationProvider.htm">
+        <HelpTOCNode Title="StaticComponentHostConfigurationProvider Constructor " Url="html/M_AccidentalFish_ApplicationSupport_Core_Runtime_StaticComponentHostConfigurationProvider__ctor.htm" />
+        <HelpTOCNode Id="52e20ed9-1a8a-4b2e-85ea-d97e92ebfe32" Title="StaticComponentHostConfigurationProvider Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Runtime_StaticComponentHostConfigurationProvider.htm">
+          <HelpTOCNode Title="GetConfigurationAsync Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Runtime_StaticComponentHostConfigurationProvider_GetConfigurationAsync.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="c4c43765-e285-473b-ae5c-31d1facab6e5" Title="AccidentalFish.ApplicationSupport.Core.Threading" Url="html/N_AccidentalFish_ApplicationSupport_Core_Threading.htm">
+      <HelpTOCNode Id="06bf7c38-9489-4a0b-b465-e87ada4d55d0" Title="IWaitHandle Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Threading_IWaitHandle.htm">
+        <HelpTOCNode Id="f83089d0-3f1a-4eea-9c13-8016f7b2e7b6" Title="IWaitHandle Properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Threading_IWaitHandle.htm">
+          <HelpTOCNode Title="IsSet Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Threading_IWaitHandle_IsSet.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Id="71115a18-58f8-4fd5-bc02-ede14665e6c7" Title="IWaitHandle Methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Threading_IWaitHandle.htm">
+          <HelpTOCNode Title="Reset Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Threading_IWaitHandle_Reset.htm" />
+          <HelpTOCNode Title="Wait Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Threading_IWaitHandle_Wait.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

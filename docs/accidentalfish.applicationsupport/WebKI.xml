@@ -1,0 +1,1240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="AbstractApplicationComponent class">
+    <HelpKINode Title="AbstractApplicationComponent Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_AbstractApplicationComponent.htm" />
+    <HelpKINode Title="about AbstractApplicationComponent class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_AbstractApplicationComponent.htm" />
+    <HelpKINode Title="constructor" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_AbstractApplicationComponent__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Components_AbstractApplicationComponent.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Components_AbstractApplicationComponent.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AbstractApplicationComponent.AbstractApplicationComponent constructor" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_AbstractApplicationComponent__ctor.htm" />
+  <HelpKINode Title="AbstractApplicationComponent.ComponentIdentity property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Components_AbstractApplicationComponent_ComponentIdentity.htm" />
+  <HelpKINode Title="AbstractBidirectionalMapper(Of T1, T2) class">
+    <HelpKINode Title="AbstractBidirectionalMapper(T1, T2) Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractBidirectionalMapper_2.htm" />
+    <HelpKINode Title="about AbstractBidirectionalMapper(Of T1, T2) class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractBidirectionalMapper_2.htm" />
+    <HelpKINode Title="constructor" Url="html/M_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractBidirectionalMapper_2__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractBidirectionalMapper_2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AbstractBidirectionalMapper(Of T1, T2).AbstractBidirectionalMapper constructor" Url="html/M_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractBidirectionalMapper_2__ctor.htm" />
+  <HelpKINode Title="AbstractBidirectionalMapper(Of T1, T2).Map method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractBidirectionalMapper_2_Map.htm" />
+  <HelpKINode Title="AbstractBidirectionalMapper&lt;T1, T2&gt; class">
+    <HelpKINode Title="AbstractBidirectionalMapper(T1, T2) Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractBidirectionalMapper_2.htm" />
+    <HelpKINode Title="about AbstractBidirectionalMapper&lt;T1, T2&gt; class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractBidirectionalMapper_2.htm" />
+    <HelpKINode Title="constructor" Url="html/M_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractBidirectionalMapper_2__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractBidirectionalMapper_2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AbstractBidirectionalMapper&lt;T1, T2&gt;.AbstractBidirectionalMapper constructor" Url="html/M_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractBidirectionalMapper_2__ctor.htm" />
+  <HelpKINode Title="AbstractBidirectionalMapper&lt;T1, T2&gt;.Map method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractBidirectionalMapper_2_Map.htm" />
+  <HelpKINode Title="AbstractMapper(Of T1, T2) class">
+    <HelpKINode Title="AbstractMapper(T1, T2) Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractMapper_2.htm" />
+    <HelpKINode Title="about AbstractMapper(Of T1, T2) class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractMapper_2.htm" />
+    <HelpKINode Title="constructor" Url="html/M_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractMapper_2__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractMapper_2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AbstractMapper(Of T1, T2).AbstractMapper constructor" Url="html/M_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractMapper_2__ctor.htm" />
+  <HelpKINode Title="AbstractMapper(Of T1, T2).Map method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractMapper_2_Map.htm" />
+  <HelpKINode Title="AbstractMapper&lt;T1, T2&gt; class">
+    <HelpKINode Title="AbstractMapper(T1, T2) Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractMapper_2.htm" />
+    <HelpKINode Title="about AbstractMapper&lt;T1, T2&gt; class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractMapper_2.htm" />
+    <HelpKINode Title="constructor" Url="html/M_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractMapper_2__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractMapper_2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AbstractMapper&lt;T1, T2&gt;.AbstractMapper constructor" Url="html/M_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractMapper_2__ctor.htm" />
+  <HelpKINode Title="AbstractMapper&lt;T1, T2&gt;.Map method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractMapper_2_Map.htm" />
+  <HelpKINode Title="AbstractMapperWithContext(Of T1, T2, T3) class">
+    <HelpKINode Title="AbstractMapperWithContext(T1, T2, T3) Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractMapperWithContext_3.htm" />
+    <HelpKINode Title="about AbstractMapperWithContext(Of T1, T2, T3) class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractMapperWithContext_3.htm" />
+    <HelpKINode Title="constructor" Url="html/M_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractMapperWithContext_3__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractMapperWithContext_3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AbstractMapperWithContext(Of T1, T2, T3).AbstractMapperWithContext constructor" Url="html/M_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractMapperWithContext_3__ctor.htm" />
+  <HelpKINode Title="AbstractMapperWithContext(Of T1, T2, T3).Map method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractMapperWithContext_3_Map.htm" />
+  <HelpKINode Title="AbstractMapperWithContext&lt;T1, T2, T3&gt; class">
+    <HelpKINode Title="AbstractMapperWithContext(T1, T2, T3) Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractMapperWithContext_3.htm" />
+    <HelpKINode Title="about AbstractMapperWithContext&lt;T1, T2, T3&gt; class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractMapperWithContext_3.htm" />
+    <HelpKINode Title="constructor" Url="html/M_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractMapperWithContext_3__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractMapperWithContext_3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AbstractMapperWithContext&lt;T1, T2, T3&gt;.AbstractMapperWithContext constructor" Url="html/M_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractMapperWithContext_3__ctor.htm" />
+  <HelpKINode Title="AbstractMapperWithContext&lt;T1, T2, T3&gt;.Map method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractMapperWithContext_3_Map.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core namespace" Url="html/N_AccidentalFish_ApplicationSupport_Core.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Alerts namespace" Url="html/N_AccidentalFish_ApplicationSupport_Core_Alerts.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Alerts.IAlertSender interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Alerts_IAlertSender.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.BackoffProcesses namespace" Url="html/N_AccidentalFish_ApplicationSupport_Core_BackoffProcesses.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.BackoffProcesses.BackoffQueueProcessor(Of T) class" Url="html/T_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffQueueProcessor_1.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.BackoffProcesses.BackoffQueueProcessor&lt;T&gt; class" Url="html/T_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffQueueProcessor_1.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.BackoffProcesses.BackoffSubscriptionProcessor(Of T) class" Url="html/T_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffSubscriptionProcessor_1.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.BackoffProcesses.BackoffSubscriptionProcessor&lt;T&gt; class" Url="html/T_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffSubscriptionProcessor_1.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Blobs namespace" Url="html/N_AccidentalFish_ApplicationSupport_Core_Blobs.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Blobs.IAsynchronousBlockBlobRepository interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Blobs_IAsynchronousBlockBlobRepository.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Blobs.IBlob interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Blobs_IBlob.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Blobs.IBlobRepositoryFactory interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Blobs_IBlobRepositoryFactory.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Bootstrapper class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Bootstrapper.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Bootstrapper.LoggerTypeEnum enumeration" Url="html/T_AccidentalFish_ApplicationSupport_Core_Bootstrapper_LoggerTypeEnum.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Components namespace" Url="html/N_AccidentalFish_ApplicationSupport_Core_Components.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Components.AbstractApplicationComponent class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_AbstractApplicationComponent.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Components.ApplicationResourceSettingNameProvider class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_ApplicationResourceSettingNameProvider.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Components.ComponentConfiguration class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_ComponentConfiguration.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Components.ComponentIdentity class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_ComponentIdentity.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Components.ComponentIdentityAttribute class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_ComponentIdentityAttribute.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Components.IApplicationComponent interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_IApplicationComponent.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Components.IApplicationResourceFactory interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Components.IApplicationResourceSettingNameProvider interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingNameProvider.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Components.IApplicationResourceSettingProvider interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingProvider.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Components.IComponentIdentity interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_IComponentIdentity.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Components.IHostableComponent interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_IHostableComponent.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Components.MissingComponentIdentityException class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_MissingComponentIdentityException.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Configuration namespace" Url="html/N_AccidentalFish_ApplicationSupport_Core_Configuration.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Configuration.ApplicationComponent class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Configuration.ApplicationComponentSetting class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponentSetting.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Configuration.ApplicationConfiguration class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfiguration.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Configuration.ApplicationConfigurationSettings class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfigurationSettings.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Configuration.ApplicationCorsRule class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationCorsRule.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Configuration.ApplicationStorageAccount class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationStorageAccount.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Configuration.BlobContainerPublicAccessTypeEnum enumeration" Url="html/T_AccidentalFish_ApplicationSupport_Core_Configuration_BlobContainerPublicAccessTypeEnum.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Configuration.IConfiguration interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Configuration_IConfiguration.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Configuration.MissingSettingException class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Configuration_MissingSettingException.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Email namespace" Url="html/N_AccidentalFish_ApplicationSupport_Core_Email.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Email.EmailQueueItem class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Email_EmailQueueItem.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Email.IEmailManager interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Email_IEmailManager.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Email.IEmailProvider interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Email_IEmailProvider.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Email.IEmailQueueDispatcher interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Email_IEmailQueueDispatcher.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Extensions namespace" Url="html/N_AccidentalFish_ApplicationSupport_Core_Extensions.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Extensions.StringExtensions class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Extensions_StringExtensions.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Logging namespace" Url="html/N_AccidentalFish_ApplicationSupport_Core_Logging.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Logging.ICorrelationIdProvider interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Logging_ICorrelationIdProvider.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Logging.ILogger interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Logging_ILogger.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Logging.ILoggerExtension interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Logging_ILoggerExtension.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Logging.ILoggerFactory interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Logging_ILoggerFactory.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Logging.ILoggerSource interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Logging_ILoggerSource.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Logging.LoggerSource class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Logging_LoggerSource.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Logging.LogLevelEnum enumeration" Url="html/T_AccidentalFish_ApplicationSupport_Core_Logging_LogLevelEnum.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Logging.Model namespace" Url="html/N_AccidentalFish_ApplicationSupport_Core_Logging_Model.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Logging.Model.LogQueueItem class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Logging_Model_LogQueueItem.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Mappers namespace" Url="html/N_AccidentalFish_ApplicationSupport_Core_Mappers.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Mappers.AbstractBidirectionalMapper(Of T1, T2) class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractBidirectionalMapper_2.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Mappers.AbstractBidirectionalMapper&lt;T1, T2&gt; class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractBidirectionalMapper_2.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Mappers.AbstractMapper(Of T1, T2) class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractMapper_2.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Mappers.AbstractMapper&lt;T1, T2&gt; class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractMapper_2.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Mappers.AbstractMapperWithContext(Of T1, T2, T3) class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractMapperWithContext_3.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Mappers.AbstractMapperWithContext&lt;T1, T2, T3&gt; class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractMapperWithContext_3.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Mappers.IBidirectionalMapper(Of T1, T2) interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Mappers_IBidirectionalMapper_2.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Mappers.IBidirectionalMapper&lt;T1, T2&gt; interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Mappers_IBidirectionalMapper_2.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Mappers.IMapper(Of T1, T2) interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Mappers_IMapper_2.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Mappers.IMapper&lt;T1, T2&gt; interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Mappers_IMapper_2.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Mappers.IMapperWithContext(Of T1, T2, T3) interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Mappers_IMapperWithContext_3.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Mappers.IMapperWithContext&lt;T1, T2, T3&gt; interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Mappers_IMapperWithContext_3.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Naming namespace" Url="html/N_AccidentalFish_ApplicationSupport_Core_Naming.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Naming.FullyQualifiedNameBase class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Naming_FullyQualifiedNameBase.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Naming.IFullyQualifiedName interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Naming_IFullyQualifiedName.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Policies namespace" Url="html/N_AccidentalFish_ApplicationSupport_Core_Policies.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Policies.IAsynchronousBackoffPolicy interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Policies_IAsynchronousBackoffPolicy.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Policies.IBackoffPolicy interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Policies_IBackoffPolicy.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Policies.ILeasedRetry interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Policies_ILeasedRetry.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Policies.ILeaseManager(Of T) interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Policies_ILeaseManager_1.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Policies.ILeaseManager&lt;T&gt; interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Policies_ILeaseManager_1.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Policies.ILeaseManagerFactory interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Policies_ILeaseManagerFactory.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Policies.IResourceCreator interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Policies_IResourceCreator.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Queues namespace" Url="html/N_AccidentalFish_ApplicationSupport_Core_Queues.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Queues.IAsynchronousQueue(Of T) interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousQueue_1.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Queues.IAsynchronousQueue&lt;T&gt; interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousQueue_1.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Queues.IAsynchronousSubscription(Of T) interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousSubscription_1.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Queues.IAsynchronousSubscription&lt;T&gt; interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousSubscription_1.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Queues.IAsynchronousTopic(Of T) interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousTopic_1.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Queues.IAsynchronousTopic&lt;T&gt; interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousTopic_1.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Queues.IQueue(Of T) interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Queues_IQueue_1.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Queues.IQueue&lt;T&gt; interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Queues_IQueue_1.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Queues.IQueueFactory interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Queues_IQueueFactory.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Queues.IQueueItem(Of T) interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Queues_IQueueItem_1.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Queues.IQueueItem&lt;T&gt; interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Queues_IQueueItem_1.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Queues.IQueueSerializer interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Queues_IQueueSerializer.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Repository namespace" Url="html/N_AccidentalFish_ApplicationSupport_Core_Repository.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Repository.IRepository(Of T) interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Repository_IRepository_1.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Repository.IRepository&lt;T&gt; interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Repository_IRepository_1.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Repository.IRepositoryAsync(Of T) interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Repository_IRepositoryAsync_1.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Repository.IRepositoryAsync&lt;T&gt; interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Repository_IRepositoryAsync_1.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Repository.IUnitOfWork interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWork.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Repository.IUnitOfWorkAsync interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWorkAsync.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Repository.IUnitOfWorkFactory interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWorkFactory.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Repository.IUnitOfWorkFactoryProvider interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWorkFactoryProvider.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Runtime namespace" Url="html/N_AccidentalFish_ApplicationSupport_Core_Runtime.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Runtime.IComponentHost interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Runtime_IComponentHost.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Runtime.IComponentHostConfigurationProvider interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Runtime_IComponentHostConfigurationProvider.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Runtime.IRuntimeEnvironment interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Runtime_IRuntimeEnvironment.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Runtime.StaticComponentHostConfigurationProvider class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Runtime_StaticComponentHostConfigurationProvider.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Threading namespace" Url="html/N_AccidentalFish_ApplicationSupport_Core_Threading.htm" />
+  <HelpKINode Title="AccidentalFish.ApplicationSupport.Core.Threading.IWaitHandle interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Threading_IWaitHandle.htm" />
+  <HelpKINode Title="All property">
+    <HelpKINode Title="IRepository(T).All Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Repository_IRepository_1_All.htm" />
+    <HelpKINode Title="IRepositoryAsync(T).All Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Repository_IRepositoryAsync_1_All.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AllIncluding method">
+    <HelpKINode Title="IRepository(T).AllIncluding Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepository_1_AllIncluding.htm" />
+    <HelpKINode Title="IRepositoryAsync(T).AllIncluding Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepositoryAsync_1_AllIncluding.htm" />
+  </HelpKINode>
+  <HelpKINode Title="AllowedHeaders property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationCorsRule_AllowedHeaders.htm" />
+  <HelpKINode Title="AllowedOrigins property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationCorsRule_AllowedOrigins.htm" />
+  <HelpKINode Title="AllowedVerbs property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationCorsRule_AllowedVerbs.htm" />
+  <HelpKINode Title="ApplicationComponent class">
+    <HelpKINode Title="ApplicationComponent Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent.htm" />
+    <HelpKINode Title="about ApplicationComponent class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent.htm" />
+    <HelpKINode Title="constructor" Url="html/M_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ApplicationComponent.ApplicationComponent constructor" Url="html/M_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent__ctor.htm" />
+  <HelpKINode Title="ApplicationComponent.DbContextType property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_DbContextType.htm" />
+  <HelpKINode Title="ApplicationComponent.DefaultBlobContainerAccessType property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_DefaultBlobContainerAccessType.htm" />
+  <HelpKINode Title="ApplicationComponent.DefaultBlobContainerName property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_DefaultBlobContainerName.htm" />
+  <HelpKINode Title="ApplicationComponent.DefaultBrokeredMessageQueueName property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_DefaultBrokeredMessageQueueName.htm" />
+  <HelpKINode Title="ApplicationComponent.DefaultLeaseBlockName property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_DefaultLeaseBlockName.htm" />
+  <HelpKINode Title="ApplicationComponent.DefaultQueueName property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_DefaultQueueName.htm" />
+  <HelpKINode Title="ApplicationComponent.DefaultSubscriptionName property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_DefaultSubscriptionName.htm" />
+  <HelpKINode Title="ApplicationComponent.DefaultTableName property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_DefaultTableName.htm" />
+  <HelpKINode Title="ApplicationComponent.DefaultTopicName property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_DefaultTopicName.htm" />
+  <HelpKINode Title="ApplicationComponent.Fqn property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_Fqn.htm" />
+  <HelpKINode Title="ApplicationComponent.ServiceBusConnectionString property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_ServiceBusConnectionString.htm" />
+  <HelpKINode Title="ApplicationComponent.Settings property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_Settings.htm" />
+  <HelpKINode Title="ApplicationComponent.SqlServerConnectionString property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_SqlServerConnectionString.htm" />
+  <HelpKINode Title="ApplicationComponent.StorageAccountConnectionString property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_StorageAccountConnectionString.htm" />
+  <HelpKINode Title="ApplicationComponent.TableData property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_TableData.htm" />
+  <HelpKINode Title="ApplicationComponent.Uploads property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_Uploads.htm" />
+  <HelpKINode Title="ApplicationComponent.UsesAzureStorage property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_UsesAzureStorage.htm" />
+  <HelpKINode Title="ApplicationComponent.UsesServiceBus property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_UsesServiceBus.htm" />
+  <HelpKINode Title="ApplicationComponents property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfiguration_ApplicationComponents.htm" />
+  <HelpKINode Title="ApplicationComponentSetting class">
+    <HelpKINode Title="ApplicationComponentSetting Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponentSetting.htm" />
+    <HelpKINode Title="about ApplicationComponentSetting class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponentSetting.htm" />
+    <HelpKINode Title="constructor" Url="html/M_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponentSetting__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponentSetting.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponentSetting.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ApplicationComponentSetting.ApplicationComponentSetting constructor" Url="html/M_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponentSetting__ctor.htm" />
+  <HelpKINode Title="ApplicationComponentSetting.Attributes property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponentSetting_Attributes.htm" />
+  <HelpKINode Title="ApplicationComponentSetting.Key property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponentSetting_Key.htm" />
+  <HelpKINode Title="ApplicationComponentSetting.ResourceType property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponentSetting_ResourceType.htm" />
+  <HelpKINode Title="ApplicationComponentSetting.Value property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponentSetting_Value.htm" />
+  <HelpKINode Title="ApplicationConfiguration class">
+    <HelpKINode Title="ApplicationConfiguration Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfiguration.htm" />
+    <HelpKINode Title="about ApplicationConfiguration class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfiguration.htm" />
+    <HelpKINode Title="constructor" Url="html/M_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfiguration__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfiguration.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfiguration.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ApplicationConfiguration.ApplicationComponents property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfiguration_ApplicationComponents.htm" />
+  <HelpKINode Title="ApplicationConfiguration.ApplicationConfiguration constructor" Url="html/M_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfiguration__ctor.htm" />
+  <HelpKINode Title="ApplicationConfiguration.FromFile method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfiguration_FromFile.htm" />
+  <HelpKINode Title="ApplicationConfiguration.ServiceBusConnectionStrings property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfiguration_ServiceBusConnectionStrings.htm" />
+  <HelpKINode Title="ApplicationConfiguration.SqlServerConnectionStrings property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfiguration_SqlServerConnectionStrings.htm" />
+  <HelpKINode Title="ApplicationConfiguration.StorageAccounts property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfiguration_StorageAccounts.htm" />
+  <HelpKINode Title="ApplicationConfigurationSettings class">
+    <HelpKINode Title="ApplicationConfigurationSettings Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfigurationSettings.htm" />
+    <HelpKINode Title="about ApplicationConfigurationSettings class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfigurationSettings.htm" />
+    <HelpKINode Title="constructor" Url="html/M_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfigurationSettings__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfigurationSettings.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfigurationSettings.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ApplicationConfigurationSettings.ApplicationConfigurationSettings constructor" Url="html/M_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfigurationSettings__ctor.htm" />
+  <HelpKINode Title="ApplicationConfigurationSettings.FromFile method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfigurationSettings_FromFile.htm" />
+  <HelpKINode Title="ApplicationConfigurationSettings.FromFiles method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfigurationSettings_FromFiles.htm" />
+  <HelpKINode Title="ApplicationConfigurationSettings.Merge method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfigurationSettings_Merge.htm" />
+  <HelpKINode Title="ApplicationConfigurationSettings.Settings property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfigurationSettings_Settings.htm" />
+  <HelpKINode Title="ApplicationCorsRule class">
+    <HelpKINode Title="ApplicationCorsRule Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationCorsRule.htm" />
+    <HelpKINode Title="about ApplicationCorsRule class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationCorsRule.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationCorsRule__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationCorsRule.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationCorsRule.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ApplicationCorsRule.AllowedHeaders property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationCorsRule_AllowedHeaders.htm" />
+  <HelpKINode Title="ApplicationCorsRule.AllowedOrigins property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationCorsRule_AllowedOrigins.htm" />
+  <HelpKINode Title="ApplicationCorsRule.AllowedVerbs property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationCorsRule_AllowedVerbs.htm" />
+  <HelpKINode Title="ApplicationCorsRule.ApplicationCorsRule constructor" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationCorsRule__ctor.htm" />
+  <HelpKINode Title="ApplicationCorsRule.ApplyToBlobs property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationCorsRule_ApplyToBlobs.htm" />
+  <HelpKINode Title="ApplicationCorsRule.ApplyToQueues property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationCorsRule_ApplyToQueues.htm" />
+  <HelpKINode Title="ApplicationCorsRule.ApplyToTables property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationCorsRule_ApplyToTables.htm" />
+  <HelpKINode Title="ApplicationCorsRule.ExposedHeaders property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationCorsRule_ExposedHeaders.htm" />
+  <HelpKINode Title="ApplicationCorsRule.MaxAgeSeconds property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationCorsRule_MaxAgeSeconds.htm" />
+  <HelpKINode Title="ApplicationResourceSettingNameProvider class">
+    <HelpKINode Title="ApplicationResourceSettingNameProvider Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_ApplicationResourceSettingNameProvider.htm" />
+    <HelpKINode Title="about ApplicationResourceSettingNameProvider class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_ApplicationResourceSettingNameProvider.htm" />
+    <HelpKINode Title="constructor" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ApplicationResourceSettingNameProvider__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Components_ApplicationResourceSettingNameProvider.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ApplicationResourceSettingNameProvider.ApplicationResourceSettingNameProvider constructor" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ApplicationResourceSettingNameProvider__ctor.htm" />
+  <HelpKINode Title="ApplicationResourceSettingNameProvider.DefaultBlobContainerName method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ApplicationResourceSettingNameProvider_DefaultBlobContainerName.htm" />
+  <HelpKINode Title="ApplicationResourceSettingNameProvider.DefaultBrokeredMessageQueueName method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ApplicationResourceSettingNameProvider_DefaultBrokeredMessageQueueName.htm" />
+  <HelpKINode Title="ApplicationResourceSettingNameProvider.DefaultLeaseBlockName method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ApplicationResourceSettingNameProvider_DefaultLeaseBlockName.htm" />
+  <HelpKINode Title="ApplicationResourceSettingNameProvider.DefaultQueueName method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ApplicationResourceSettingNameProvider_DefaultQueueName.htm" />
+  <HelpKINode Title="ApplicationResourceSettingNameProvider.DefaultSubscriptionName method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ApplicationResourceSettingNameProvider_DefaultSubscriptionName.htm" />
+  <HelpKINode Title="ApplicationResourceSettingNameProvider.DefaultTableName method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ApplicationResourceSettingNameProvider_DefaultTableName.htm" />
+  <HelpKINode Title="ApplicationResourceSettingNameProvider.DefaultTopicName method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ApplicationResourceSettingNameProvider_DefaultTopicName.htm" />
+  <HelpKINode Title="ApplicationResourceSettingNameProvider.ServiceBusConnectionString method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ApplicationResourceSettingNameProvider_ServiceBusConnectionString.htm" />
+  <HelpKINode Title="ApplicationResourceSettingNameProvider.SettingName method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ApplicationResourceSettingNameProvider_SettingName.htm" />
+  <HelpKINode Title="ApplicationResourceSettingNameProvider.SqlConnectionString method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ApplicationResourceSettingNameProvider_SqlConnectionString.htm" />
+  <HelpKINode Title="ApplicationResourceSettingNameProvider.SqlContextType method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ApplicationResourceSettingNameProvider_SqlContextType.htm" />
+  <HelpKINode Title="ApplicationResourceSettingNameProvider.StorageAccountConnectionString method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ApplicationResourceSettingNameProvider_StorageAccountConnectionString.htm" />
+  <HelpKINode Title="ApplicationStorageAccount class">
+    <HelpKINode Title="ApplicationStorageAccount Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationStorageAccount.htm" />
+    <HelpKINode Title="about ApplicationStorageAccount class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationStorageAccount.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationStorageAccount__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationStorageAccount.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationStorageAccount.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ApplicationStorageAccount.ApplicationStorageAccount constructor" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationStorageAccount__ctor.htm" />
+  <HelpKINode Title="ApplicationStorageAccount.ConnectionString property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationStorageAccount_ConnectionString.htm" />
+  <HelpKINode Title="ApplicationStorageAccount.CorsRules property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationStorageAccount_CorsRules.htm" />
+  <HelpKINode Title="ApplicationStorageAccount.Fqn property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationStorageAccount_Fqn.htm" />
+  <HelpKINode Title="ApplyToBlobs property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationCorsRule_ApplyToBlobs.htm" />
+  <HelpKINode Title="ApplyToQueues property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationCorsRule_ApplyToQueues.htm" />
+  <HelpKINode Title="ApplyToTables property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationCorsRule_ApplyToTables.htm" />
+  <HelpKINode Title="Attributes property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponentSetting_Attributes.htm" />
+  <HelpKINode Title="BackoffQueueProcessor(Of T) class">
+    <HelpKINode Title="BackoffQueueProcessor(T) Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffQueueProcessor_1.htm" />
+    <HelpKINode Title="about BackoffQueueProcessor(Of T) class" Url="html/T_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffQueueProcessor_1.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffQueueProcessor_1__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffQueueProcessor_1.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffQueueProcessor_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BackoffQueueProcessor(Of T).BackoffQueueProcessor constructor" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffQueueProcessor_1__ctor.htm" />
+  <HelpKINode Title="BackoffQueueProcessor(Of T).ComponentIdentity property" Url="html/P_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffQueueProcessor_1_ComponentIdentity.htm" />
+  <HelpKINode Title="BackoffQueueProcessor(Of T).HandleRecievedItemAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffQueueProcessor_1_HandleRecievedItemAsync.htm" />
+  <HelpKINode Title="BackoffQueueProcessor(Of T).Logger property" Url="html/P_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffQueueProcessor_1_Logger.htm" />
+  <HelpKINode Title="BackoffQueueProcessor(Of T).Queue property" Url="html/P_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffQueueProcessor_1_Queue.htm" />
+  <HelpKINode Title="BackoffQueueProcessor(Of T).StartAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffQueueProcessor_1_StartAsync.htm" />
+  <HelpKINode Title="BackoffQueueProcessor&lt;T&gt; class">
+    <HelpKINode Title="BackoffQueueProcessor(T) Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffQueueProcessor_1.htm" />
+    <HelpKINode Title="about BackoffQueueProcessor&lt;T&gt; class" Url="html/T_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffQueueProcessor_1.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffQueueProcessor_1__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffQueueProcessor_1.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffQueueProcessor_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BackoffQueueProcessor&lt;T&gt;.BackoffQueueProcessor constructor" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffQueueProcessor_1__ctor.htm" />
+  <HelpKINode Title="BackoffQueueProcessor&lt;T&gt;.ComponentIdentity property" Url="html/P_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffQueueProcessor_1_ComponentIdentity.htm" />
+  <HelpKINode Title="BackoffQueueProcessor&lt;T&gt;.HandleRecievedItemAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffQueueProcessor_1_HandleRecievedItemAsync.htm" />
+  <HelpKINode Title="BackoffQueueProcessor&lt;T&gt;.Logger property" Url="html/P_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffQueueProcessor_1_Logger.htm" />
+  <HelpKINode Title="BackoffQueueProcessor&lt;T&gt;.Queue property" Url="html/P_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffQueueProcessor_1_Queue.htm" />
+  <HelpKINode Title="BackoffQueueProcessor&lt;T&gt;.StartAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffQueueProcessor_1_StartAsync.htm" />
+  <HelpKINode Title="BackoffSubscriptionProcessor(Of T) class">
+    <HelpKINode Title="BackoffSubscriptionProcessor(T) Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffSubscriptionProcessor_1.htm" />
+    <HelpKINode Title="about BackoffSubscriptionProcessor(Of T) class" Url="html/T_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffSubscriptionProcessor_1.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffSubscriptionProcessor_1__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffSubscriptionProcessor_1.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffSubscriptionProcessor_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BackoffSubscriptionProcessor(Of T).BackoffSubscriptionProcessor constructor" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffSubscriptionProcessor_1__ctor.htm" />
+  <HelpKINode Title="BackoffSubscriptionProcessor(Of T).ComponentIdentity property" Url="html/P_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffSubscriptionProcessor_1_ComponentIdentity.htm" />
+  <HelpKINode Title="BackoffSubscriptionProcessor(Of T).HandleRecievedItemAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffSubscriptionProcessor_1_HandleRecievedItemAsync.htm" />
+  <HelpKINode Title="BackoffSubscriptionProcessor(Of T).Logger property" Url="html/P_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffSubscriptionProcessor_1_Logger.htm" />
+  <HelpKINode Title="BackoffSubscriptionProcessor(Of T).StartAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffSubscriptionProcessor_1_StartAsync.htm" />
+  <HelpKINode Title="BackoffSubscriptionProcessor(Of T).Subscription property" Url="html/P_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffSubscriptionProcessor_1_Subscription.htm" />
+  <HelpKINode Title="BackoffSubscriptionProcessor&lt;T&gt; class">
+    <HelpKINode Title="BackoffSubscriptionProcessor(T) Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffSubscriptionProcessor_1.htm" />
+    <HelpKINode Title="about BackoffSubscriptionProcessor&lt;T&gt; class" Url="html/T_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffSubscriptionProcessor_1.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffSubscriptionProcessor_1__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffSubscriptionProcessor_1.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffSubscriptionProcessor_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="BackoffSubscriptionProcessor&lt;T&gt;.BackoffSubscriptionProcessor constructor" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffSubscriptionProcessor_1__ctor.htm" />
+  <HelpKINode Title="BackoffSubscriptionProcessor&lt;T&gt;.ComponentIdentity property" Url="html/P_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffSubscriptionProcessor_1_ComponentIdentity.htm" />
+  <HelpKINode Title="BackoffSubscriptionProcessor&lt;T&gt;.HandleRecievedItemAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffSubscriptionProcessor_1_HandleRecievedItemAsync.htm" />
+  <HelpKINode Title="BackoffSubscriptionProcessor&lt;T&gt;.Logger property" Url="html/P_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffSubscriptionProcessor_1_Logger.htm" />
+  <HelpKINode Title="BackoffSubscriptionProcessor&lt;T&gt;.StartAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffSubscriptionProcessor_1_StartAsync.htm" />
+  <HelpKINode Title="BackoffSubscriptionProcessor&lt;T&gt;.Subscription property" Url="html/P_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffSubscriptionProcessor_1_Subscription.htm" />
+  <HelpKINode Title="Base64Decode method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Extensions_StringExtensions_Base64Decode.htm" />
+  <HelpKINode Title="Base64Encode method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Extensions_StringExtensions_Base64Encode.htm" />
+  <HelpKINode Title="BeforeLog method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Logging_ILoggerExtension_BeforeLog.htm" />
+  <HelpKINode Title="Blob enumeration member" Url="html/T_AccidentalFish_ApplicationSupport_Core_Configuration_BlobContainerPublicAccessTypeEnum.htm" />
+  <HelpKINode Title="BlobContainerPublicAccessTypeEnum enumeration" Url="html/T_AccidentalFish_ApplicationSupport_Core_Configuration_BlobContainerPublicAccessTypeEnum.htm" />
+  <HelpKINode Title="Bootstrapper class">
+    <HelpKINode Title="Bootstrapper Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Bootstrapper.htm" />
+    <HelpKINode Title="about Bootstrapper class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Bootstrapper.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Bootstrapper.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Bootstrapper.LoggerTypeEnum enumeration" Url="html/T_AccidentalFish_ApplicationSupport_Core_Bootstrapper_LoggerTypeEnum.htm" />
+  <HelpKINode Title="Bootstrapper.RegisterDependencies method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Bootstrapper_RegisterDependencies.htm" />
+  <HelpKINode Title="Bootstrapper.UseCore method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Bootstrapper_UseCore.htm" />
+  <HelpKINode Title="Cc property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Email_EmailQueueItem_Cc.htm" />
+  <HelpKINode Title="ComponentConfiguration class">
+    <HelpKINode Title="ComponentConfiguration Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_ComponentConfiguration.htm" />
+    <HelpKINode Title="about ComponentConfiguration class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_ComponentConfiguration.htm" />
+    <HelpKINode Title="constructor" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ComponentConfiguration__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Components_ComponentConfiguration.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Components_ComponentConfiguration.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ComponentConfiguration.ComponentConfiguration constructor" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ComponentConfiguration__ctor.htm" />
+  <HelpKINode Title="ComponentConfiguration.ComponentIdentity property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Components_ComponentConfiguration_ComponentIdentity.htm" />
+  <HelpKINode Title="ComponentConfiguration.Instances property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Components_ComponentConfiguration_Instances.htm" />
+  <HelpKINode Title="ComponentConfiguration.RestartEvaluator property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Components_ComponentConfiguration_RestartEvaluator.htm" />
+  <HelpKINode Title="ComponentIdentity class">
+    <HelpKINode Title="ComponentIdentity Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_ComponentIdentity.htm" />
+    <HelpKINode Title="about ComponentIdentity class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_ComponentIdentity.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Components_ComponentIdentity__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Components_ComponentIdentity.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Components_ComponentIdentity.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ComponentIdentity property">
+    <HelpKINode Title="AbstractApplicationComponent.ComponentIdentity Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Components_AbstractApplicationComponent_ComponentIdentity.htm" />
+    <HelpKINode Title="BackoffQueueProcessor(T).ComponentIdentity Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffQueueProcessor_1_ComponentIdentity.htm" />
+    <HelpKINode Title="BackoffSubscriptionProcessor(T).ComponentIdentity Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffSubscriptionProcessor_1_ComponentIdentity.htm" />
+    <HelpKINode Title="ComponentConfiguration.ComponentIdentity Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Components_ComponentConfiguration_ComponentIdentity.htm" />
+    <HelpKINode Title="IApplicationComponent.ComponentIdentity Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Components_IApplicationComponent_ComponentIdentity.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ComponentIdentity.ComponentIdentity constructor" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Components_ComponentIdentity__ctor.htm" />
+  <HelpKINode Title="ComponentIdentityAttribute class">
+    <HelpKINode Title="ComponentIdentityAttribute Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_ComponentIdentityAttribute.htm" />
+    <HelpKINode Title="about ComponentIdentityAttribute class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_ComponentIdentityAttribute.htm" />
+    <HelpKINode Title="constructor" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ComponentIdentityAttribute__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Components_ComponentIdentityAttribute.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Components_ComponentIdentityAttribute.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ComponentIdentityAttribute.ComponentIdentityAttribute constructor" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ComponentIdentityAttribute__ctor.htm" />
+  <HelpKINode Title="ComponentIdentityAttribute.FullyQualifiedName property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Components_ComponentIdentityAttribute_FullyQualifiedName.htm" />
+  <HelpKINode Title="ConnectionString property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationStorageAccount_ConnectionString.htm" />
+  <HelpKINode Title="Console enumeration member" Url="html/T_AccidentalFish_ApplicationSupport_Core_Bootstrapper_LoggerTypeEnum.htm" />
+  <HelpKINode Title="Container enumeration member" Url="html/T_AccidentalFish_ApplicationSupport_Core_Configuration_BlobContainerPublicAccessTypeEnum.htm" />
+  <HelpKINode Title="CorrelationId property">
+    <HelpKINode Title="ICorrelationIdProvider.CorrelationId Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Logging_ICorrelationIdProvider_CorrelationId.htm" />
+    <HelpKINode Title="LogQueueItem.CorrelationId Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Logging_Model_LogQueueItem_CorrelationId.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CorsRules property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationStorageAccount_CorsRules.htm" />
+  <HelpKINode Title="Create method">
+    <HelpKINode Title="IUnitOfWorkFactory.Create Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWorkFactory_Create.htm" />
+    <HelpKINode Title="IUnitOfWorkFactoryProvider.Create Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWorkFactoryProvider_Create.htm" />
+  </HelpKINode>
+  <HelpKINode Title="CreateAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWorkFactory_CreateAsync.htm" />
+  <HelpKINode Title="CreateAsynchronousBlockBlobRepository method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Blobs_IBlobRepositoryFactory_CreateAsynchronousBlockBlobRepository.htm" />
+  <HelpKINode Title="CreateAsynchronousQueue method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Queues_IQueueFactory_CreateAsynchronousQueue.htm" />
+  <HelpKINode Title="CreateAsynchronousSubscription method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Queues_IQueueFactory_CreateAsynchronousSubscription.htm" />
+  <HelpKINode Title="CreateAsynchronousSubscriptionWithConfiguration method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Queues_IQueueFactory_CreateAsynchronousSubscriptionWithConfiguration.htm" />
+  <HelpKINode Title="CreateAsynchronousTopic method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Queues_IQueueFactory_CreateAsynchronousTopic.htm" />
+  <HelpKINode Title="CreateIfNotExistsAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Policies_IResourceCreator_CreateIfNotExistsAsync.htm" />
+  <HelpKINode Title="CreateLeaseManager(Of T) method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Policies_ILeaseManagerFactory_CreateLeaseManager__1.htm" />
+  <HelpKINode Title="CreateLeaseManager&lt;T&gt; method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Policies_ILeaseManagerFactory_CreateLeaseManager__1.htm" />
+  <HelpKINode Title="CreateLeaseObjectIfNotExistAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Policies_ILeaseManager_1_CreateLeaseObjectIfNotExistAsync.htm" />
+  <HelpKINode Title="CreateLongLivedLogger method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Logging_ILoggerFactory_CreateLongLivedLogger.htm" />
+  <HelpKINode Title="CreateQueue method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Queues_IQueueFactory_CreateQueue.htm" />
+  <HelpKINode Title="CreateShortLivedLogger method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Logging_ILoggerFactory_CreateShortLivedLogger.htm" />
+  <HelpKINode Title="CustomErrorHandler property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Runtime_IComponentHost_CustomErrorHandler.htm" />
+  <HelpKINode Title="DbContextType property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_DbContextType.htm" />
+  <HelpKINode Title="Debug enumeration member" Url="html/T_AccidentalFish_ApplicationSupport_Core_Logging_LogLevelEnum.htm" />
+  <HelpKINode Title="DebugAsync method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Logging_ILogger_DebugAsync.htm" />
+  <HelpKINode Title="DefaultBlobContainerAccessType property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_DefaultBlobContainerAccessType.htm" />
+  <HelpKINode Title="DefaultBlobContainerName method">
+    <HelpKINode Title="ApplicationResourceSettingNameProvider.DefaultBlobContainerName Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ApplicationResourceSettingNameProvider_DefaultBlobContainerName.htm" />
+    <HelpKINode Title="IApplicationResourceSettingNameProvider.DefaultBlobContainerName Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingNameProvider_DefaultBlobContainerName.htm" />
+    <HelpKINode Title="IApplicationResourceSettingProvider.DefaultBlobContainerName Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingProvider_DefaultBlobContainerName.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DefaultBlobContainerName property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_DefaultBlobContainerName.htm" />
+  <HelpKINode Title="DefaultBrokeredMessageQueueName method">
+    <HelpKINode Title="ApplicationResourceSettingNameProvider.DefaultBrokeredMessageQueueName Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ApplicationResourceSettingNameProvider_DefaultBrokeredMessageQueueName.htm" />
+    <HelpKINode Title="IApplicationResourceSettingNameProvider.DefaultBrokeredMessageQueueName Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingNameProvider_DefaultBrokeredMessageQueueName.htm" />
+    <HelpKINode Title="IApplicationResourceSettingProvider.DefaultBrokeredMessageQueueName Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingProvider_DefaultBrokeredMessageQueueName.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DefaultBrokeredMessageQueueName property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_DefaultBrokeredMessageQueueName.htm" />
+  <HelpKINode Title="DefaultLeaseBlockName method">
+    <HelpKINode Title="ApplicationResourceSettingNameProvider.DefaultLeaseBlockName Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ApplicationResourceSettingNameProvider_DefaultLeaseBlockName.htm" />
+    <HelpKINode Title="IApplicationResourceSettingNameProvider.DefaultLeaseBlockName Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingNameProvider_DefaultLeaseBlockName.htm" />
+    <HelpKINode Title="IApplicationResourceSettingProvider.DefaultLeaseBlockName Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingProvider_DefaultLeaseBlockName.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DefaultLeaseBlockName property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_DefaultLeaseBlockName.htm" />
+  <HelpKINode Title="DefaultQueueName method">
+    <HelpKINode Title="ApplicationResourceSettingNameProvider.DefaultQueueName Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ApplicationResourceSettingNameProvider_DefaultQueueName.htm" />
+    <HelpKINode Title="IApplicationResourceSettingNameProvider.DefaultQueueName Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingNameProvider_DefaultQueueName.htm" />
+    <HelpKINode Title="IApplicationResourceSettingProvider.DefaultQueueName Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingProvider_DefaultQueueName.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DefaultQueueName property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_DefaultQueueName.htm" />
+  <HelpKINode Title="DefaultSubscriptionName method">
+    <HelpKINode Title="ApplicationResourceSettingNameProvider.DefaultSubscriptionName Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ApplicationResourceSettingNameProvider_DefaultSubscriptionName.htm" />
+    <HelpKINode Title="IApplicationResourceSettingNameProvider.DefaultSubscriptionName Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingNameProvider_DefaultSubscriptionName.htm" />
+    <HelpKINode Title="IApplicationResourceSettingProvider.DefaultSubscriptionName Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingProvider_DefaultSubscriptionName.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DefaultSubscriptionName property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_DefaultSubscriptionName.htm" />
+  <HelpKINode Title="DefaultTableName method">
+    <HelpKINode Title="ApplicationResourceSettingNameProvider.DefaultTableName Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ApplicationResourceSettingNameProvider_DefaultTableName.htm" />
+    <HelpKINode Title="IApplicationResourceSettingNameProvider.DefaultTableName Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingNameProvider_DefaultTableName.htm" />
+    <HelpKINode Title="IApplicationResourceSettingProvider.DefaultTableName Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingProvider_DefaultTableName.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DefaultTableName property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_DefaultTableName.htm" />
+  <HelpKINode Title="DefaultTopicName method">
+    <HelpKINode Title="ApplicationResourceSettingNameProvider.DefaultTopicName Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ApplicationResourceSettingNameProvider_DefaultTopicName.htm" />
+    <HelpKINode Title="IApplicationResourceSettingNameProvider.DefaultTopicName Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingNameProvider_DefaultTopicName.htm" />
+    <HelpKINode Title="IApplicationResourceSettingProvider.DefaultTopicName Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingProvider_DefaultTopicName.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DefaultTopicName property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_DefaultTopicName.htm" />
+  <HelpKINode Title="Delete method">
+    <HelpKINode Title="IRepository(T).Delete Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Repository_IRepository_1_Delete.htm" />
+    <HelpKINode Title="IRepositoryAsync(T).Delete Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepositoryAsync_1_Delete.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DeleteAsync method">
+    <HelpKINode Title="IBlob.DeleteAsync Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Blobs_IBlob_DeleteAsync.htm" />
+    <HelpKINode Title="IRepositoryAsync(T).DeleteAsync Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepositoryAsync_1_DeleteAsync.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Dequeue method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Queues_IQueue_1_Dequeue.htm" />
+  <HelpKINode Title="DequeueAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousQueue_1_DequeueAsync.htm" />
+  <HelpKINode Title="DequeueCount property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Queues_IQueueItem_1_DequeueCount.htm" />
+  <HelpKINode Title="Deserialize(Of T) method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IQueueSerializer_Deserialize__1.htm" />
+  <HelpKINode Title="Deserialize&lt;T&gt; method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IQueueSerializer_Deserialize__1.htm" />
+  <HelpKINode Title="DownloadAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Blobs_IBlob_DownloadAsync.htm" />
+  <HelpKINode Title="DownloadBytesAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Blobs_IBlob_DownloadBytesAsync.htm" />
+  <HelpKINode Title="DownloadString method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Blobs_IBlob_DownloadString.htm" />
+  <HelpKINode Title="DownloadStringAsync method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Blobs_IBlob_DownloadStringAsync.htm" />
+  <HelpKINode Title="EmailQueueItem class">
+    <HelpKINode Title="EmailQueueItem Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Email_EmailQueueItem.htm" />
+    <HelpKINode Title="about EmailQueueItem class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Email_EmailQueueItem.htm" />
+    <HelpKINode Title="constructor" Url="html/M_AccidentalFish_ApplicationSupport_Core_Email_EmailQueueItem__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Email_EmailQueueItem.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Email_EmailQueueItem.htm" />
+  </HelpKINode>
+  <HelpKINode Title="EmailQueueItem.Cc property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Email_EmailQueueItem_Cc.htm" />
+  <HelpKINode Title="EmailQueueItem.EmailQueueItem constructor" Url="html/M_AccidentalFish_ApplicationSupport_Core_Email_EmailQueueItem__ctor.htm" />
+  <HelpKINode Title="EmailQueueItem.EmailTemplateId property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Email_EmailQueueItem_EmailTemplateId.htm" />
+  <HelpKINode Title="EmailQueueItem.From property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Email_EmailQueueItem_From.htm" />
+  <HelpKINode Title="EmailQueueItem.HtmlBody property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Email_EmailQueueItem_HtmlBody.htm" />
+  <HelpKINode Title="EmailQueueItem.MergeData property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Email_EmailQueueItem_MergeData.htm" />
+  <HelpKINode Title="EmailQueueItem.Subject property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Email_EmailQueueItem_Subject.htm" />
+  <HelpKINode Title="EmailQueueItem.TextBody property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Email_EmailQueueItem_TextBody.htm" />
+  <HelpKINode Title="EmailQueueItem.To property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Email_EmailQueueItem_To.htm" />
+  <HelpKINode Title="EmailTemplateId property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Email_EmailQueueItem_EmailTemplateId.htm" />
+  <HelpKINode Title="Endpoint property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Blobs_IAsynchronousBlockBlobRepository_Endpoint.htm" />
+  <HelpKINode Title="Enqueue method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IQueue_1_Enqueue.htm" />
+  <HelpKINode Title="EnqueueAsync method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousQueue_1_EnqueueAsync.htm" />
+  <HelpKINode Title="Equals method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Naming_FullyQualifiedNameBase_Equals.htm" />
+  <HelpKINode Title="Error enumeration member" Url="html/T_AccidentalFish_ApplicationSupport_Core_Logging_LogLevelEnum.htm" />
+  <HelpKINode Title="Error method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Logging_ILogger_Error.htm" />
+  <HelpKINode Title="ExceptionName property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Logging_Model_LogQueueItem_ExceptionName.htm" />
+  <HelpKINode Title="Execute method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Policies_IBackoffPolicy_Execute.htm" />
+  <HelpKINode Title="ExecuteAsync method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Policies_IAsynchronousBackoffPolicy_ExecuteAsync.htm" />
+  <HelpKINode Title="ExposedHeaders property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationCorsRule_ExposedHeaders.htm" />
+  <HelpKINode Title="ExtendLease method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Queues_IQueue_1_ExtendLease.htm" />
+  <HelpKINode Title="ExtendLeaseAsync method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousQueue_1_ExtendLeaseAsync.htm" />
+  <HelpKINode Title="Find method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepository_1_Find.htm" />
+  <HelpKINode Title="FindAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepositoryAsync_1_FindAsync.htm" />
+  <HelpKINode Title="Fqn property">
+    <HelpKINode Title="ApplicationComponent.Fqn Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_Fqn.htm" />
+    <HelpKINode Title="ApplicationStorageAccount.Fqn Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationStorageAccount_Fqn.htm" />
+  </HelpKINode>
+  <HelpKINode Title="From property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Email_EmailQueueItem_From.htm" />
+  <HelpKINode Title="FromFile method">
+    <HelpKINode Title="ApplicationConfiguration.FromFile Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfiguration_FromFile.htm" />
+    <HelpKINode Title="ApplicationConfigurationSettings.FromFile Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfigurationSettings_FromFile.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FromFiles method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfigurationSettings_FromFiles.htm" />
+  <HelpKINode Title="FullyQualifiedName property">
+    <HelpKINode Title="ComponentIdentityAttribute.FullyQualifiedName Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Components_ComponentIdentityAttribute_FullyQualifiedName.htm" />
+    <HelpKINode Title="FullyQualifiedNameBase.FullyQualifiedName Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Naming_FullyQualifiedNameBase_FullyQualifiedName.htm" />
+    <HelpKINode Title="IFullyQualifiedName.FullyQualifiedName Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Naming_IFullyQualifiedName_FullyQualifiedName.htm" />
+    <HelpKINode Title="LoggerSource.FullyQualifiedName Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Logging_LoggerSource_FullyQualifiedName.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FullyQualifiedNameBase class">
+    <HelpKINode Title="FullyQualifiedNameBase Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Naming_FullyQualifiedNameBase.htm" />
+    <HelpKINode Title="about FullyQualifiedNameBase class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Naming_FullyQualifiedNameBase.htm" />
+    <HelpKINode Title="constructor" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Naming_FullyQualifiedNameBase__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Naming_FullyQualifiedNameBase.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Naming_FullyQualifiedNameBase.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FullyQualifiedNameBase.Equals method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Naming_FullyQualifiedNameBase_Equals.htm" />
+  <HelpKINode Title="FullyQualifiedNameBase.FullyQualifiedName property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Naming_FullyQualifiedNameBase_FullyQualifiedName.htm" />
+  <HelpKINode Title="FullyQualifiedNameBase.FullyQualifiedNameBase constructor" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Naming_FullyQualifiedNameBase__ctor.htm" />
+  <HelpKINode Title="FullyQualifiedNameBase.GetHashCode method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Naming_FullyQualifiedNameBase_GetHashCode.htm" />
+  <HelpKINode Title="FullyQualifiedNameBase.ToString method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Naming_FullyQualifiedNameBase_ToString.htm" />
+  <HelpKINode Title="Get method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Blobs_IAsynchronousBlockBlobRepository_Get.htm" />
+  <HelpKINode Title="GetAsyncBlockBlobRepository method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory_GetAsyncBlockBlobRepository.htm" />
+  <HelpKINode Title="GetAsyncQueue method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory_GetAsyncQueue.htm" />
+  <HelpKINode Title="GetAsyncSubscription method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory_GetAsyncSubscription.htm" />
+  <HelpKINode Title="GetAsyncTopic method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory_GetAsyncTopic.htm" />
+  <HelpKINode Title="GetConfigurationAsync method">
+    <HelpKINode Title="IComponentHostConfigurationProvider.GetConfigurationAsync Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Runtime_IComponentHostConfigurationProvider_GetConfigurationAsync.htm" />
+    <HelpKINode Title="StaticComponentHostConfigurationProvider.GetConfigurationAsync Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Runtime_StaticComponentHostConfigurationProvider_GetConfigurationAsync.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetHashCode method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Naming_FullyQualifiedNameBase_GetHashCode.htm" />
+  <HelpKINode Title="GetLeaseManager method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory_GetLeaseManager.htm" />
+  <HelpKINode Title="GetQueue method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory_GetQueue.htm" />
+  <HelpKINode Title="GetRepository(Of T) method">
+    <HelpKINode Title="IUnitOfWork.GetRepository(T) Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWork_GetRepository__1.htm" />
+    <HelpKINode Title="IUnitOfWorkAsync.GetRepository(T) Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWorkAsync_GetRepository__1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetRepository&lt;T&gt; method">
+    <HelpKINode Title="IUnitOfWork.GetRepository(T) Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWork_GetRepository__1.htm" />
+    <HelpKINode Title="IUnitOfWorkAsync.GetRepository(T) Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWorkAsync_GetRepository__1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetRepositoryAsync(Of T) method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWorkAsync_GetRepositoryAsync__1.htm" />
+  <HelpKINode Title="GetRepositoryAsync&lt;T&gt; method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWorkAsync_GetRepositoryAsync__1.htm" />
+  <HelpKINode Title="GetUnitOfWorkFactory method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory_GetUnitOfWorkFactory.htm" />
+  <HelpKINode Title="GetUploadStream method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Blobs_IBlob_GetUploadStream.htm" />
+  <HelpKINode Title="HandleRecievedItemAsync method">
+    <HelpKINode Title="BackoffQueueProcessor(T).HandleRecievedItemAsync Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffQueueProcessor_1_HandleRecievedItemAsync.htm" />
+    <HelpKINode Title="BackoffSubscriptionProcessor(T).HandleRecievedItemAsync Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffSubscriptionProcessor_1_HandleRecievedItemAsync.htm" />
+  </HelpKINode>
+  <HelpKINode Title="HtmlBody property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Email_EmailQueueItem_HtmlBody.htm" />
+  <HelpKINode Title="IAlertSender interface">
+    <HelpKINode Title="IAlertSender Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Alerts_IAlertSender.htm" />
+    <HelpKINode Title="about IAlertSender interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Alerts_IAlertSender.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Alerts_IAlertSender.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IAlertSender.SendAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Alerts_IAlertSender_SendAsync.htm" />
+  <HelpKINode Title="IApplicationComponent interface">
+    <HelpKINode Title="IApplicationComponent Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_IApplicationComponent.htm" />
+    <HelpKINode Title="about IApplicationComponent interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_IApplicationComponent.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Components_IApplicationComponent.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IApplicationComponent.ComponentIdentity property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Components_IApplicationComponent_ComponentIdentity.htm" />
+  <HelpKINode Title="IApplicationResourceFactory interface">
+    <HelpKINode Title="IApplicationResourceFactory Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory.htm" />
+    <HelpKINode Title="about IApplicationResourceFactory interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IApplicationResourceFactory.GetAsyncBlockBlobRepository method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory_GetAsyncBlockBlobRepository.htm" />
+  <HelpKINode Title="IApplicationResourceFactory.GetAsyncQueue method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory_GetAsyncQueue.htm" />
+  <HelpKINode Title="IApplicationResourceFactory.GetAsyncSubscription method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory_GetAsyncSubscription.htm" />
+  <HelpKINode Title="IApplicationResourceFactory.GetAsyncTopic method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory_GetAsyncTopic.htm" />
+  <HelpKINode Title="IApplicationResourceFactory.GetLeaseManager method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory_GetLeaseManager.htm" />
+  <HelpKINode Title="IApplicationResourceFactory.GetQueue method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory_GetQueue.htm" />
+  <HelpKINode Title="IApplicationResourceFactory.GetUnitOfWorkFactory method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory_GetUnitOfWorkFactory.htm" />
+  <HelpKINode Title="IApplicationResourceFactory.Setting method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory_Setting.htm" />
+  <HelpKINode Title="IApplicationResourceFactory.SqlConnectionString method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory_SqlConnectionString.htm" />
+  <HelpKINode Title="IApplicationResourceFactory.StorageAccountConnectionString method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory_StorageAccountConnectionString.htm" />
+  <HelpKINode Title="IApplicationResourceSettingNameProvider interface">
+    <HelpKINode Title="IApplicationResourceSettingNameProvider Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingNameProvider.htm" />
+    <HelpKINode Title="about IApplicationResourceSettingNameProvider interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingNameProvider.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingNameProvider.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IApplicationResourceSettingNameProvider.DefaultBlobContainerName method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingNameProvider_DefaultBlobContainerName.htm" />
+  <HelpKINode Title="IApplicationResourceSettingNameProvider.DefaultBrokeredMessageQueueName method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingNameProvider_DefaultBrokeredMessageQueueName.htm" />
+  <HelpKINode Title="IApplicationResourceSettingNameProvider.DefaultLeaseBlockName method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingNameProvider_DefaultLeaseBlockName.htm" />
+  <HelpKINode Title="IApplicationResourceSettingNameProvider.DefaultQueueName method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingNameProvider_DefaultQueueName.htm" />
+  <HelpKINode Title="IApplicationResourceSettingNameProvider.DefaultSubscriptionName method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingNameProvider_DefaultSubscriptionName.htm" />
+  <HelpKINode Title="IApplicationResourceSettingNameProvider.DefaultTableName method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingNameProvider_DefaultTableName.htm" />
+  <HelpKINode Title="IApplicationResourceSettingNameProvider.DefaultTopicName method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingNameProvider_DefaultTopicName.htm" />
+  <HelpKINode Title="IApplicationResourceSettingNameProvider.ServiceBusConnectionString method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingNameProvider_ServiceBusConnectionString.htm" />
+  <HelpKINode Title="IApplicationResourceSettingNameProvider.SettingName method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingNameProvider_SettingName.htm" />
+  <HelpKINode Title="IApplicationResourceSettingNameProvider.SqlConnectionString method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingNameProvider_SqlConnectionString.htm" />
+  <HelpKINode Title="IApplicationResourceSettingNameProvider.SqlContextType method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingNameProvider_SqlContextType.htm" />
+  <HelpKINode Title="IApplicationResourceSettingNameProvider.StorageAccountConnectionString method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingNameProvider_StorageAccountConnectionString.htm" />
+  <HelpKINode Title="IApplicationResourceSettingProvider interface">
+    <HelpKINode Title="IApplicationResourceSettingProvider Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingProvider.htm" />
+    <HelpKINode Title="about IApplicationResourceSettingProvider interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingProvider.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingProvider.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IApplicationResourceSettingProvider.DefaultBlobContainerName method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingProvider_DefaultBlobContainerName.htm" />
+  <HelpKINode Title="IApplicationResourceSettingProvider.DefaultBrokeredMessageQueueName method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingProvider_DefaultBrokeredMessageQueueName.htm" />
+  <HelpKINode Title="IApplicationResourceSettingProvider.DefaultLeaseBlockName method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingProvider_DefaultLeaseBlockName.htm" />
+  <HelpKINode Title="IApplicationResourceSettingProvider.DefaultQueueName method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingProvider_DefaultQueueName.htm" />
+  <HelpKINode Title="IApplicationResourceSettingProvider.DefaultSubscriptionName method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingProvider_DefaultSubscriptionName.htm" />
+  <HelpKINode Title="IApplicationResourceSettingProvider.DefaultTableName method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingProvider_DefaultTableName.htm" />
+  <HelpKINode Title="IApplicationResourceSettingProvider.DefaultTopicName method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingProvider_DefaultTopicName.htm" />
+  <HelpKINode Title="IApplicationResourceSettingProvider.ServiceBusConnectionString method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingProvider_ServiceBusConnectionString.htm" />
+  <HelpKINode Title="IApplicationResourceSettingProvider.SqlConnectionString method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingProvider_SqlConnectionString.htm" />
+  <HelpKINode Title="IApplicationResourceSettingProvider.SqlContextType method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingProvider_SqlContextType.htm" />
+  <HelpKINode Title="IApplicationResourceSettingProvider.StorageAccountConnectionString method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingProvider_StorageAccountConnectionString.htm" />
+  <HelpKINode Title="IAsynchronousBackoffPolicy interface">
+    <HelpKINode Title="IAsynchronousBackoffPolicy Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Policies_IAsynchronousBackoffPolicy.htm" />
+    <HelpKINode Title="about IAsynchronousBackoffPolicy interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Policies_IAsynchronousBackoffPolicy.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Policies_IAsynchronousBackoffPolicy.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IAsynchronousBackoffPolicy.ExecuteAsync method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Policies_IAsynchronousBackoffPolicy_ExecuteAsync.htm" />
+  <HelpKINode Title="IAsynchronousBlockBlobRepository interface">
+    <HelpKINode Title="IAsynchronousBlockBlobRepository Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Blobs_IAsynchronousBlockBlobRepository.htm" />
+    <HelpKINode Title="about IAsynchronousBlockBlobRepository interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Blobs_IAsynchronousBlockBlobRepository.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Blobs_IAsynchronousBlockBlobRepository.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Blobs_IAsynchronousBlockBlobRepository.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IAsynchronousBlockBlobRepository.Endpoint property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Blobs_IAsynchronousBlockBlobRepository_Endpoint.htm" />
+  <HelpKINode Title="IAsynchronousBlockBlobRepository.Get method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Blobs_IAsynchronousBlockBlobRepository_Get.htm" />
+  <HelpKINode Title="IAsynchronousBlockBlobRepository.Upload method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Blobs_IAsynchronousBlockBlobRepository_Upload.htm" />
+  <HelpKINode Title="IAsynchronousBlockBlobRepository.UploadAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Blobs_IAsynchronousBlockBlobRepository_UploadAsync.htm" />
+  <HelpKINode Title="IAsynchronousQueue(Of T) interface">
+    <HelpKINode Title="IAsynchronousQueue(T) Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousQueue_1.htm" />
+    <HelpKINode Title="about IAsynchronousQueue(Of T) interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousQueue_1.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousQueue_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IAsynchronousQueue(Of T).DequeueAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousQueue_1_DequeueAsync.htm" />
+  <HelpKINode Title="IAsynchronousQueue(Of T).EnqueueAsync method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousQueue_1_EnqueueAsync.htm" />
+  <HelpKINode Title="IAsynchronousQueue(Of T).ExtendLeaseAsync method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousQueue_1_ExtendLeaseAsync.htm" />
+  <HelpKINode Title="IAsynchronousQueue&lt;T&gt; interface">
+    <HelpKINode Title="IAsynchronousQueue(T) Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousQueue_1.htm" />
+    <HelpKINode Title="about IAsynchronousQueue&lt;T&gt; interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousQueue_1.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousQueue_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IAsynchronousQueue&lt;T&gt;.DequeueAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousQueue_1_DequeueAsync.htm" />
+  <HelpKINode Title="IAsynchronousQueue&lt;T&gt;.EnqueueAsync method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousQueue_1_EnqueueAsync.htm" />
+  <HelpKINode Title="IAsynchronousQueue&lt;T&gt;.ExtendLeaseAsync method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousQueue_1_ExtendLeaseAsync.htm" />
+  <HelpKINode Title="IAsynchronousSubscription(Of T) interface">
+    <HelpKINode Title="IAsynchronousSubscription(T) Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousSubscription_1.htm" />
+    <HelpKINode Title="about IAsynchronousSubscription(Of T) interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousSubscription_1.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousSubscription_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IAsynchronousSubscription(Of T).RecieveAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousSubscription_1_RecieveAsync.htm" />
+  <HelpKINode Title="IAsynchronousSubscription&lt;T&gt; interface">
+    <HelpKINode Title="IAsynchronousSubscription(T) Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousSubscription_1.htm" />
+    <HelpKINode Title="about IAsynchronousSubscription&lt;T&gt; interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousSubscription_1.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousSubscription_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IAsynchronousSubscription&lt;T&gt;.RecieveAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousSubscription_1_RecieveAsync.htm" />
+  <HelpKINode Title="IAsynchronousTopic(Of T) interface">
+    <HelpKINode Title="IAsynchronousTopic(T) Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousTopic_1.htm" />
+    <HelpKINode Title="about IAsynchronousTopic(Of T) interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousTopic_1.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousTopic_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IAsynchronousTopic(Of T).Send method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousTopic_1_Send.htm" />
+  <HelpKINode Title="IAsynchronousTopic(Of T).SendAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousTopic_1_SendAsync.htm" />
+  <HelpKINode Title="IAsynchronousTopic&lt;T&gt; interface">
+    <HelpKINode Title="IAsynchronousTopic(T) Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousTopic_1.htm" />
+    <HelpKINode Title="about IAsynchronousTopic&lt;T&gt; interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousTopic_1.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousTopic_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IAsynchronousTopic&lt;T&gt;.Send method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousTopic_1_Send.htm" />
+  <HelpKINode Title="IAsynchronousTopic&lt;T&gt;.SendAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousTopic_1_SendAsync.htm" />
+  <HelpKINode Title="IBackoffPolicy interface">
+    <HelpKINode Title="IBackoffPolicy Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Policies_IBackoffPolicy.htm" />
+    <HelpKINode Title="about IBackoffPolicy interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Policies_IBackoffPolicy.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Policies_IBackoffPolicy.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IBackoffPolicy.Execute method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Policies_IBackoffPolicy_Execute.htm" />
+  <HelpKINode Title="IBidirectionalMapper(Of T1, T2) interface">
+    <HelpKINode Title="IBidirectionalMapper(T1, T2) Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Mappers_IBidirectionalMapper_2.htm" />
+    <HelpKINode Title="about IBidirectionalMapper(Of T1, T2) interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Mappers_IBidirectionalMapper_2.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Mappers_IBidirectionalMapper_2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IBidirectionalMapper(Of T1, T2).Map method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Mappers_IBidirectionalMapper_2_Map.htm" />
+  <HelpKINode Title="IBidirectionalMapper&lt;T1, T2&gt; interface">
+    <HelpKINode Title="IBidirectionalMapper(T1, T2) Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Mappers_IBidirectionalMapper_2.htm" />
+    <HelpKINode Title="about IBidirectionalMapper&lt;T1, T2&gt; interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Mappers_IBidirectionalMapper_2.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Mappers_IBidirectionalMapper_2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IBidirectionalMapper&lt;T1, T2&gt;.Map method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Mappers_IBidirectionalMapper_2_Map.htm" />
+  <HelpKINode Title="IBlob interface">
+    <HelpKINode Title="IBlob Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Blobs_IBlob.htm" />
+    <HelpKINode Title="about IBlob interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Blobs_IBlob.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Blobs_IBlob.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Blobs_IBlob.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IBlob.DeleteAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Blobs_IBlob_DeleteAsync.htm" />
+  <HelpKINode Title="IBlob.DownloadAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Blobs_IBlob_DownloadAsync.htm" />
+  <HelpKINode Title="IBlob.DownloadBytesAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Blobs_IBlob_DownloadBytesAsync.htm" />
+  <HelpKINode Title="IBlob.DownloadString method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Blobs_IBlob_DownloadString.htm" />
+  <HelpKINode Title="IBlob.DownloadStringAsync method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Blobs_IBlob_DownloadStringAsync.htm" />
+  <HelpKINode Title="IBlob.GetUploadStream method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Blobs_IBlob_GetUploadStream.htm" />
+  <HelpKINode Title="IBlob.UploadBytesAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Blobs_IBlob_UploadBytesAsync.htm" />
+  <HelpKINode Title="IBlob.UploadImageAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Blobs_IBlob_UploadImageAsync.htm" />
+  <HelpKINode Title="IBlob.UploadStreamAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Blobs_IBlob_UploadStreamAsync.htm" />
+  <HelpKINode Title="IBlob.Url property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Blobs_IBlob_Url.htm" />
+  <HelpKINode Title="IBlobRepositoryFactory interface">
+    <HelpKINode Title="IBlobRepositoryFactory Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Blobs_IBlobRepositoryFactory.htm" />
+    <HelpKINode Title="about IBlobRepositoryFactory interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Blobs_IBlobRepositoryFactory.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Blobs_IBlobRepositoryFactory.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IBlobRepositoryFactory.CreateAsynchronousBlockBlobRepository method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Blobs_IBlobRepositoryFactory_CreateAsynchronousBlockBlobRepository.htm" />
+  <HelpKINode Title="IComponentHost interface">
+    <HelpKINode Title="IComponentHost Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Runtime_IComponentHost.htm" />
+    <HelpKINode Title="about IComponentHost interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Runtime_IComponentHost.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Runtime_IComponentHost.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Runtime_IComponentHost.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IComponentHost.CustomErrorHandler property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Runtime_IComponentHost_CustomErrorHandler.htm" />
+  <HelpKINode Title="IComponentHost.StartAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Runtime_IComponentHost_StartAsync.htm" />
+  <HelpKINode Title="IComponentHost.Stop method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Runtime_IComponentHost_Stop.htm" />
+  <HelpKINode Title="IComponentHostConfigurationProvider interface">
+    <HelpKINode Title="IComponentHostConfigurationProvider Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Runtime_IComponentHostConfigurationProvider.htm" />
+    <HelpKINode Title="about IComponentHostConfigurationProvider interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Runtime_IComponentHostConfigurationProvider.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Runtime_IComponentHostConfigurationProvider.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IComponentHostConfigurationProvider.GetConfigurationAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Runtime_IComponentHostConfigurationProvider_GetConfigurationAsync.htm" />
+  <HelpKINode Title="IComponentIdentity interface">
+    <HelpKINode Title="IComponentIdentity Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_IComponentIdentity.htm" />
+    <HelpKINode Title="about IComponentIdentity interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_IComponentIdentity.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Components_IComponentIdentity.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IConfiguration interface">
+    <HelpKINode Title="IConfiguration Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Configuration_IConfiguration.htm" />
+    <HelpKINode Title="about IConfiguration interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Configuration_IConfiguration.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Configuration_IConfiguration.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IConfiguration.Item property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_IConfiguration_Item.htm" />
+  <HelpKINode Title="IConfiguration.ServiceBusConnectionString property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_IConfiguration_ServiceBusConnectionString.htm" />
+  <HelpKINode Title="IConfiguration.SqlConnectionString property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_IConfiguration_SqlConnectionString.htm" />
+  <HelpKINode Title="IConfiguration.StorageAccountConnectionString property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_IConfiguration_StorageAccountConnectionString.htm" />
+  <HelpKINode Title="ICorrelationIdProvider interface">
+    <HelpKINode Title="ICorrelationIdProvider Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Logging_ICorrelationIdProvider.htm" />
+    <HelpKINode Title="about ICorrelationIdProvider interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Logging_ICorrelationIdProvider.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Logging_ICorrelationIdProvider.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ICorrelationIdProvider.CorrelationId property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Logging_ICorrelationIdProvider_CorrelationId.htm" />
+  <HelpKINode Title="IEmailManager interface">
+    <HelpKINode Title="IEmailManager Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Email_IEmailManager.htm" />
+    <HelpKINode Title="about IEmailManager interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Email_IEmailManager.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Email_IEmailManager.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IEmailProvider interface">
+    <HelpKINode Title="IEmailProvider Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Email_IEmailProvider.htm" />
+    <HelpKINode Title="about IEmailProvider interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Email_IEmailProvider.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Email_IEmailProvider.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IEmailProvider.SendAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Email_IEmailProvider_SendAsync.htm" />
+  <HelpKINode Title="IEmailQueueDispatcher interface">
+    <HelpKINode Title="IEmailQueueDispatcher Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Email_IEmailQueueDispatcher.htm" />
+    <HelpKINode Title="about IEmailQueueDispatcher interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Email_IEmailQueueDispatcher.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Email_IEmailQueueDispatcher.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IEmailQueueDispatcher.SendAsync method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Email_IEmailQueueDispatcher_SendAsync.htm" />
+  <HelpKINode Title="IFullyQualifiedName interface">
+    <HelpKINode Title="IFullyQualifiedName Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Naming_IFullyQualifiedName.htm" />
+    <HelpKINode Title="about IFullyQualifiedName interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Naming_IFullyQualifiedName.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Naming_IFullyQualifiedName.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IFullyQualifiedName.FullyQualifiedName property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Naming_IFullyQualifiedName_FullyQualifiedName.htm" />
+  <HelpKINode Title="IHostableComponent interface">
+    <HelpKINode Title="IHostableComponent Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_IHostableComponent.htm" />
+    <HelpKINode Title="about IHostableComponent interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_IHostableComponent.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Components_IHostableComponent.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Components_IHostableComponent.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IHostableComponent.StartAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IHostableComponent_StartAsync.htm" />
+  <HelpKINode Title="ILeasedRetry interface">
+    <HelpKINode Title="ILeasedRetry Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Policies_ILeasedRetry.htm" />
+    <HelpKINode Title="about ILeasedRetry interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Policies_ILeasedRetry.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Policies_ILeasedRetry.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ILeasedRetry.RetryAsync method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Policies_ILeasedRetry_RetryAsync.htm" />
+  <HelpKINode Title="ILeaseManager(Of T) interface">
+    <HelpKINode Title="ILeaseManager(T) Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Policies_ILeaseManager_1.htm" />
+    <HelpKINode Title="about ILeaseManager(Of T) interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Policies_ILeaseManager_1.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Policies_ILeaseManager_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ILeaseManager(Of T).CreateLeaseObjectIfNotExistAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Policies_ILeaseManager_1_CreateLeaseObjectIfNotExistAsync.htm" />
+  <HelpKINode Title="ILeaseManager(Of T).LeaseAsync method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Policies_ILeaseManager_1_LeaseAsync.htm" />
+  <HelpKINode Title="ILeaseManager(Of T).ReleaseAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Policies_ILeaseManager_1_ReleaseAsync.htm" />
+  <HelpKINode Title="ILeaseManager(Of T).RenewAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Policies_ILeaseManager_1_RenewAsync.htm" />
+  <HelpKINode Title="ILeaseManager&lt;T&gt; interface">
+    <HelpKINode Title="ILeaseManager(T) Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Policies_ILeaseManager_1.htm" />
+    <HelpKINode Title="about ILeaseManager&lt;T&gt; interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Policies_ILeaseManager_1.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Policies_ILeaseManager_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ILeaseManager&lt;T&gt;.CreateLeaseObjectIfNotExistAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Policies_ILeaseManager_1_CreateLeaseObjectIfNotExistAsync.htm" />
+  <HelpKINode Title="ILeaseManager&lt;T&gt;.LeaseAsync method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Policies_ILeaseManager_1_LeaseAsync.htm" />
+  <HelpKINode Title="ILeaseManager&lt;T&gt;.ReleaseAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Policies_ILeaseManager_1_ReleaseAsync.htm" />
+  <HelpKINode Title="ILeaseManager&lt;T&gt;.RenewAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Policies_ILeaseManager_1_RenewAsync.htm" />
+  <HelpKINode Title="ILeaseManagerFactory interface">
+    <HelpKINode Title="ILeaseManagerFactory Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Policies_ILeaseManagerFactory.htm" />
+    <HelpKINode Title="about ILeaseManagerFactory interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Policies_ILeaseManagerFactory.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Policies_ILeaseManagerFactory.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ILeaseManagerFactory.CreateLeaseManager(Of T) method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Policies_ILeaseManagerFactory_CreateLeaseManager__1.htm" />
+  <HelpKINode Title="ILeaseManagerFactory.CreateLeaseManager&lt;T&gt; method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Policies_ILeaseManagerFactory_CreateLeaseManager__1.htm" />
+  <HelpKINode Title="ILogger interface">
+    <HelpKINode Title="ILogger Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Logging_ILogger.htm" />
+    <HelpKINode Title="about ILogger interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Logging_ILogger.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Logging_ILogger.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ILogger.DebugAsync method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Logging_ILogger_DebugAsync.htm" />
+  <HelpKINode Title="ILogger.Error method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Logging_ILogger_Error.htm" />
+  <HelpKINode Title="ILogger.Information method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Logging_ILogger_Information.htm" />
+  <HelpKINode Title="ILogger.Log method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Logging_ILogger_Log.htm" />
+  <HelpKINode Title="ILogger.Warning method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Logging_ILogger_Warning.htm" />
+  <HelpKINode Title="ILoggerExtension interface">
+    <HelpKINode Title="ILoggerExtension Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Logging_ILoggerExtension.htm" />
+    <HelpKINode Title="about ILoggerExtension interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Logging_ILoggerExtension.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Logging_ILoggerExtension.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ILoggerExtension.BeforeLog method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Logging_ILoggerExtension_BeforeLog.htm" />
+  <HelpKINode Title="ILoggerFactory interface">
+    <HelpKINode Title="ILoggerFactory Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Logging_ILoggerFactory.htm" />
+    <HelpKINode Title="about ILoggerFactory interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Logging_ILoggerFactory.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Logging_ILoggerFactory.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ILoggerFactory.CreateLongLivedLogger method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Logging_ILoggerFactory_CreateLongLivedLogger.htm" />
+  <HelpKINode Title="ILoggerFactory.CreateShortLivedLogger method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Logging_ILoggerFactory_CreateShortLivedLogger.htm" />
+  <HelpKINode Title="ILoggerSource interface">
+    <HelpKINode Title="ILoggerSource Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Logging_ILoggerSource.htm" />
+    <HelpKINode Title="about ILoggerSource interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Logging_ILoggerSource.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Logging_ILoggerSource.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IMapper(Of T1, T2) interface">
+    <HelpKINode Title="IMapper(T1, T2) Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Mappers_IMapper_2.htm" />
+    <HelpKINode Title="about IMapper(Of T1, T2) interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Mappers_IMapper_2.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Mappers_IMapper_2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IMapper(Of T1, T2).Map method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Mappers_IMapper_2_Map.htm" />
+  <HelpKINode Title="IMapper&lt;T1, T2&gt; interface">
+    <HelpKINode Title="IMapper(T1, T2) Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Mappers_IMapper_2.htm" />
+    <HelpKINode Title="about IMapper&lt;T1, T2&gt; interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Mappers_IMapper_2.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Mappers_IMapper_2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IMapper&lt;T1, T2&gt;.Map method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Mappers_IMapper_2_Map.htm" />
+  <HelpKINode Title="IMapperWithContext(Of T1, T2, T3) interface">
+    <HelpKINode Title="IMapperWithContext(T1, T2, T3) Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Mappers_IMapperWithContext_3.htm" />
+    <HelpKINode Title="about IMapperWithContext(Of T1, T2, T3) interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Mappers_IMapperWithContext_3.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Mappers_IMapperWithContext_3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IMapperWithContext(Of T1, T2, T3).Map method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Mappers_IMapperWithContext_3_Map.htm" />
+  <HelpKINode Title="IMapperWithContext&lt;T1, T2, T3&gt; interface">
+    <HelpKINode Title="IMapperWithContext(T1, T2, T3) Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Mappers_IMapperWithContext_3.htm" />
+    <HelpKINode Title="about IMapperWithContext&lt;T1, T2, T3&gt; interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Mappers_IMapperWithContext_3.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Mappers_IMapperWithContext_3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IMapperWithContext&lt;T1, T2, T3&gt;.Map method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Mappers_IMapperWithContext_3_Map.htm" />
+  <HelpKINode Title="Information enumeration member" Url="html/T_AccidentalFish_ApplicationSupport_Core_Logging_LogLevelEnum.htm" />
+  <HelpKINode Title="Information method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Logging_ILogger_Information.htm" />
+  <HelpKINode Title="InnerExceptionName property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Logging_Model_LogQueueItem_InnerExceptionName.htm" />
+  <HelpKINode Title="Insert method">
+    <HelpKINode Title="IRepository(T).Insert Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepository_1_Insert.htm" />
+    <HelpKINode Title="IRepositoryAsync(T).Insert Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepositoryAsync_1_Insert.htm" />
+  </HelpKINode>
+  <HelpKINode Title="InsertOrUpdate method">
+    <HelpKINode Title="IRepository(T).InsertOrUpdate Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepository_1_InsertOrUpdate.htm" />
+    <HelpKINode Title="IRepositoryAsync(T).InsertOrUpdate Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepositoryAsync_1_InsertOrUpdate.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Instances property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Components_ComponentConfiguration_Instances.htm" />
+  <HelpKINode Title="IQueue(Of T) interface">
+    <HelpKINode Title="IQueue(T) Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Queues_IQueue_1.htm" />
+    <HelpKINode Title="about IQueue(Of T) interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Queues_IQueue_1.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Queues_IQueue_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IQueue(Of T).Dequeue method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Queues_IQueue_1_Dequeue.htm" />
+  <HelpKINode Title="IQueue(Of T).Enqueue method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IQueue_1_Enqueue.htm" />
+  <HelpKINode Title="IQueue(Of T).ExtendLease method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Queues_IQueue_1_ExtendLease.htm" />
+  <HelpKINode Title="IQueue&lt;T&gt; interface">
+    <HelpKINode Title="IQueue(T) Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Queues_IQueue_1.htm" />
+    <HelpKINode Title="about IQueue&lt;T&gt; interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Queues_IQueue_1.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Queues_IQueue_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IQueue&lt;T&gt;.Dequeue method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Queues_IQueue_1_Dequeue.htm" />
+  <HelpKINode Title="IQueue&lt;T&gt;.Enqueue method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IQueue_1_Enqueue.htm" />
+  <HelpKINode Title="IQueue&lt;T&gt;.ExtendLease method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Queues_IQueue_1_ExtendLease.htm" />
+  <HelpKINode Title="IQueueFactory interface">
+    <HelpKINode Title="IQueueFactory Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Queues_IQueueFactory.htm" />
+    <HelpKINode Title="about IQueueFactory interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Queues_IQueueFactory.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Queues_IQueueFactory.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IQueueFactory.CreateAsynchronousQueue method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Queues_IQueueFactory_CreateAsynchronousQueue.htm" />
+  <HelpKINode Title="IQueueFactory.CreateAsynchronousSubscription method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Queues_IQueueFactory_CreateAsynchronousSubscription.htm" />
+  <HelpKINode Title="IQueueFactory.CreateAsynchronousSubscriptionWithConfiguration method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Queues_IQueueFactory_CreateAsynchronousSubscriptionWithConfiguration.htm" />
+  <HelpKINode Title="IQueueFactory.CreateAsynchronousTopic method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Queues_IQueueFactory_CreateAsynchronousTopic.htm" />
+  <HelpKINode Title="IQueueFactory.CreateQueue method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Queues_IQueueFactory_CreateQueue.htm" />
+  <HelpKINode Title="IQueueItem(Of T) interface">
+    <HelpKINode Title="IQueueItem(T) Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Queues_IQueueItem_1.htm" />
+    <HelpKINode Title="about IQueueItem(Of T) interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Queues_IQueueItem_1.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Queues_IQueueItem_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IQueueItem(Of T).DequeueCount property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Queues_IQueueItem_1_DequeueCount.htm" />
+  <HelpKINode Title="IQueueItem(Of T).Item property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Queues_IQueueItem_1_Item.htm" />
+  <HelpKINode Title="IQueueItem&lt;T&gt; interface">
+    <HelpKINode Title="IQueueItem(T) Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Queues_IQueueItem_1.htm" />
+    <HelpKINode Title="about IQueueItem&lt;T&gt; interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Queues_IQueueItem_1.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Queues_IQueueItem_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IQueueItem&lt;T&gt;.DequeueCount property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Queues_IQueueItem_1_DequeueCount.htm" />
+  <HelpKINode Title="IQueueItem&lt;T&gt;.Item property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Queues_IQueueItem_1_Item.htm" />
+  <HelpKINode Title="IQueueSerializer interface">
+    <HelpKINode Title="IQueueSerializer Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Queues_IQueueSerializer.htm" />
+    <HelpKINode Title="about IQueueSerializer interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Queues_IQueueSerializer.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Queues_IQueueSerializer.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IQueueSerializer.Deserialize(Of T) method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IQueueSerializer_Deserialize__1.htm" />
+  <HelpKINode Title="IQueueSerializer.Deserialize&lt;T&gt; method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IQueueSerializer_Deserialize__1.htm" />
+  <HelpKINode Title="IQueueSerializer.Serialize(Of T) method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IQueueSerializer_Serialize__1.htm" />
+  <HelpKINode Title="IQueueSerializer.Serialize&lt;T&gt; method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IQueueSerializer_Serialize__1.htm" />
+  <HelpKINode Title="IRepository(Of T) interface">
+    <HelpKINode Title="IRepository(T) Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Repository_IRepository_1.htm" />
+    <HelpKINode Title="about IRepository(Of T) interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Repository_IRepository_1.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Repository_IRepository_1.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Repository_IRepository_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IRepository(Of T).All property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Repository_IRepository_1_All.htm" />
+  <HelpKINode Title="IRepository(Of T).AllIncluding method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepository_1_AllIncluding.htm" />
+  <HelpKINode Title="IRepository(Of T).Delete method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Repository_IRepository_1_Delete.htm" />
+  <HelpKINode Title="IRepository(Of T).Find method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepository_1_Find.htm" />
+  <HelpKINode Title="IRepository(Of T).Insert method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepository_1_Insert.htm" />
+  <HelpKINode Title="IRepository(Of T).InsertOrUpdate method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepository_1_InsertOrUpdate.htm" />
+  <HelpKINode Title="IRepository(Of T).Update method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepository_1_Update.htm" />
+  <HelpKINode Title="IRepository&lt;T&gt; interface">
+    <HelpKINode Title="IRepository(T) Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Repository_IRepository_1.htm" />
+    <HelpKINode Title="about IRepository&lt;T&gt; interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Repository_IRepository_1.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Repository_IRepository_1.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Repository_IRepository_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IRepository&lt;T&gt;.All property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Repository_IRepository_1_All.htm" />
+  <HelpKINode Title="IRepository&lt;T&gt;.AllIncluding method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepository_1_AllIncluding.htm" />
+  <HelpKINode Title="IRepository&lt;T&gt;.Delete method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Repository_IRepository_1_Delete.htm" />
+  <HelpKINode Title="IRepository&lt;T&gt;.Find method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepository_1_Find.htm" />
+  <HelpKINode Title="IRepository&lt;T&gt;.Insert method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepository_1_Insert.htm" />
+  <HelpKINode Title="IRepository&lt;T&gt;.InsertOrUpdate method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepository_1_InsertOrUpdate.htm" />
+  <HelpKINode Title="IRepository&lt;T&gt;.Update method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepository_1_Update.htm" />
+  <HelpKINode Title="IRepositoryAsync(Of T) interface">
+    <HelpKINode Title="IRepositoryAsync(T) Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Repository_IRepositoryAsync_1.htm" />
+    <HelpKINode Title="about IRepositoryAsync(Of T) interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Repository_IRepositoryAsync_1.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Repository_IRepositoryAsync_1.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Repository_IRepositoryAsync_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IRepositoryAsync(Of T).All property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Repository_IRepositoryAsync_1_All.htm" />
+  <HelpKINode Title="IRepositoryAsync(Of T).AllIncluding method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepositoryAsync_1_AllIncluding.htm" />
+  <HelpKINode Title="IRepositoryAsync(Of T).Delete method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepositoryAsync_1_Delete.htm" />
+  <HelpKINode Title="IRepositoryAsync(Of T).DeleteAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepositoryAsync_1_DeleteAsync.htm" />
+  <HelpKINode Title="IRepositoryAsync(Of T).FindAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepositoryAsync_1_FindAsync.htm" />
+  <HelpKINode Title="IRepositoryAsync(Of T).Insert method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepositoryAsync_1_Insert.htm" />
+  <HelpKINode Title="IRepositoryAsync(Of T).InsertOrUpdate method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepositoryAsync_1_InsertOrUpdate.htm" />
+  <HelpKINode Title="IRepositoryAsync(Of T).Update method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepositoryAsync_1_Update.htm" />
+  <HelpKINode Title="IRepositoryAsync&lt;T&gt; interface">
+    <HelpKINode Title="IRepositoryAsync(T) Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Repository_IRepositoryAsync_1.htm" />
+    <HelpKINode Title="about IRepositoryAsync&lt;T&gt; interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Repository_IRepositoryAsync_1.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Repository_IRepositoryAsync_1.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Repository_IRepositoryAsync_1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IRepositoryAsync&lt;T&gt;.All property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Repository_IRepositoryAsync_1_All.htm" />
+  <HelpKINode Title="IRepositoryAsync&lt;T&gt;.AllIncluding method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepositoryAsync_1_AllIncluding.htm" />
+  <HelpKINode Title="IRepositoryAsync&lt;T&gt;.Delete method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepositoryAsync_1_Delete.htm" />
+  <HelpKINode Title="IRepositoryAsync&lt;T&gt;.DeleteAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepositoryAsync_1_DeleteAsync.htm" />
+  <HelpKINode Title="IRepositoryAsync&lt;T&gt;.FindAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepositoryAsync_1_FindAsync.htm" />
+  <HelpKINode Title="IRepositoryAsync&lt;T&gt;.Insert method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepositoryAsync_1_Insert.htm" />
+  <HelpKINode Title="IRepositoryAsync&lt;T&gt;.InsertOrUpdate method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepositoryAsync_1_InsertOrUpdate.htm" />
+  <HelpKINode Title="IRepositoryAsync&lt;T&gt;.Update method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepositoryAsync_1_Update.htm" />
+  <HelpKINode Title="IResourceCreator interface">
+    <HelpKINode Title="IResourceCreator Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Policies_IResourceCreator.htm" />
+    <HelpKINode Title="about IResourceCreator interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Policies_IResourceCreator.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Policies_IResourceCreator.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IResourceCreator.CreateIfNotExistsAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Policies_IResourceCreator_CreateIfNotExistsAsync.htm" />
+  <HelpKINode Title="IRuntimeEnvironment interface">
+    <HelpKINode Title="IRuntimeEnvironment Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Runtime_IRuntimeEnvironment.htm" />
+    <HelpKINode Title="about IRuntimeEnvironment interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Runtime_IRuntimeEnvironment.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Runtime_IRuntimeEnvironment.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IRuntimeEnvironment.RoleIdentifier property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Runtime_IRuntimeEnvironment_RoleIdentifier.htm" />
+  <HelpKINode Title="IRuntimeEnvironment.RoleName property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Runtime_IRuntimeEnvironment_RoleName.htm" />
+  <HelpKINode Title="IsSet property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Threading_IWaitHandle_IsSet.htm" />
+  <HelpKINode Title="Item property">
+    <HelpKINode Title="IConfiguration.Item Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_IConfiguration_Item.htm" />
+    <HelpKINode Title="IQueueItem(T).Item Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Queues_IQueueItem_1_Item.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IUnitOfWork interface">
+    <HelpKINode Title="IUnitOfWork Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWork.htm" />
+    <HelpKINode Title="about IUnitOfWork interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWork.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWork.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IUnitOfWork.GetRepository(Of T) method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWork_GetRepository__1.htm" />
+  <HelpKINode Title="IUnitOfWork.GetRepository&lt;T&gt; method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWork_GetRepository__1.htm" />
+  <HelpKINode Title="IUnitOfWork.Save method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWork_Save.htm" />
+  <HelpKINode Title="IUnitOfWorkAsync interface">
+    <HelpKINode Title="IUnitOfWorkAsync Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWorkAsync.htm" />
+    <HelpKINode Title="about IUnitOfWorkAsync interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWorkAsync.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWorkAsync.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IUnitOfWorkAsync.GetRepository(Of T) method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWorkAsync_GetRepository__1.htm" />
+  <HelpKINode Title="IUnitOfWorkAsync.GetRepository&lt;T&gt; method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWorkAsync_GetRepository__1.htm" />
+  <HelpKINode Title="IUnitOfWorkAsync.GetRepositoryAsync(Of T) method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWorkAsync_GetRepositoryAsync__1.htm" />
+  <HelpKINode Title="IUnitOfWorkAsync.GetRepositoryAsync&lt;T&gt; method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWorkAsync_GetRepositoryAsync__1.htm" />
+  <HelpKINode Title="IUnitOfWorkAsync.OptimisticRepositoryWinsUpdateAsync method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWorkAsync_OptimisticRepositoryWinsUpdateAsync.htm" />
+  <HelpKINode Title="IUnitOfWorkAsync.SaveAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWorkAsync_SaveAsync.htm" />
+  <HelpKINode Title="IUnitOfWorkFactory interface">
+    <HelpKINode Title="IUnitOfWorkFactory Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWorkFactory.htm" />
+    <HelpKINode Title="about IUnitOfWorkFactory interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWorkFactory.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWorkFactory.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IUnitOfWorkFactory.Create method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWorkFactory_Create.htm" />
+  <HelpKINode Title="IUnitOfWorkFactory.CreateAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWorkFactory_CreateAsync.htm" />
+  <HelpKINode Title="IUnitOfWorkFactoryProvider interface">
+    <HelpKINode Title="IUnitOfWorkFactoryProvider Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWorkFactoryProvider.htm" />
+    <HelpKINode Title="about IUnitOfWorkFactoryProvider interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWorkFactoryProvider.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWorkFactoryProvider.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IUnitOfWorkFactoryProvider.Create method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWorkFactoryProvider_Create.htm" />
+  <HelpKINode Title="IWaitHandle interface">
+    <HelpKINode Title="IWaitHandle Interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Threading_IWaitHandle.htm" />
+    <HelpKINode Title="about IWaitHandle interface" Url="html/T_AccidentalFish_ApplicationSupport_Core_Threading_IWaitHandle.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Threading_IWaitHandle.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Threading_IWaitHandle.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IWaitHandle.IsSet property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Threading_IWaitHandle_IsSet.htm" />
+  <HelpKINode Title="IWaitHandle.Reset method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Threading_IWaitHandle_Reset.htm" />
+  <HelpKINode Title="IWaitHandle.Wait method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Threading_IWaitHandle_Wait.htm" />
+  <HelpKINode Title="Key property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponentSetting_Key.htm" />
+  <HelpKINode Title="LeaseAsync method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Policies_ILeaseManager_1_LeaseAsync.htm" />
+  <HelpKINode Title="Level property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Logging_Model_LogQueueItem_Level.htm" />
+  <HelpKINode Title="Log method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Logging_ILogger_Log.htm" />
+  <HelpKINode Title="LoggedAt property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Logging_Model_LogQueueItem_LoggedAt.htm" />
+  <HelpKINode Title="Logger property">
+    <HelpKINode Title="BackoffQueueProcessor(T).Logger Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffQueueProcessor_1_Logger.htm" />
+    <HelpKINode Title="BackoffSubscriptionProcessor(T).Logger Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffSubscriptionProcessor_1_Logger.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LoggerSource class">
+    <HelpKINode Title="LoggerSource Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Logging_LoggerSource.htm" />
+    <HelpKINode Title="about LoggerSource class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Logging_LoggerSource.htm" />
+    <HelpKINode Title="constructor" Url="html/M_AccidentalFish_ApplicationSupport_Core_Logging_LoggerSource__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Logging_LoggerSource.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Logging_LoggerSource.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LoggerSource.FullyQualifiedName property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Logging_LoggerSource_FullyQualifiedName.htm" />
+  <HelpKINode Title="LoggerSource.LoggerSource constructor" Url="html/M_AccidentalFish_ApplicationSupport_Core_Logging_LoggerSource__ctor.htm" />
+  <HelpKINode Title="LogLevelEnum enumeration" Url="html/T_AccidentalFish_ApplicationSupport_Core_Logging_LogLevelEnum.htm" />
+  <HelpKINode Title="LogQueueItem class">
+    <HelpKINode Title="LogQueueItem Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Logging_Model_LogQueueItem.htm" />
+    <HelpKINode Title="about LogQueueItem class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Logging_Model_LogQueueItem.htm" />
+    <HelpKINode Title="constructor" Url="html/M_AccidentalFish_ApplicationSupport_Core_Logging_Model_LogQueueItem__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Logging_Model_LogQueueItem.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Logging_Model_LogQueueItem.htm" />
+  </HelpKINode>
+  <HelpKINode Title="LogQueueItem.CorrelationId property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Logging_Model_LogQueueItem_CorrelationId.htm" />
+  <HelpKINode Title="LogQueueItem.ExceptionName property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Logging_Model_LogQueueItem_ExceptionName.htm" />
+  <HelpKINode Title="LogQueueItem.InnerExceptionName property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Logging_Model_LogQueueItem_InnerExceptionName.htm" />
+  <HelpKINode Title="LogQueueItem.Level property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Logging_Model_LogQueueItem_Level.htm" />
+  <HelpKINode Title="LogQueueItem.LoggedAt property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Logging_Model_LogQueueItem_LoggedAt.htm" />
+  <HelpKINode Title="LogQueueItem.LogQueueItem constructor" Url="html/M_AccidentalFish_ApplicationSupport_Core_Logging_Model_LogQueueItem__ctor.htm" />
+  <HelpKINode Title="LogQueueItem.Message property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Logging_Model_LogQueueItem_Message.htm" />
+  <HelpKINode Title="LogQueueItem.RoleIdentifier property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Logging_Model_LogQueueItem_RoleIdentifier.htm" />
+  <HelpKINode Title="LogQueueItem.RoleName property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Logging_Model_LogQueueItem_RoleName.htm" />
+  <HelpKINode Title="LogQueueItem.Source property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Logging_Model_LogQueueItem_Source.htm" />
+  <HelpKINode Title="LogQueueItem.StackTrace property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Logging_Model_LogQueueItem_StackTrace.htm" />
+  <HelpKINode Title="Map method">
+    <HelpKINode Title="AbstractBidirectionalMapper(T1, T2).Map Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractBidirectionalMapper_2_Map.htm" />
+    <HelpKINode Title="AbstractMapper(T1, T2).Map Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractMapper_2_Map.htm" />
+    <HelpKINode Title="AbstractMapperWithContext(T1, T2, T3).Map Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Mappers_AbstractMapperWithContext_3_Map.htm" />
+    <HelpKINode Title="IBidirectionalMapper(T1, T2).Map Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Mappers_IBidirectionalMapper_2_Map.htm" />
+    <HelpKINode Title="IMapper(T1, T2).Map Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Mappers_IMapper_2_Map.htm" />
+    <HelpKINode Title="IMapperWithContext(T1, T2, T3).Map Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Mappers_IMapperWithContext_3_Map.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MaxAgeSeconds property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationCorsRule_MaxAgeSeconds.htm" />
+  <HelpKINode Title="Merge method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfigurationSettings_Merge.htm" />
+  <HelpKINode Title="MergeData property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Email_EmailQueueItem_MergeData.htm" />
+  <HelpKINode Title="Message property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Logging_Model_LogQueueItem_Message.htm" />
+  <HelpKINode Title="MissingComponentIdentityException class">
+    <HelpKINode Title="MissingComponentIdentityException Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_MissingComponentIdentityException.htm" />
+    <HelpKINode Title="about MissingComponentIdentityException class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Components_MissingComponentIdentityException.htm" />
+    <HelpKINode Title="constructor" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_MissingComponentIdentityException__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_AccidentalFish_ApplicationSupport_Core_Components_MissingComponentIdentityException.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Components_MissingComponentIdentityException.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Components_MissingComponentIdentityException.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MissingComponentIdentityException.MissingComponentIdentityException constructor" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_MissingComponentIdentityException__ctor.htm" />
+  <HelpKINode Title="MissingSettingException class">
+    <HelpKINode Title="MissingSettingException Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Configuration_MissingSettingException.htm" />
+    <HelpKINode Title="about MissingSettingException class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Configuration_MissingSettingException.htm" />
+    <HelpKINode Title="constructor" Url="html/M_AccidentalFish_ApplicationSupport_Core_Configuration_MissingSettingException__ctor.htm" />
+    <HelpKINode Title="events" Url="html/Events_T_AccidentalFish_ApplicationSupport_Core_Configuration_MissingSettingException.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Configuration_MissingSettingException.htm" />
+    <HelpKINode Title="properties" Url="html/Properties_T_AccidentalFish_ApplicationSupport_Core_Configuration_MissingSettingException.htm" />
+  </HelpKINode>
+  <HelpKINode Title="MissingSettingException.MissingSettingException constructor" Url="html/M_AccidentalFish_ApplicationSupport_Core_Configuration_MissingSettingException__ctor.htm" />
+  <HelpKINode Title="Off enumeration member" Url="html/T_AccidentalFish_ApplicationSupport_Core_Configuration_BlobContainerPublicAccessTypeEnum.htm" />
+  <HelpKINode Title="OptimisticRepositoryWinsUpdateAsync method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWorkAsync_OptimisticRepositoryWinsUpdateAsync.htm" />
+  <HelpKINode Title="Queue enumeration member" Url="html/T_AccidentalFish_ApplicationSupport_Core_Bootstrapper_LoggerTypeEnum.htm" />
+  <HelpKINode Title="Queue property" Url="html/P_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffQueueProcessor_1_Queue.htm" />
+  <HelpKINode Title="RecieveAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousSubscription_1_RecieveAsync.htm" />
+  <HelpKINode Title="RegisterDependencies method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Bootstrapper_RegisterDependencies.htm" />
+  <HelpKINode Title="ReleaseAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Policies_ILeaseManager_1_ReleaseAsync.htm" />
+  <HelpKINode Title="RenewAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Policies_ILeaseManager_1_RenewAsync.htm" />
+  <HelpKINode Title="Reset method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Threading_IWaitHandle_Reset.htm" />
+  <HelpKINode Title="ResourceType property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponentSetting_ResourceType.htm" />
+  <HelpKINode Title="RestartEvaluator property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Components_ComponentConfiguration_RestartEvaluator.htm" />
+  <HelpKINode Title="RetryAsync method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Policies_ILeasedRetry_RetryAsync.htm" />
+  <HelpKINode Title="RoleIdentifier property">
+    <HelpKINode Title="IRuntimeEnvironment.RoleIdentifier Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Runtime_IRuntimeEnvironment_RoleIdentifier.htm" />
+    <HelpKINode Title="LogQueueItem.RoleIdentifier Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Logging_Model_LogQueueItem_RoleIdentifier.htm" />
+  </HelpKINode>
+  <HelpKINode Title="RoleName property">
+    <HelpKINode Title="IRuntimeEnvironment.RoleName Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Runtime_IRuntimeEnvironment_RoleName.htm" />
+    <HelpKINode Title="LogQueueItem.RoleName Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Logging_Model_LogQueueItem_RoleName.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Save method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWork_Save.htm" />
+  <HelpKINode Title="SaveAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IUnitOfWorkAsync_SaveAsync.htm" />
+  <HelpKINode Title="Send method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousTopic_1_Send.htm" />
+  <HelpKINode Title="SendAsync method">
+    <HelpKINode Title="IAlertSender.SendAsync Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Alerts_IAlertSender_SendAsync.htm" />
+    <HelpKINode Title="IAsynchronousTopic(T).SendAsync Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IAsynchronousTopic_1_SendAsync.htm" />
+    <HelpKINode Title="IEmailProvider.SendAsync Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Email_IEmailProvider_SendAsync.htm" />
+    <HelpKINode Title="IEmailQueueDispatcher.SendAsync Method " Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Email_IEmailQueueDispatcher_SendAsync.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Serialize(Of T) method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IQueueSerializer_Serialize__1.htm" />
+  <HelpKINode Title="Serialize&lt;T&gt; method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Queues_IQueueSerializer_Serialize__1.htm" />
+  <HelpKINode Title="ServiceBusConnectionString method">
+    <HelpKINode Title="ApplicationResourceSettingNameProvider.ServiceBusConnectionString Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ApplicationResourceSettingNameProvider_ServiceBusConnectionString.htm" />
+    <HelpKINode Title="IApplicationResourceSettingNameProvider.ServiceBusConnectionString Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingNameProvider_ServiceBusConnectionString.htm" />
+    <HelpKINode Title="IApplicationResourceSettingProvider.ServiceBusConnectionString Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingProvider_ServiceBusConnectionString.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ServiceBusConnectionString property">
+    <HelpKINode Title="ApplicationComponent.ServiceBusConnectionString Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_ServiceBusConnectionString.htm" />
+    <HelpKINode Title="IConfiguration.ServiceBusConnectionString Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_IConfiguration_ServiceBusConnectionString.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ServiceBusConnectionStrings property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfiguration_ServiceBusConnectionStrings.htm" />
+  <HelpKINode Title="Setting method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory_Setting.htm" />
+  <HelpKINode Title="SettingName method">
+    <HelpKINode Title="ApplicationResourceSettingNameProvider.SettingName Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ApplicationResourceSettingNameProvider_SettingName.htm" />
+    <HelpKINode Title="IApplicationResourceSettingNameProvider.SettingName Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingNameProvider_SettingName.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Settings property">
+    <HelpKINode Title="ApplicationComponent.Settings Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_Settings.htm" />
+    <HelpKINode Title="ApplicationConfigurationSettings.Settings Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfigurationSettings_Settings.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Source property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Logging_Model_LogQueueItem_Source.htm" />
+  <HelpKINode Title="SqlConnectionString method">
+    <HelpKINode Title="ApplicationResourceSettingNameProvider.SqlConnectionString Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ApplicationResourceSettingNameProvider_SqlConnectionString.htm" />
+    <HelpKINode Title="IApplicationResourceFactory.SqlConnectionString Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory_SqlConnectionString.htm" />
+    <HelpKINode Title="IApplicationResourceSettingNameProvider.SqlConnectionString Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingNameProvider_SqlConnectionString.htm" />
+    <HelpKINode Title="IApplicationResourceSettingProvider.SqlConnectionString Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingProvider_SqlConnectionString.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SqlConnectionString property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_IConfiguration_SqlConnectionString.htm" />
+  <HelpKINode Title="SqlContextType method">
+    <HelpKINode Title="ApplicationResourceSettingNameProvider.SqlContextType Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ApplicationResourceSettingNameProvider_SqlContextType.htm" />
+    <HelpKINode Title="IApplicationResourceSettingNameProvider.SqlContextType Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingNameProvider_SqlContextType.htm" />
+    <HelpKINode Title="IApplicationResourceSettingProvider.SqlContextType Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingProvider_SqlContextType.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SqlServerConnectionString property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_SqlServerConnectionString.htm" />
+  <HelpKINode Title="SqlServerConnectionStrings property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfiguration_SqlServerConnectionStrings.htm" />
+  <HelpKINode Title="StackTrace property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Logging_Model_LogQueueItem_StackTrace.htm" />
+  <HelpKINode Title="StartAsync method">
+    <HelpKINode Title="BackoffQueueProcessor(T).StartAsync Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffQueueProcessor_1_StartAsync.htm" />
+    <HelpKINode Title="BackoffSubscriptionProcessor(T).StartAsync Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffSubscriptionProcessor_1_StartAsync.htm" />
+    <HelpKINode Title="IComponentHost.StartAsync Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Runtime_IComponentHost_StartAsync.htm" />
+    <HelpKINode Title="IHostableComponent.StartAsync Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IHostableComponent_StartAsync.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StaticComponentHostConfigurationProvider class">
+    <HelpKINode Title="StaticComponentHostConfigurationProvider Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Runtime_StaticComponentHostConfigurationProvider.htm" />
+    <HelpKINode Title="about StaticComponentHostConfigurationProvider class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Runtime_StaticComponentHostConfigurationProvider.htm" />
+    <HelpKINode Title="constructor" Url="html/M_AccidentalFish_ApplicationSupport_Core_Runtime_StaticComponentHostConfigurationProvider__ctor.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Runtime_StaticComponentHostConfigurationProvider.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StaticComponentHostConfigurationProvider.GetConfigurationAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Runtime_StaticComponentHostConfigurationProvider_GetConfigurationAsync.htm" />
+  <HelpKINode Title="StaticComponentHostConfigurationProvider.StaticComponentHostConfigurationProvider constructor" Url="html/M_AccidentalFish_ApplicationSupport_Core_Runtime_StaticComponentHostConfigurationProvider__ctor.htm" />
+  <HelpKINode Title="Stop method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Runtime_IComponentHost_Stop.htm" />
+  <HelpKINode Title="StorageAccountConnectionString method">
+    <HelpKINode Title="ApplicationResourceSettingNameProvider.StorageAccountConnectionString Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_ApplicationResourceSettingNameProvider_StorageAccountConnectionString.htm" />
+    <HelpKINode Title="IApplicationResourceFactory.StorageAccountConnectionString Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceFactory_StorageAccountConnectionString.htm" />
+    <HelpKINode Title="IApplicationResourceSettingNameProvider.StorageAccountConnectionString Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingNameProvider_StorageAccountConnectionString.htm" />
+    <HelpKINode Title="IApplicationResourceSettingProvider.StorageAccountConnectionString Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Components_IApplicationResourceSettingProvider_StorageAccountConnectionString.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StorageAccountConnectionString property">
+    <HelpKINode Title="ApplicationComponent.StorageAccountConnectionString Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_StorageAccountConnectionString.htm" />
+    <HelpKINode Title="IConfiguration.StorageAccountConnectionString Property " Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_IConfiguration_StorageAccountConnectionString.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StorageAccounts property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationConfiguration_StorageAccounts.htm" />
+  <HelpKINode Title="StringExtensions class">
+    <HelpKINode Title="StringExtensions Class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Extensions_StringExtensions.htm" />
+    <HelpKINode Title="about StringExtensions class" Url="html/T_AccidentalFish_ApplicationSupport_Core_Extensions_StringExtensions.htm" />
+    <HelpKINode Title="methods" Url="html/Methods_T_AccidentalFish_ApplicationSupport_Core_Extensions_StringExtensions.htm" />
+  </HelpKINode>
+  <HelpKINode Title="StringExtensions.Base64Decode method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Extensions_StringExtensions_Base64Decode.htm" />
+  <HelpKINode Title="StringExtensions.Base64Encode method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Extensions_StringExtensions_Base64Encode.htm" />
+  <HelpKINode Title="Subject property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Email_EmailQueueItem_Subject.htm" />
+  <HelpKINode Title="Subscription property" Url="html/P_AccidentalFish_ApplicationSupport_Core_BackoffProcesses_BackoffSubscriptionProcessor_1_Subscription.htm" />
+  <HelpKINode Title="TableData property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_TableData.htm" />
+  <HelpKINode Title="TextBody property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Email_EmailQueueItem_TextBody.htm" />
+  <HelpKINode Title="To property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Email_EmailQueueItem_To.htm" />
+  <HelpKINode Title="ToString method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Naming_FullyQualifiedNameBase_ToString.htm" />
+  <HelpKINode Title="Update method">
+    <HelpKINode Title="IRepository(T).Update Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepository_1_Update.htm" />
+    <HelpKINode Title="IRepositoryAsync(T).Update Method " Url="html/M_AccidentalFish_ApplicationSupport_Core_Repository_IRepositoryAsync_1_Update.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Upload method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Blobs_IAsynchronousBlockBlobRepository_Upload.htm" />
+  <HelpKINode Title="UploadAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Blobs_IAsynchronousBlockBlobRepository_UploadAsync.htm" />
+  <HelpKINode Title="UploadBytesAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Blobs_IBlob_UploadBytesAsync.htm" />
+  <HelpKINode Title="UploadImageAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Blobs_IBlob_UploadImageAsync.htm" />
+  <HelpKINode Title="Uploads property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_Uploads.htm" />
+  <HelpKINode Title="UploadStreamAsync method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Blobs_IBlob_UploadStreamAsync.htm" />
+  <HelpKINode Title="Url property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Blobs_IBlob_Url.htm" />
+  <HelpKINode Title="UseCore method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Bootstrapper_UseCore.htm" />
+  <HelpKINode Title="UsesAzureStorage property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_UsesAzureStorage.htm" />
+  <HelpKINode Title="UsesServiceBus property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponent_UsesServiceBus.htm" />
+  <HelpKINode Title="Value property" Url="html/P_AccidentalFish_ApplicationSupport_Core_Configuration_ApplicationComponentSetting_Value.htm" />
+  <HelpKINode Title="Wait method" Url="html/M_AccidentalFish_ApplicationSupport_Core_Threading_IWaitHandle_Wait.htm" />
+  <HelpKINode Title="Warning enumeration member" Url="html/T_AccidentalFish_ApplicationSupport_Core_Logging_LogLevelEnum.htm" />
+  <HelpKINode Title="Warning method" Url="html/Overload_AccidentalFish_ApplicationSupport_Core_Logging_ILogger_Warning.htm" />
+</HelpKI>
